@@ -1,0 +1,27 @@
+.overlay {
+  width: min(100%, 360px);
+  padding: 0.75rem;
+  border: 1px dashed var(--color-border);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--color-surface) 80%, transparent);
+  text-align: center;
+}
+
+.canvas {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background: var(--color-background);
+}
+
+.caption {
+  margin: 0.5rem 0 0;
+  font-size: 0.875rem;
+  color: var(--color-parchment);
+}
+
+.placeholder {
+  margin: 0.35rem 0 0;
+  font-size: 0.75rem;
+  color: var(--color-ink-muted);
+}

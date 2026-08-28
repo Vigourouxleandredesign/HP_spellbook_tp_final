@@ -4,28 +4,29 @@
 
 ---
 
-## Phase 0 — Préparation
+## Phase 0 — Préparation ✅
 
 | Statut | Tâche | Responsable | Deadline |
 |:---:|---|---|---|
 | ✅ | Planning | — | 25/08 |
 | ✅ | Arborescence de navigation | — | 25/08 |
 | ✅ | Schéma d'intégration des données | — | 25/08 |
-| ⬜ | Wireframe / maquette Figma | Léandre | **28/08** |
-| ⬜ | Validation finale des docs de préparation | Léandre | **06/09** |
-| ⬜ | Init repo GitHub + commit des docs (`docs/`) | — | **06/09** |
+| ✅ | Wireframes desktop + mobile (SVG) | Léandre | 28/08 |
+| ✅ | Validation finale des docs de préparation | — | 28/08 |
+| ✅ | Repo GitHub + docs (`docs/`) | — | 28/08 |
 
 ---
 
-## Phase 1 — Fondations techniques
+## Phase 1 — Fondations techniques ✅
 
 | Statut | Tâche | Deadline |
 |:---:|---|---|
-| ⬜ | Setup React + Vite + React Three Fiber | **04/09** |
-| ⬜ | Structure des dossiers du projet | **04/09** |
-| ⬜ | Premier fetch API `/v1/spells` | **04/09** |
-| ⬜ | Pagination complète (~345 sorts) | **06/09** |
-| ⬜ | README + premier déploiement Netlify | **06/09** |
+| ✅ | Setup React + Vite + React Three Fiber | **04/09** |
+| ✅ | Structure des dossiers du projet | **04/09** |
+| ✅ | Premier fetch API `/v1/spells` | **04/09** |
+| ✅ | Pagination complète (~345 sorts) | **06/09** |
+| ✅ | README | **06/09** |
+| ➡️ | Déploiement Netlify | **22/10** *(fin de projet)* |
 
 **TP associé** : 04/09 (2h)
 
@@ -83,10 +84,10 @@
 |---|---|
 | Recherche API vs filtre local | Avant phase 3 (**02/10**) |
 | Affichage des images de sorts | Avant phase 2 (**20/09**) |
-| Image de couverture / 1re page (Figma) | **28/08** |
+| Image de couverture / 1re page | Avant phase 2 (**20/09**) |
 
 ---
 
 ## Prochaine action
 
-**Wireframe Figma** — deadline **28/08** · TP demain pour relecture et validation
+**Phase 2** — Livre 3D et feuilletage · deadline **27/09**
