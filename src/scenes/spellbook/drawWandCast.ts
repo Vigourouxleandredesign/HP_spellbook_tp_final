@@ -83,20 +83,22 @@ function samplePath(
 
   if (kind === 'swishFlick') {
     const cx = width * 0.5
-    const cy = height * 0.48
-    const radius = width * 0.3
-    if (p < 0.68) {
-      const angle = Math.PI + (p / 0.68) * Math.PI
+    const cy = height * 0.46
+    const radius = height * 0.22
+    const stemBottom = cy + radius * 1.55
+    const loopStart = Math.PI
+    const loopSweep = Math.PI * 1.5
+
+    if (p < 0.7) {
+      const angle = loopStart - (p / 0.7) * loopSweep
       return {
         x: cx + Math.cos(angle) * radius,
-        y: cy + Math.sin(angle) * radius * 0.72,
+        y: cy + Math.sin(angle) * radius,
       }
     }
-    const local = (p - 0.68) / 0.32
-    return {
-      x: cx + radius + local * width * 0.04,
-      y: lerp(cy, cy + height * 0.32, local ** 0.85),
-    }
+
+    const local = (p - 0.7) / 0.3
+    return { x: cx, y: lerp(cy - radius, stemBottom, local ** 0.92) }
   }
 
   if (kind === 'pullToward') {
@@ -343,7 +345,7 @@ function collectPoints(
   kind?: GestureKind | null,
 ): Point[] {
   const points: Point[] = []
-  const steps = Math.max(8, Math.ceil(progress * 70))
+  const steps = Math.max(8, Math.ceil(progress * 96))
   for (let i = 0; i <= steps; i += 1) {
     points.push(samplePath(description, (progress * i) / steps, kind))
   }
