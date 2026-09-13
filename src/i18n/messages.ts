@@ -31,17 +31,15 @@ export const messages = {
       'Flèches du clavier · clic sur la page gauche ou droite · première et dernière pages se rejoignent',
     unknownError: 'Erreur inconnue lors du chargement des sorts.',
     aboutTitle: 'À propos',
-    aboutP1Before:
-      'Exploration interactive 3D des sorts de l’univers Harry Potter. Chaque double-page du grimoire correspond à un sort issu de l’API ',
-    aboutP1Mid:
-      '. Les descriptions trop courtes sont complétées une fois pour toutes depuis le ',
-    aboutP1And: ' et l’',
-    aboutP1After:
-      ', stockées en local — aucun appel externe pendant la navigation. Passez du français à l’anglais avec le bouton en haut de page.',
+    aboutP1:
+      'Les sorts s’oublient vite, surtout loin des tables de bois et des rayonnages familiers. Ce grimoire a été ouvert pour les jeunes sorciers qui veulent continuer à réviser — même loin de leur bibliothèque favorite.',
     aboutP2:
-      'Feuilletez avec les flèches, le clavier ou un clic sur les pages. Recherchez un sort par nom, incantation ou catégorie pour ouvrir directement sa double-page.',
+      'C’est un projet étudiant, sans autre ambition que d’être clair : une double-page par sort, une recherche par nom ou incantation, le geste à découvrir, le français et l’anglais au bout d’un bouton.',
     aboutP3:
-      'Projet Front Avancé — MIAW. Stack : React, React Three Fiber, Three.js. Auteur : Léandre Vigouroux.',
+      'Réalisé dans le cadre du module Front Avancé (MIAW), par Léandre Vigouroux.',
+    aboutSourcesBefore: 'Sources : ',
+    aboutSourcesMid: ', ',
+    aboutSourcesAnd: ' et l’',
     bookSpell: 'Sort',
     bookEffect: 'Effet',
     bookIncantation: 'Incantation',
@@ -81,17 +79,15 @@ export const messages = {
       'Arrow keys · click the left or right page · first and last pages wrap around',
     unknownError: 'Unknown error while loading spells.',
     aboutTitle: 'About',
-    aboutP1Before:
-      'An interactive 3D exploration of spells from the Harry Potter universe. Each double-page in the grimoire is a spell from the ',
-    aboutP1Mid:
-      ' API. Short descriptions are filled in once and for all from the ',
-    aboutP1And: ' and the ',
-    aboutP1After:
-      ', stored locally — no external calls while you browse. Switch French and English with the button at the top of the page.',
+    aboutP1:
+      'Spells fade quickly, especially far from familiar wooden tables and well-worn shelves. This grimoire was opened for young witches and wizards who still want to revise — even far from their favourite library.',
     aboutP2:
-      'Turn pages with the arrows, the keyboard or a click on the pages. Search by name, incantation or category to open a spell’s spread.',
+      'It is a student project, with no ambition beyond being clear: one double-page per spell, a search by name or incantation, a movement to discover, French and English at the tap of a button.',
     aboutP3:
-      'Advanced Front-end project — MIAW. Stack: React, React Three Fiber, Three.js. Author: Léandre Vigouroux.',
+      'Made for the Advanced Front-end module (MIAW), by Léandre Vigouroux.',
+    aboutSourcesBefore: 'Sources: ',
+    aboutSourcesMid: ', the ',
+    aboutSourcesAnd: ' and the ',
     bookSpell: 'Spell',
     bookEffect: 'Effect',
     bookIncantation: 'Incantation',

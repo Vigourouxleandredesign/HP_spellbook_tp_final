@@ -21,6 +21,14 @@
   text-shadow: 0 1px 10px rgb(0 0 0 / 50%);
 }
 
+.sources {
+  margin: 0.15rem 0 0;
+  line-height: 1.55;
+  font-size: 0.82rem;
+  color: var(--color-parchment-muted);
+  text-shadow: 0 1px 8px rgb(0 0 0 / 45%);
+}
+
 .link {
   color: var(--color-accent-hover);
   text-underline-offset: 0.18em;
