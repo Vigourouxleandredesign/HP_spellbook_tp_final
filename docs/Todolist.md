@@ -32,34 +32,36 @@
 
 ---
 
-## Phase 2 — Livre 3D et feuilletage
+## Phase 2 — Livre 3D et feuilletage ✅
 
 | Statut | Tâche | Deadline |
 |:---:|---|---|
-| ⬜ | Scène 3D (caméra, lumières, canvas) | **20/09** |
-| ⬜ | Modèle du livre (couverture, pages) | **20/09** |
-| ⬜ | Animation de feuilletage | **27/09** |
-| ⬜ | Interactions souris / clavier | **27/09** |
-| ⬜ | Mapping sort → double-page | **27/09** |
-| ⬜ | Route `/spell/:slug` | **27/09** |
-| ⬜ | *(Optionnel)* Animation d'ouverture du livre | **27/09** |
+| ✅ | Scène 3D (caméra, lumières, canvas) | **20/09** |
+| ✅ | Modèle du livre (couverture, pages) | **20/09** |
+| ✅ | Animation de feuilletage | **27/09** |
+| ✅ | Interactions souris / clavier | **27/09** |
+| ✅ | Mapping sort → double-page | **27/09** |
+| ✅ | Route `/spell/:slug` | **27/09** |
+| — | *(Optionnel)* Animation d'ouverture du livre | **27/09** *(modèle low-poly : page uniquement)* |
 
 **Fenêtre critique** : 20/09 → 01/10 · ⛔ Entreprise 08/09 → 19/09
 
 ---
 
-## Phase 3 — Recherche et UI
+## Phase 3 — Recherche et UI ✅
 
 | Statut | Tâche | Deadline |
 |:---:|---|---|
-| ⬜ | Barre de recherche (overlay HTML) | **05/10** |
-| ⬜ | Filtrage des sorts | **05/10** |
-| ⬜ | Navigation vers la page du sort trouvé | **05/10** |
-| ⬜ | Affichage complet des attributs du sort | **05/10** |
-| ⬜ | États chargement / aucun résultat / erreur | **05/10** |
-| ⬜ | Section « À propos » (bas de page) | **08/10** |
+| ✅ | Barre de recherche (overlay HTML) | **05/10** |
+| ✅ | Filtrage des sorts | **05/10** |
+| ✅ | Navigation vers la page du sort trouvé | **05/10** |
+| ✅ | Affichage complet des attributs du sort (dans le livre) | **05/10** |
+| ✅ | États chargement / aucun résultat / erreur | **05/10** |
+| ✅ | Section « À propos » (bas de page) | **08/10** |
 
 **TP associé** : 02/10 (2h)
+
+Corrections après tests : pose ouverte au boot (`ArmatureAction.001` à t=0) ; plus de fiche HTML sous le livre ; défaut **Alohomora** ; navigation circulaire ; recherche toujours animée ; geste overlay si `hand`.
 
 ---
 
@@ -67,12 +69,12 @@
 
 | Statut | Tâche | Deadline |
 |:---:|---|---|
-| ⬜ | Responsive (3D conservé sur mobile) | **18/10** |
-| ⬜ | Styles finaux (alignés maquette Figma) | **18/10** |
+| ✅ | Responsive (3D conservé, caméra dézoomée mobile) | **18/10** |
+| ✅ | Styles / esthétique + geste baguette | **18/10** |
 | ⬜ | Fallback CORS (`spells.json` local si besoin) | **18/10** |
 | ⬜ | Tests manuels complets | **20/10** |
-| ⬜ | Déploiement Netlify final | **22/10** |
-| ⬜ | Envoi mail à francois.gillet@vacataire.unc.nc | **23/10** |
+| ⬜ | Déploiement Netlify final | **22/10** · *Léandre — pas avant demande explicite* |
+| ⬜ | Envoi mail à francois.gillet@vacataire.unc.nc | **23/10** · *Léandre uniquement* |
 
 **Buffer final** : week-end 18–19/10 + 21–22/10 · ⛔ Entreprise 09/10 → 20/10
 
@@ -82,12 +84,12 @@
 
 | Sujet | Deadline suggérée |
 |---|---|
-| Recherche API vs filtre local | Avant phase 3 (**02/10**) |
-| Affichage des images de sorts | Avant phase 2 (**20/09**) |
+| Recherche API vs filtre local | **Filtre local** (liste déjà en mémoire) |
+| Affichage des images de sorts | Affichées si l’API en fournit une |
 | Image de couverture / 1re page | Avant phase 2 (**20/09**) |
 
 ---
 
 ## Prochaine action
 
-**Phase 2** — Livre 3D et feuilletage · deadline **27/09**
+**Phase 4** — Contraste et finitions OK. Restent : tests manuels, Netlify et mail — seulement sur demande explicite.

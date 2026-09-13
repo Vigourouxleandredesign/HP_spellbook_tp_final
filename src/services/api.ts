@@ -25,14 +25,31 @@ function mapSpellResource(
 ): Spell {
   const { attributes } = resource
 
+  const name = attributes.name ?? ''
+  const category = attributes.category ?? ''
+  const effect = attributes.effect ?? ''
+  const light = attributes.light ?? null
+  const hand = attributes.hand ?? null
+
   return {
     slug: attributes.slug,
-    name: attributes.name,
+    name,
+    nameEn: name,
+    nameFr: name,
     incantation: attributes.incantation,
-    category: attributes.category,
-    effect: attributes.effect,
-    light: attributes.light,
-    hand: attributes.hand,
+    category,
+    categoryEn: category,
+    categoryFr: category,
+    effect,
+    effectEn: effect,
+    effectFr: effect,
+    light,
+    lightEn: light,
+    lightFr: light,
+    hand,
+    handEn: hand,
+    handFr: hand,
+    gestureKind: null,
     image: attributes.image,
   }
 }

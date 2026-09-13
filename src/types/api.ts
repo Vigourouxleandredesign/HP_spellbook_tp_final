@@ -24,8 +24,8 @@ export interface PotterDbSpellAttributes {
   slug: string
   name: string
   incantation: string | null
-  category: string
-  effect: string
+  category: string | null
+  effect: string | null
   light: string | null
   hand: string | null
   image: string | null

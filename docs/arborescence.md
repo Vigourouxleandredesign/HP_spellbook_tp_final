@@ -7,8 +7,8 @@
 ## Routes
 
 ```
-/                    → Livre ouvert (accueil)
-/spell/:slug         → Livre ouvert sur le sort demandé
+/                    → Livre ouvert sur Alohomora
+/spell/:slug         → Livre ouvert sur le sort demandé (inconnu → /)
 ```
 
 ---

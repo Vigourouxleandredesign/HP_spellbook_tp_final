@@ -1,0 +1,711 @@
+{
+  "generatedAt": "2026-09-13",
+  "note": "Gestes sourcés uniquement (livres, films, Hogwarts Legacy). Potter DB n’en documente presque aucun.",
+  "spells": {
+    "levitation-charm": {
+      "kind": "swishFlick",
+      "hand": {
+        "en": "A half-circle swish, then the wand is lowered — the flick taught by Flitwick.",
+        "fr": "Un demi-cercle (swish), puis on abaisse la baguette (flick) — le geste enseigné par Flitwick."
+      },
+      "source": {
+        "title": "Harry Potter and the Philosopher’s Stone",
+        "kind": "book-film",
+        "url": "https://www.harrypotter.com/fact-file/spells/the-levitation-charm"
+      }
+    },
+    "summoning-charm": {
+      "kind": "pullToward",
+      "hand": {
+        "en": "A drawing motion toward the caster, pulling the object in.",
+        "fr": "Un mouvement de rappel vers soi, comme pour attirer l’objet."
+      },
+      "source": {
+        "title": "Goblet of Fire · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "banishing-charm": {
+      "kind": "pushAway",
+      "hand": {
+        "en": "A sharp push away from the caster — the inverse of Accio.",
+        "fr": "Une poussée nette loin de soi — l’inverse d’Accio (Depulso)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "disarming-charm": {
+      "kind": "wristCircle",
+      "hand": {
+        "en": "A circular flick of the wrist, then the wand aims at the opponent.",
+        "fr": "Un mouvement circulaire du poignet, puis la baguette vise l’adversaire."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban onward · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "stunning-spell": {
+      "kind": "jab",
+      "hand": {
+        "en": "A straight thrust toward the target; often the follow-up after Protego.",
+        "fr": "Une estocade droite vers la cible ; souvent le riposte après Protego."
+      },
+      "source": {
+        "title": "Goblet of Fire · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "killing-curse": {
+      "kind": "downwardSlash",
+      "hand": {
+        "en": "A decisive downward cut, releasing a jet of green light.",
+        "fr": "Une entaille décisive vers le bas, d’où jaillit un jet de lumière verte."
+      },
+      "source": {
+        "title": "Goblet of Fire · later films",
+        "kind": "film"
+      }
+    },
+    "cruciatus-curse": {
+      "kind": "twist",
+      "hand": {
+        "en": "The wand is driven forward, then twisted as if wringing the victim.",
+        "fr": "La baguette est portée en avant, puis tordue comme pour broyer la victime."
+      },
+      "source": {
+        "title": "Goblet of Fire · Order of the Phoenix",
+        "kind": "film"
+      }
+    },
+    "imperius-curse": {
+      "kind": "point",
+      "hand": {
+        "en": "A calm, sustained point at the victim’s chest or brow.",
+        "fr": "Un pointage calme et tenu vers la poitrine ou le front de la victime."
+      },
+      "source": {
+        "title": "Goblet of Fire · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "patronus-charm": {
+      "kind": "spiral",
+      "hand": {
+        "en": "A rising spiral that gathers, then a thrust that releases the Patronus.",
+        "fr": "Une spirale ascendante qui se concentre, puis une estocade qui libère le Patronus."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban (film)",
+        "kind": "film"
+      }
+    },
+    "shield-charm": {
+      "kind": "shield",
+      "hand": {
+        "en": "An upward defensive sweep that raises a barrier in front of the caster.",
+        "fr": "Un balayage défensif vers le haut qui dresse un bouclier devant le lanceur."
+      },
+      "source": {
+        "title": "Order of the Phoenix · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "wand-lighting-charm": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "The wand is lifted; light blooms at the tip.",
+        "fr": "On dresse la baguette : la lumière naît à la pointe."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "wand-extinguishing-charm": {
+      "kind": "downwardSmash",
+      "hand": {
+        "en": "A short downward dip of the wand that snuffs the light.",
+        "fr": "Un bref abaissement de la baguette qui éteint la lumière."
+      },
+      "source": {
+        "title": "Films · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "unlocking-charm": {
+      "kind": "tap",
+      "hand": {
+        "en": "Point, then tap the lock or latch.",
+        "fr": "Pointer, puis tapoter la serrure ou le loquet."
+      },
+      "source": {
+        "title": "Philosopher’s Stone (film)",
+        "kind": "film"
+      }
+    },
+    "mending-charm": {
+      "kind": "mend",
+      "hand": {
+        "en": "Small circles over the break, as if stitching the object back together.",
+        "fr": "De petits cercles au-dessus de la cassure, comme pour recoudre l’objet."
+      },
+      "source": {
+        "title": "Chamber of Secrets · later films",
+        "kind": "film"
+      }
+    },
+    "oculus-reparo": {
+      "kind": "mend",
+      "hand": {
+        "en": "A brief circle over the broken spectacles, then a tap.",
+        "fr": "Un court cercle au-dessus des lunettes brisées, puis un tapotement."
+      },
+      "source": {
+        "title": "Chamber of Secrets (film)",
+        "kind": "film"
+      }
+    },
+    "fire-making-spell": {
+      "kind": "burst",
+      "hand": {
+        "en": "A short flick toward the target; flame leaps from the tip.",
+        "fr": "Un fouetté court vers la cible ; la flamme jaillit de la pointe."
+      },
+      "source": {
+        "title": "Films · Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "water-making-spell": {
+      "kind": "wave",
+      "hand": {
+        "en": "An undulating forward wave, as if pouring from the wand.",
+        "fr": "Une ondulation vers l’avant, comme si l’eau s’écoulait de la baguette."
+      },
+      "source": {
+        "title": "Half-Blood Prince · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "revelio-charm": {
+      "kind": "circleReveal",
+      "hand": {
+        "en": "A circle drawn in the air; hidden things light up around the caster.",
+        "fr": "Un cercle tracé dans l’air ; le caché s’illumine autour du lanceur."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "revealing-charm": {
+      "kind": "circleReveal",
+      "hand": {
+        "en": "A revealing circle that lays bare what was concealed.",
+        "fr": "Un cercle de révélation qui met à nu ce qui était caché."
+      },
+      "source": {
+        "title": "Books · Hogwarts Legacy",
+        "kind": "book"
+      }
+    },
+    "human-presence-revealing-spell": {
+      "kind": "circleReveal",
+      "hand": {
+        "en": "A slow circle, feeling for living presence in the room.",
+        "fr": "Un cercle lent, comme pour palper une présence vivante dans la pièce."
+      },
+      "source": {
+        "title": "Deathly Hallows",
+        "kind": "book"
+      }
+    },
+    "specialis-revelio": {
+      "kind": "circleReveal",
+      "hand": {
+        "en": "A tighter circle over the object under examination.",
+        "fr": "Un cercle plus serré au-dessus de l’objet à examiner."
+      },
+      "source": {
+        "title": "Half-Blood Prince",
+        "kind": "book"
+      }
+    },
+    "full-body-bind-curse": {
+      "kind": "point",
+      "hand": {
+        "en": "A direct point at the torso; the body locks at once.",
+        "fr": "Un pointage franc vers le torse ; le corps se fige d’un coup."
+      },
+      "source": {
+        "title": "Philosopher’s Stone (film)",
+        "kind": "film"
+      }
+    },
+    "severing-charm": {
+      "kind": "slash",
+      "hand": {
+        "en": "A clean lateral slash, as if cutting with a blade.",
+        "fr": "Une entaille latérale nette, comme un coup de lame (Diffindo)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "reductor-curse": {
+      "kind": "burst",
+      "hand": {
+        "en": "A violent forward blast that shatters the target.",
+        "fr": "Une décharge violente vers l’avant qui pulvérise la cible."
+      },
+      "source": {
+        "title": "Order of the Phoenix (film)",
+        "kind": "film"
+      }
+    },
+    "locking-spell": {
+      "kind": "tap",
+      "hand": {
+        "en": "Point at the lock, then a firm tap that seals it.",
+        "fr": "Pointer la serrure, puis un tapotement ferme qui la scelle."
+      },
+      "source": {
+        "title": "Order of the Phoenix",
+        "kind": "book"
+      }
+    },
+    "general-counter-spell": {
+      "kind": "slash",
+      "hand": {
+        "en": "A cutting slash that severs another spell’s effect.",
+        "fr": "Une entaille qui tranche l’effet d’un autre sort (Finite Incantatem)."
+      },
+      "source": {
+        "title": "Chamber of Secrets · films",
+        "kind": "book-film"
+      }
+    },
+    "disillusionment-charm": {
+      "kind": "wash",
+      "hand": {
+        "en": "A wash of the wand over the body, as if pouring invisibility down from the head.",
+        "fr": "On passe la baguette le long du corps, comme pour verser l’invisibilité depuis la tête."
+      },
+      "source": {
+        "title": "Deathly Hallows · Hogwarts Legacy",
+        "kind": "book"
+      }
+    },
+    "knockback-jinx": {
+      "kind": "flick",
+      "hand": {
+        "en": "An upward flick that knocks the target backward (Flipendo).",
+        "fr": "Un fouetté vers le haut qui projette la cible en arrière (Flipendo)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "freezing-spell": {
+      "kind": "freeze",
+      "hand": {
+        "en": "A descending spiral that coats the target in ice (Glacius).",
+        "fr": "Une spirale descendante qui gaine la cible de glace (Glacius)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "descending-charm": {
+      "kind": "downwardSmash",
+      "hand": {
+        "en": "A heavy downward smash that slams the target to the ground (Descendo).",
+        "fr": "Un coup descendant qui plaque la cible au sol (Descendo)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy · Deathly Hallows",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "hover-charm": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "A lift of the wand that raises the target and holds it aloft (Levioso).",
+        "fr": "On lève la baguette : la cible s’élève et reste en l’air (Levioso)."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "blasting-curse": {
+      "kind": "burst",
+      "hand": {
+        "en": "A long forward cast that detonates on impact (Confringo).",
+        "fr": "Un lancer long vers l’avant qui explose à l’impact (Confringo)."
+      },
+      "source": {
+        "title": "Deathly Hallows · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "bombardment-spell": {
+      "kind": "burst",
+      "hand": {
+        "en": "A compact explosive flick at a door, wall or lock (Bombarda).",
+        "fr": "Un fouetté explosif et compact vers une porte, un mur ou une serrure (Bombarda)."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban (film)",
+        "kind": "film"
+      }
+    },
+    "laceration-curse": {
+      "kind": "downwardSlash",
+      "hand": {
+        "en": "A vicious slashing arc — the movement Harry used for Sectumsempra.",
+        "fr": "Un arc d’entaille violent — le geste dont Harry se sert pour Sectumsempra."
+      },
+      "source": {
+        "title": "Half-Blood Prince",
+        "kind": "book"
+      }
+    },
+    "slowing-charm": {
+      "kind": "waveHorizontal",
+      "hand": {
+        "en": "A level horizontal wave that stills motion (Arresto Momentum).",
+        "fr": "Une onde horizontale qui fige le mouvement (Arresto Momentum)."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban (film) · Hogwarts Legacy",
+        "kind": "film"
+      }
+    },
+    "lumos-maxima": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "The wand is raised high and a burst of white light is thrown outward.",
+        "fr": "La baguette se dresse : un éclat de lumière blanche est projeté au loin."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban (film)",
+        "kind": "film"
+      }
+    },
+    "memory-charm": {
+      "kind": "circle",
+      "hand": {
+        "en": "A slow circle before the victim’s eyes, then a point at the temple.",
+        "fr": "Un cercle lent devant les yeux de la victime, puis un pointage à la tempe."
+      },
+      "source": {
+        "title": "Chamber of Secrets · Deathly Hallows (films)",
+        "kind": "film"
+      }
+    },
+    "four-point-spell": {
+      "kind": "point",
+      "hand": {
+        "en": "The wand is laid flat in the palm and turns to point north.",
+        "fr": "La baguette, posée à plat dans la paume, pivote pour indiquer le nord."
+      },
+      "source": {
+        "title": "Goblet of Fire",
+        "kind": "book"
+      }
+    },
+    "boggart-banishing-spell": {
+      "kind": "wave",
+      "hand": {
+        "en": "A confident wave while picturing the Boggart as something funny.",
+        "fr": "Une ondulation assurée, en imaginant l’épouvantard sous un jour ridicule."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban",
+        "kind": "book-film"
+      }
+    },
+    "incarcerous-spell": {
+      "kind": "circle",
+      "hand": {
+        "en": "A circling bind that wraps ropes around the target.",
+        "fr": "Un cercle d’entrave qui enroule des cordes autour de la cible."
+      },
+      "source": {
+        "title": "Order of the Phoenix (film)",
+        "kind": "film"
+      }
+    },
+    "impediment-jinx": {
+      "kind": "jab",
+      "hand": {
+        "en": "A short jab that checks the target mid-stride.",
+        "fr": "Un piqué court qui arrête la cible en pleine course."
+      },
+      "source": {
+        "title": "Goblet of Fire",
+        "kind": "book-film"
+      }
+    },
+    "ascendio": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "A sharp upward lift that flings the caster into the air.",
+        "fr": "Un lever brusque qui propulse le lanceur vers le haut."
+      },
+      "source": {
+        "title": "Goblet of Fire (film)",
+        "kind": "film"
+      }
+    },
+    "alarte-ascendare": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "Lockhart’s showy upward flourish that launches the target.",
+        "fr": "Le geste théâtral de Lockhart, un élan vers le haut qui projette la cible."
+      },
+      "source": {
+        "title": "Chamber of Secrets (film)",
+        "kind": "film"
+      }
+    },
+    "animation-charm": {
+      "kind": "wave",
+      "hand": {
+        "en": "A conductor’s sweep that brings statues to life (Piertotum Locomotor).",
+        "fr": "Un geste de chef d’orchestre qui anime les statues (Piertotum Locomotor)."
+      },
+      "source": {
+        "title": "Deathly Hallows (film)",
+        "kind": "film"
+      }
+    },
+    "snake-summons-spell": {
+      "kind": "slash",
+      "hand": {
+        "en": "A whipping slash from which a serpent is conjured (Serpensortia).",
+        "fr": "Un fouet d’entaille d’où jaillit un serpent (Serpensortia)."
+      },
+      "source": {
+        "title": "Chamber of Secrets (film)",
+        "kind": "film"
+      }
+    },
+    "protego-maxima": {
+      "kind": "shield",
+      "hand": {
+        "en": "A wide, raised sweep that throws a high defensive wall.",
+        "fr": "Un large balayage levé qui dresse une haute muraille de protection."
+      },
+      "source": {
+        "title": "Deathly Hallows (film)",
+        "kind": "film"
+      }
+    },
+    "fiendfyre": {
+      "kind": "spiral",
+      "hand": {
+        "en": "A wild, expanding spiral — cursed fire that takes beast-like shapes.",
+        "fr": "Une spirale déchaînée : le feu maudit prend forme de bêtes (Feudeymon)."
+      },
+      "source": {
+        "title": "Deathly Hallows (film)",
+        "kind": "film"
+      }
+    },
+    "morsmordre": {
+      "kind": "spiral",
+      "hand": {
+        "en": "The wand is pointed skyward in a rising coil that writes the Dark Mark.",
+        "fr": "La baguette pointe le ciel en une volute qui inscrit la Marque des Ténèbres."
+      },
+      "source": {
+        "title": "Goblet of Fire (film)",
+        "kind": "film"
+      }
+    },
+    "unbreakable-vow": {
+      "kind": "tap",
+      "hand": {
+        "en": "The Bonder’s wand touches the joined hands; tongues of fire bind the vow.",
+        "fr": "La baguette de l’Enchaîneur touche les mains jointes ; des langues de feu scellent le serment."
+      },
+      "source": {
+        "title": "Half-Blood Prince",
+        "kind": "book-film"
+      }
+    },
+    "lumos-duo": {
+      "kind": "jab",
+      "hand": {
+        "en": "A focused beam is thrown from the tip in a straight line.",
+        "fr": "Un faisceau concentré part de la pointe, en ligne droite."
+      },
+      "source": {
+        "title": "Prisoner of Azkaban (film)",
+        "kind": "film"
+      }
+    },
+    "flagrate": {
+      "kind": "arc",
+      "hand": {
+        "en": "The wand writes burning letters or marks in mid-air.",
+        "fr": "La baguette trace dans l’air des lettres ou des marques de feu."
+      },
+      "source": {
+        "title": "Order of the Phoenix",
+        "kind": "book"
+      }
+    },
+    "everte-statum": {
+      "kind": "jab",
+      "hand": {
+        "en": "A whipping jab that flings the opponent several feet back.",
+        "fr": "Un piqué fouetté qui envoie l’adversaire à plusieurs pieds en arrière."
+      },
+      "source": {
+        "title": "Chamber of Secrets (film)",
+        "kind": "film"
+      }
+    },
+    "reverse-spell": {
+      "kind": "wave",
+      "hand": {
+        "en": "Wands lock; a wave of reversed spells streams between them (Priori Incantatem).",
+        "fr": "Les baguettes s’unissent ; une onde de sorts inversés circule (Priori Incantatem)."
+      },
+      "source": {
+        "title": "Goblet of Fire",
+        "kind": "book-film"
+      }
+    },
+    "tickling-charm": {
+      "kind": "wave",
+      "hand": {
+        "en": "A light, dancing wave — the classroom charm used on Neville.",
+        "fr": "Une ondulation légère et dansante — le charme de classe utilisé sur Neville."
+      },
+      "source": {
+        "title": "Philosopher’s Stone",
+        "kind": "book"
+      }
+    },
+    "confundus-charm": {
+      "kind": "point",
+      "hand": {
+        "en": "A quick point at the head; the victim’s thoughts slip.",
+        "fr": "Un pointage vif vers la tête ; les pensées de la victime dérapent."
+      },
+      "source": {
+        "title": "Deathly Hallows",
+        "kind": "book"
+      }
+    },
+    "basic-cast": {
+      "kind": "jab",
+      "hand": {
+        "en": "The standard offensive jab used throughout Hogwarts Legacy.",
+        "fr": "Le piqué offensif de base, tel qu’il est lancé dans Hogwarts Legacy."
+      },
+      "source": {
+        "title": "Hogwarts Legacy",
+        "kind": "hogwarts-legacy"
+      }
+    },
+    "gouging-spell": {
+      "kind": "slash",
+      "hand": {
+        "en": "A carving slash that gouges earth or stone (Defodio).",
+        "fr": "Une entaille qui creuse la terre ou la pierre (Defodio)."
+      },
+      "source": {
+        "title": "Deathly Hallows",
+        "kind": "book"
+      }
+    },
+    "expulso-curse": {
+      "kind": "burst",
+      "hand": {
+        "en": "A concussive blast that hurls the target into a wall.",
+        "fr": "Une déflagration qui plaque la cible contre un mur."
+      },
+      "source": {
+        "title": "Deathly Hallows (film)",
+        "kind": "film"
+      }
+    },
+    "flame-freezing-charm": {
+      "kind": "wash",
+      "hand": {
+        "en": "A wash through the flames so they tickle instead of burning.",
+        "fr": "On passe la baguette dans les flammes : elles chatouillent au lieu de brûler."
+      },
+      "source": {
+        "title": "Goblet of Fire",
+        "kind": "book"
+      }
+    },
+    "sonorous-charm": {
+      "kind": "upwardLift",
+      "hand": {
+        "en": "The wand is raised to the throat, amplifying the voice.",
+        "fr": "On lève la baguette vers la gorge pour amplifier la voix."
+      },
+      "source": {
+        "title": "Goblet of Fire (film)",
+        "kind": "film"
+      }
+    },
+    "silencing-charm": {
+      "kind": "point",
+      "hand": {
+        "en": "A hush — the wand points at the mouth or the noisy object.",
+        "fr": "Un geste de silence : la baguette vise la bouche ou l’objet bruyant."
+      },
+      "source": {
+        "title": "Order of the Phoenix",
+        "kind": "book"
+      }
+    },
+    "leg-locker-curse": {
+      "kind": "point",
+      "hand": {
+        "en": "A downward point at the legs, locking them together.",
+        "fr": "Un pointage vers les jambes, qui se soudent l’une à l’autre."
+      },
+      "source": {
+        "title": "Philosopher’s Stone",
+        "kind": "book"
+      }
+    },
+    "protego-totalum": {
+      "kind": "shield",
+      "hand": {
+        "en": "A circular shield drawn around a camp or hiding place.",
+        "fr": "Un bouclier circulaire tracé autour d’un camp ou d’une cachette."
+      },
+      "source": {
+        "title": "Deathly Hallows",
+        "kind": "book"
+      }
+    },
+    "cave-inimicum": {
+      "kind": "circleReveal",
+      "hand": {
+        "en": "A protective boundary traced around the hiding place.",
+        "fr": "Une frontière protectrice tracée autour de la cachette."
+      },
+      "source": {
+        "title": "Deathly Hallows",
+        "kind": "book"
+      }
+    }
+  }
+}

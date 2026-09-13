@@ -1,0 +1,186 @@
+{
+  "unlocking-charm": {
+    "name": { "en": "Unlocking Charm", "fr": "Charme de déverrouillage" },
+    "effect": {
+      "en": "Unlocks doors and other locked objects.",
+      "fr": "Ouvre les portes et les objets verrouillés."
+    }
+  },
+  "summoning-charm": {
+    "name": { "en": "Summoning Charm", "fr": "Sortilège d’Attraction" }
+  },
+  "killing-curse": {
+    "name": { "en": "Killing Curse", "fr": "Sortilège de la Mort" }
+  },
+  "disarming-charm": {
+    "name": { "en": "Disarming Charm", "fr": "Sortilège de Désarmement" }
+  },
+  "levitation-charm": {
+    "name": { "en": "Levitation Charm", "fr": "Sortilège de Lévitation" }
+  },
+  "patronus-charm": {
+    "name": { "en": "Patronus Charm", "fr": "Sortilège du Patronus" }
+  },
+  "memory-charm": {
+    "name": { "en": "Memory Charm", "fr": "Sortilège de l’Oubli" }
+  },
+  "stunning-spell": {
+    "name": { "en": "Stunning Spell", "fr": "Sortilège de Stupéfaction" }
+  },
+  "shield-charm": {
+    "name": { "en": "Shield Charm", "fr": "Charme du Bouclier" }
+  },
+  "full-body-bind-curse": {
+    "name": { "en": "Full Body-Bind Curse", "fr": "Maléfice de Pétrification" }
+  },
+  "cruciatus-curse": {
+    "name": { "en": "Cruciatus Curse", "fr": "Sortilège Doloris" }
+  },
+  "imperius-curse": {
+    "name": { "en": "Imperius Curse", "fr": "Sortilège de l’Imperium" }
+  },
+  "confundus-charm": {
+    "name": { "en": "Confundus Charm", "fr": "Sortilège de Confusion" }
+  },
+  "banishing-charm": {
+    "name": { "en": "Banishing Charm", "fr": "Sortilège d’Expulsion" }
+  },
+  "engorgement-charm": {
+    "name": { "en": "Engorgement Charm", "fr": "Sortilège d’Engorgement" }
+  },
+  "severing-charm": {
+    "name": { "en": "Severing Charm", "fr": "Sortilège de Découpe" }
+  },
+  "locking-spell": {
+    "name": { "en": "Locking Spell", "fr": "Sortilège de Verrouillage" }
+  },
+  "water-making-spell": {
+    "name": { "en": "Water-Making Spell", "fr": "Sortilège Aguamenti" }
+  },
+  "wand-lighting-charm": {
+    "name": { "en": "Wand-Lighting Charm", "fr": "Charme de lumière" }
+  },
+  "wand-extinguishing-charm": {
+    "name": { "en": "Wand-Extinguishing Charm", "fr": "Charme d’extinction" }
+  },
+  "mending-charm": {
+    "name": { "en": "Mending Charm", "fr": "Sortilège de Réparation" }
+  },
+  "fire-making-spell": {
+    "name": { "en": "Fire-Making Spell", "fr": "Sortilège de Feu" }
+  },
+  "tickling-charm": {
+    "name": { "en": "Tickling Charm", "fr": "Sortilège de Chatouillis" }
+  },
+  "leg-locker-curse": {
+    "name": { "en": "Leg-Locker Curse", "fr": "Maléfice de Bloque-Jambes" }
+  },
+  "bat-bogey-hex": {
+    "name": { "en": "Bat-Bogey Hex", "fr": "Sortilège de Chauve-Furie" }
+  },
+  "trip-jinx": {
+    "name": { "en": "Trip Jinx", "fr": "Maléfice du Croche-Pied" }
+  },
+  "disillusionment-charm": {
+    "name": { "en": "Disillusionment Charm", "fr": "Sortilège de Désillusion" }
+  },
+  "vanishing-spell": {
+    "name": { "en": "Vanishing Spell", "fr": "Sortilège de Disparition" }
+  },
+  "fidelius-charm": {
+    "name": { "en": "Fidelius Charm", "fr": "Sortilège de Fidelitas" }
+  },
+  "flame-freezing-charm": {
+    "name": { "en": "Flame-Freezing Charm", "fr": "Sortilège de Gèle-Flamme" }
+  },
+  "permanent-sticking-charm": {
+    "name": { "en": "Permanent Sticking Charm", "fr": "Sortilège de Glu Perpétuelle" }
+  },
+  "cheering-charm": {
+    "name": { "en": "Cheering Charm", "fr": "Sortilège d’Allégresse" }
+  },
+  "hurling-hex": {
+    "name": { "en": "Hurling Hex", "fr": "Maléfice de Catapultage" }
+  },
+  "cushioning-charm": {
+    "name": { "en": "Cushioning Charm", "fr": "Sortilège de Coussinage" }
+  },
+  "gripping-charm": {
+    "name": { "en": "Gripping Charm", "fr": "Sortilège d’Empogne" }
+  },
+  "blasting-curse": {
+    "name": { "en": "Blasting Curse", "fr": "Sortilège d’Explosion" }
+  },
+  "extinguishing-spell": {
+    "name": { "en": "Extinguishing Spell", "fr": "Sortilège d’Extinction" }
+  },
+  "age-line": {
+    "name": { "en": "Age Line", "fr": "Limite d’âge" }
+  },
+  "reductor-curse": {
+    "name": { "en": "Reductor Curse", "fr": "Maléfice de Réduction" }
+  },
+  "stinging-jinx": {
+    "name": { "en": "Stinging Jinx", "fr": "Jinx de piqûre" }
+  },
+  "impediment-jinx": {
+    "name": { "en": "Impediment Jinx", "fr": "Jinx d’entrave" }
+  },
+  "revealing-charm": {
+    "name": { "en": "Revealing Charm", "fr": "Charme de révélation" }
+  },
+  "general-counter-spell": {
+    "name": { "en": "General Counter-Spell", "fr": "Contre-sort général" }
+  },
+  "apparition": {
+    "name": { "en": "Apparition", "fr": "Apparition" }
+  },
+  "disapparition": {
+    "name": { "en": "Disapparition", "fr": "Disparition" }
+  },
+  "hover-charm": {
+    "name": { "en": "Hover Charm", "fr": "Charme de sustentation" }
+  },
+  "softening-charm": {
+    "name": { "en": "Softening Charm", "fr": "Charme d’amortissement" }
+  },
+  "silencing-charm": {
+    "name": { "en": "Silencing Charm", "fr": "Charme du Silence" }
+  },
+  "sonorous-charm": {
+    "name": { "en": "Sonorous Charm", "fr": "Charme de Sonorus" }
+  },
+  "amplifying-charm": {
+    "name": { "en": "Amplifying Charm", "fr": "Charme d’amplification" }
+  },
+  "growth-charm": {
+    "name": { "en": "Growth Charm", "fr": "Charme de croissance" }
+  },
+  "shrinking-charm": {
+    "name": { "en": "Shrinking Charm", "fr": "Charme de rétrécissement" }
+  },
+  "colour-change-charm": {
+    "name": { "en": "Colour Change Charm", "fr": "Charme de changement de couleur" }
+  },
+  "switching-spell": {
+    "name": { "en": "Switching Spell", "fr": "Sortilège de permutation" }
+  },
+  "human-transfiguration": {
+    "name": { "en": "Human Transfiguration", "fr": "Métamorphose humaine" }
+  },
+  "unforgivable-curses": {
+    "name": { "en": "Unforgivable Curses", "fr": "Sortilèges Impardonnables" }
+  },
+  "reversis": {
+    "effect": {
+      "en": "A spell whose exact effect remains unknown.",
+      "fr": "Sort dont l’effet exact demeure inconnu."
+    }
+  },
+  "versis": {
+    "effect": {
+      "en": "A spell whose exact effect remains unknown.",
+      "fr": "Sort dont l’effet exact demeure inconnu."
+    }
+  }
+}

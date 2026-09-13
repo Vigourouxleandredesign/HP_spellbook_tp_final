@@ -1,30 +1,25 @@
-interface SceneLightsProps {
-  ambientIntensity: number
-  ambientColor: string
-  keyIntensity: number
-  keyColor: string
-  fillIntensity: number
-  fillColor: string
-}
+import type { SceneLightSettings } from '@/config/scene'
 
 export function SceneLights({
   ambientIntensity,
   ambientColor,
   keyIntensity,
   keyColor,
+  keyPosition,
   fillIntensity,
   fillColor,
-}: SceneLightsProps) {
+  fillPosition,
+}: SceneLightSettings) {
   return (
     <>
       <ambientLight intensity={ambientIntensity} color={ambientColor} />
       <directionalLight
-        position={[3, 4, 2]}
+        position={keyPosition}
         intensity={keyIntensity}
         color={keyColor}
       />
       <directionalLight
-        position={[-2, 1, -1]}
+        position={fillPosition}
         intensity={fillIntensity}
         color={fillColor}
       />

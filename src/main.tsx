@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { LocaleProvider } from '@/context/LocaleContext'
 import { applyColorTokens } from '@/styles/tokens/applyColorTokens'
 import App from '@/App'
 import '@/styles/global.css'
@@ -8,6 +9,8 @@ applyColorTokens()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <LocaleProvider>
+      <App />
+    </LocaleProvider>
   </StrictMode>,
 )

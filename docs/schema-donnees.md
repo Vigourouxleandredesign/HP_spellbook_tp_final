@@ -25,6 +25,28 @@ GET /v1/spells?filter[name_cont]= → Recherche par nom
 
 ---
 
+## Complément hors runtime (un seul JSON)
+
+Potter DB reste la source des sorts. Deux passages hors ligne alimentent un
+fichier unique `src/data/spell-enrichment.json` :
+
+1. `npm run enrich:fandom` → dump [Harry Potter Wiki](https://harrypotter.fandom.com)
+   (CC-BY-SA) dans `src/data/sources/fandom-enrichment.json`
+2. `npm run enrich:ehp` → dump [Encyclopédie HP](https://www.encyclopedie-hp.org/monde-magique/sorts/)
+   dans `src/data/sources/ehp-raw.json`
+3. `npm run enrich:synthesize` (ou `npm run enrich`) fusionne les deux : texte
+   anglais Fandom en priorité, français EHP si le trou reste, images wiki
+   seulement. L’app n’importe que le JSON fusionné : **aucun appel wiki/EHP
+   en navigation**. Le chrome du site est bilingue (FR/EN) et les fiches du
+   livre passent par `src/data/spell-i18n.json` (`npm run i18n:spells`) —
+   toujours aucun appel Fandom/EHP pendant la navigation. Les gestes de
+   baguette (sceau « Découvrir le geste ») viennent de
+   `src/data/sources/wand-gestures.json` : seulement les sorts dont le
+   mouvement est attesté dans les livres, les films ou Hogwarts Legacy —
+   Potter DB n’en documente presque aucun.
+
+Citer EHP avec un lien vers la page d’origine (condition d’usage du site).
+
 ## Flux de données
 
 ```
@@ -32,6 +54,9 @@ Potter DB API
       │
       ▼
   Service API (fetch + pagination)
+      │
+      ▼
+  Fusion JSON de soutien local (Fandom + EHP, trous seulement)
       │
       ▼
   State React (liste des sorts)
@@ -122,5 +147,5 @@ Liste complète en mémoire → livre prêt
 
 | Sujet | Décision |
 |---|---|
-| Recherche API vs filtre local | À définir en dev (les deux sont possibles) |
-| Affichage des images | Optionnel — selon faisabilité 3D / maquette Figma |
+| Recherche API vs filtre local | **Filtre local** sur la liste chargée (nom, incantation, catégorie) |
+| Affichage des images | Affichées sur la page droite du livre si l’API fournit `image` |

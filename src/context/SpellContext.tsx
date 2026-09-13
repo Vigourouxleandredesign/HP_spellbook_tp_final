@@ -1,14 +1,14 @@
 import {
   createContext,
-  useCallback,
   useContext,
-  useEffect,
   useMemo,
-  useState,
   type ReactNode,
 } from 'react'
+import { useLocale } from '@/context/LocaleContext'
 import { useSpells } from '@/hooks/useSpells'
 import { EMPTY_SPELL, type Spell } from '@/types/spell'
+import { resolvePageIndex } from '@/utils/findSpellIndex'
+import { localizeSpell } from '@/utils/localizeSpell'
 
 interface SpellContextValue {
   spells: Spell[]
@@ -16,9 +16,6 @@ interface SpellContextValue {
   currentPageIndex: number
   isLoading: boolean
   error: string | null
-  showGesture: boolean
-  setCurrentPageIndex: (index: number) => void
-  toggleGesture: () => void
   refetch: () => void
 }
 
@@ -30,30 +27,20 @@ interface SpellProviderProps {
 }
 
 export function SpellProvider({ children, initialSlug }: SpellProviderProps) {
-  const { spells, isLoading, error, refetch } = useSpells()
-  const [currentPageIndex, setCurrentPageIndex] = useState(0)
-  const [showGesture, setShowGesture] = useState(false)
+  const { locale } = useLocale()
+  const { spells: rawSpells, isLoading, error, refetch } = useSpells()
 
-  useEffect(() => {
-    if (!initialSlug || spells.length === 0) return
+  const spells = useMemo(
+    () => rawSpells.map((spell) => localizeSpell(spell, locale)),
+    [locale, rawSpells],
+  )
 
-    const index = spells.findIndex((spell) => spell.slug === initialSlug)
-    if (index >= 0) {
-      setCurrentPageIndex(index)
-    }
-  }, [initialSlug, spells])
+  const currentPageIndex = useMemo(
+    () => resolvePageIndex(spells, initialSlug),
+    [initialSlug, spells],
+  )
 
-  const currentSpell = useMemo(() => {
-    if (spells.length === 0) {
-      return EMPTY_SPELL
-    }
-
-    return spells[currentPageIndex] ?? EMPTY_SPELL
-  }, [currentPageIndex, spells])
-
-  const toggleGesture = useCallback(() => {
-    setShowGesture((value) => !value)
-  }, [])
+  const currentSpell = spells[currentPageIndex] ?? localizeSpell(EMPTY_SPELL, locale)
 
   const value = useMemo<SpellContextValue>(
     () => ({
@@ -62,21 +49,9 @@ export function SpellProvider({ children, initialSlug }: SpellProviderProps) {
       currentPageIndex,
       isLoading,
       error,
-      showGesture,
-      setCurrentPageIndex,
-      toggleGesture,
       refetch,
     }),
-    [
-      spells,
-      currentSpell,
-      currentPageIndex,
-      isLoading,
-      error,
-      showGesture,
-      toggleGesture,
-      refetch,
-    ],
+    [spells, currentSpell, currentPageIndex, isLoading, error, refetch],
   )
 
   return (

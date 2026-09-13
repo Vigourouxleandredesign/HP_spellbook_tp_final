@@ -7,7 +7,12 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "enrich:fandom": "node scripts/enrich-from-fandom.mjs",
+    "enrich:ehp": "node scripts/enrich-from-ehp.mjs",
+    "enrich:synthesize": "node scripts/synthesize-enrichment.mjs",
+    "enrich": "node scripts/enrich-from-ehp.mjs && node scripts/synthesize-enrichment.mjs",
+    "i18n:spells": "node scripts/build-spell-i18n.mjs",
+    "preview": "node scripts/preview-prod.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

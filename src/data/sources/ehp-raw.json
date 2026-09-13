@@ -1,0 +1,1623 @@
+{
+  "generatedAt": "2026-09-13T01:14:20.979Z",
+  "source": "https://www.encyclopedie-hp.org/monde-magique/sorts",
+  "unmatched": 94,
+  "entries": {
+    "summoning-charm": {
+      "id": "accio",
+      "heading": "Accio (\"Sortilège d'Attraction\")",
+      "nameFr": "Accio",
+      "nameEn": "",
+      "etymology": "\"accio\" L. envoyer vers, attirer",
+      "effect": "Fait voler vers soi un objet, même sur une bonne distance. Il semble que l'auteur du sort doive connaître au moins de façon approximative l'endroit où se trouve l'objet à attirer.",
+      "examples": [
+        "Mrs Weasley utilise une série de sortilèges d'Attraction pour trouver les objets magiques que les jumeaux essayent de sortir en douce de la maison (CF6).",
+        "Harry apprend le sortilège d'Attraction pour la première tâche , quand il attire à lui son Éclair de Feu pour voler autour du dragon (CF20).",
+        "Maugrey utilise le sortilège d'Attraction pour attraper la Carte du Maraudeur dans l'escalier (CF25).",
+        "Harry utilise ce sortilège pour attraper la Coupe du Tournoi des Trois Sorciers et échapper à Voldemort et ses Mangemorts (CF34).",
+        "utilisé plusieurs fois durant la bataille du Département des mystères par les deux parties. Les plus remarquables sont celles des Mangemorts essayant d'attirer la sphère de la Prophétie, celle d'Hermione pour attraper les baguettes après un sortilège de Désarmement et la plus mémorable étant celle de Ron, titubant comme un ivrogne dans le Salle des Cerveaux (OP35)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#accio",
+      "potterSlug": "summoning-charm",
+      "matchScore": 100
+    },
+    "water-making-spell": {
+      "id": "aguamenti",
+      "heading": "Aguamenti (agwa-mèn-ti)",
+      "nameFr": "Aguamenti",
+      "nameEn": "",
+      "etymology": "agua\" = \"eau\" en espagnol (du latin \"aqua\") + \"mentis\" = \"esprit\" en latin",
+      "effect": "Sortilège qui fait apparaître une fontaine ou un jet d'eau de la baguette.",
+      "examples": [
+        "Appris durant le cours de sortilège de sixième année au début du mois de septembre (PSM1). Chose insolite, les sixième année travaillent aussi sur ce sortilège ou quelque chose de similaire après le Nouvel An (PSM17)",
+        "Utilisé par Harry sur la coupe de cristal de Dumbledore dans la cave du médaillon horcruxe , mais, apparemment, les effets de la potion précédente faisaient disparaître l'eau avant que Dumbledore ne puisse la boire (PSM26)",
+        "Harry et Hagrid utilisèrent ensemble ce sortilège sur la cabane de ce dernier lorsqu'elle était en feu (PSM28).",
+        "Voir les sortilèges d'Apparition."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#aguamenti",
+      "potterSlug": "water-making-spell",
+      "matchScore": 100
+    },
+    "cheering-charm": {
+      "id": "allegresse-sortilege",
+      "heading": "Allégresse, sortilège d' [Cheering Charm]",
+      "nameFr": "Allégresse, sortilège d'",
+      "nameEn": "Cheering Charm",
+      "etymology": "pas de formule connue",
+      "effect": "Donne une durable sensation de contentement, rend heureux.",
+      "examples": [
+        "Les sortilèges d'Allégresse sont au programme du cours de sortilèges étudiés en troisième année. Ils font partie des examens de fin d'année (PA15).",
+        "inventé par Felix Summerbee au 15e siècle (CSC).",
+        "Les charmes de Réjouissance font partie des épreuves écrites de l'examen de théorie des sortilèges des B.U.S.E.. Hermione se demande si elle a dit tout ce qu'elle savait, mais comme elle a inclus l'antisort contre les hoquets dans sa réponse il semble probable qu'elle soit plus que suffisante (OP31)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#allegresse-sortilege",
+      "potterSlug": "cheering-charm",
+      "matchScore": 100
+    },
+    "unlocking-charm": {
+      "id": "alohomora",
+      "heading": "Alohomora",
+      "nameFr": "Alohomora",
+      "nameEn": "",
+      "etymology": "[NOTE : Ceci n'est pas considéré comme canonique, même si c'est très probable]",
+      "effect": "Formule pour ouvrir une porte verrouillée.",
+      "examples": [
+        "Hermione utilise cette formule pour faire entrer Ron, Harry et elle-même dans le couloir interdit du troisième étage (ES9), mais il ne fonctionne pas sur la porte de la salle des clefs ailées qui garde l'accès à la salle de la Pierre Philosophale (ES16)",
+        "Hermione utilise cette formule sur la fenêtre de Flitwick quand Harry, Buck et elle sauvent Sirius (PA21)",
+        "nécessaire pour ouvrir les portes de la salle Janus Thickey à l' hôpital Ste Mangouste , probablement pour que les visiteurs et les Guérisseurs puissent passer mais que les malades ne puissent pas y parvenir sans leurs baguettes (OP23)",
+        "Harry était convaincu que la porte du bureau d'Ombrage était enchantée pour qu'Alohomora ne permette pas de l'ouvrir (OP29)",
+        "Une des portes du Département des mystères résiste à Alohomora, mais aussi au Couteau de Poche de Harry (OP34)",
+        "Les Mangemorts utilisent ce sort pour ouvrir les portes fermées par l'A.D. dans le Département des mystères (OP35)",
+        "Cette formule est supposée figurer dans le Livre des Sorts et Enchantements , chapitre sept (ES/f) [NOTE : Ceci n'est pas considéré comme canonique, même si c'est très probable]"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#alohomora",
+      "potterSlug": "unlocking-charm",
+      "matchScore": 100
+    },
+    "memory-charm": {
+      "id": "amnesie-sortilege",
+      "heading": "Amnésie, sortilège d' [Memory Charm]",
+      "nameFr": "Amnésie, sortilège d'",
+      "nameEn": "Memory Charm",
+      "etymology": "",
+      "effect": "Voir OUBLIETTES",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#amnesie-sortilege",
+      "potterSlug": "memory-charm",
+      "matchScore": 100
+    },
+    "engorgement-charm": {
+      "id": "amplificatum",
+      "heading": "Amplificatum [Engorgio] (sortilège d'Engorgement, sortilège de Gavage, [Engorgement Charm] (CS7) )",
+      "nameFr": "Amplificatum   )",
+      "nameEn": "Engorgio",
+      "etymology": "",
+      "effect": "Sort faisant grossir la cible.",
+      "examples": [
+        "Hermione suspecte que Hagrid utilise un sortilège de Gavage sur ses citrouilles (CS7).",
+        "Bartemius Croupton Jr., sous l'apparence du professeur Maugrey, a aussi utilisé ce sortilège sur l'une des araignées apportées en classe pour sa leçon sur les Sortilèges Impardonnables (CF14).",
+        "Les jumeaux ont placé ce sort dans les Pralines Longue Langue qu'ils ont \"accidentellement\" laissé tomber devant Dudley (CF4).",
+        "Kevin , très jeune sorcier du camping de la Coupe du Monde, lançait un sortilège d'Engorgement (ou quelque chose de très similaire) sur une limace (CF7)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#amplificatum",
+      "potterSlug": "engorgement-charm",
+      "matchScore": 100
+    },
+    "anapneo": {
+      "id": "anapneo",
+      "heading": "Anapneo",
+      "nameFr": "Anapneo",
+      "nameEn": "",
+      "etymology": "\"anapneo\" = \"souffle\" en grec (un grand merci à ceux qui nous ont écrit et suggéré de chercher la source de se terme dans le grec)",
+      "effect": "Sortilège qui libère la trachée de la cible si elle est bloquée.",
+      "examples": [
+        "Slughorn lança ce sortilège sur Marcus Belby lorsque ce dernier s'étouffait après avoir avalé trop vite pour répondre à une question (PSM7)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#anapneo",
+      "potterSlug": "anapneo",
+      "matchScore": 100
+    },
+    "killing-curse": {
+      "id": "avada-kedavra",
+      "heading": "Avada Kedavra [Killing Curse] (sortilège de la Mort)",
+      "nameFr": "Avada Kedavra",
+      "nameEn": "Killing Curse",
+      "etymology": "Araméen : \"adhadda kedhabhra\" - \"que la chose soit détruite\". NOTE : \"Abracadabra\" est une formule cabalistique de la mythologie judaïque supposée procurer des pouvoir de guérisseur. Il proviendrait de l'araméen \"avada kedavra\" ou de l'alphabet phénicien (a-bra-ca-dabra).",
+      "effect": "Provoque la mort instantanée dans un éclair de lumière verte.",
+      "examples": [
+        "Un des Sortilèges Impardonnables (CF14), réputé imparable et sans contre-sort, cependant Dumbledore s'arrange pour protéger Harry en interposant des statues sur la trajectoire pendant son duel avec Voldemort au Ministère (OP36).",
+        "La formule produit un jet (OP36) ou un éclair (CF14) de lumière verte, et un bruit semblable à une rafale de vent, comme si quelque chose d'invisible et d'énorme prenait brusquement son vol (CF1, CF14)",
+        "On ne connaît qu'une personne ayant survécu au sortilège de la Mort, c'est Harry Potter (ES1, CF14 et CF34).",
+        "C'est probablement le sort utilisé par Voldemort pour assassiner son père et ses grands-parents, qui ont étés retrouvés sans aucune marque et ayant sur le visage une expression de terreur ; l'autopsie pratiquée par des Moldus n'a pu déterminer les causes de leur mort (CF1).",
+        "Voldemort lance lui-même l'Avada Kedavra pour assassiner Frank Bryce (CF1), Bertha Jorkins (CF33) et les parents de Harry (CF34).",
+        "Queudver, sur ordre de Voldemort, utilise Avada Kedavra pour tuer Cedric Diggory avec la baguette de Voldemort (CF32).",
+        "Un Mangemort l'utilise sur Hermione dans la bataille du Département des mystères, mais il est interrompu par Harry au milieu de la formule magique (OP35).",
+        "Voldemort a essayé d'utiliser Avada Kedavra sur Harry (ne le lui a-t-on jamais dit ?) et sur Dumbledore après la bataille du Département des mystères. A un moment donné, Fumseck avale un des rayons tout entiers (OP36)",
+        "\"Cette phrase (...) était utilisée par les anciens Sorciers pour faire disparaître des maladies. Il n'y a pas de preuve qu'elle n'ait jamais tué quiconque.\" (pp.17-19)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#avada-kedavra",
+      "potterSlug": "killing-curse",
+      "matchScore": 100
+    },
+    "bird-conjuring-charm": {
+      "id": "avis",
+      "heading": "Avis",
+      "nameFr": "Avis",
+      "nameEn": "",
+      "etymology": "avis\" L. oiseau",
+      "effect": "Fait apparaître une volée de petits oiseaux gazouillants.",
+      "examples": [
+        "Mr Ollivander utilise cette formule pour tester la baguette de Viktor Krum lors de l' Examen des Baguettes , lâchant les oiseaux par la fenêtre (CF18)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#avis",
+      "potterSlug": "bird-conjuring-charm",
+      "matchScore": 100
+    },
+    "babbling-curse": {
+      "id": "babillage-sortilege",
+      "heading": "Babillage, sortilège de [Babbling Curse]",
+      "nameFr": "Babillage, sortilège de",
+      "nameEn": "Babbling Curse",
+      "etymology": "Pas de formule connue.",
+      "effect": "Effet exact mal connu ; on suppose qu'il fait babiller la victime.",
+      "examples": [
+        "Lockhart a soi-disant guéri un villageois de Transylvanie de cette affection (CS10)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/b/#babillage-sortilege",
+      "potterSlug": "babbling-curse",
+      "matchScore": 100
+    },
+    "leg-locker-curse": {
+      "id": "bloque-jambes-malefice-de",
+      "heading": "Bloque-Jambes, maléfice de [Leg-Locker Curse]",
+      "nameFr": "Bloque-Jambes, maléfice de",
+      "nameEn": "Leg-Locker Curse",
+      "etymology": "",
+      "effect": "Voir LOCOMOTOR MORTIS",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/b/#bloque-jambes-malefice-de",
+      "potterSlug": "leg-locker-curse",
+      "matchScore": 100
+    },
+    "shield-charm": {
+      "id": "bouclier-charme",
+      "heading": "Bouclier, charme du [Shield Charm]",
+      "nameFr": "Bouclier, charme du",
+      "nameEn": "Shield Charm",
+      "etymology": "\"Protego\"",
+      "effect": "Ce sort crée une barrière magique qui dévie les maléfices envoyés à son auteur.",
+      "examples": [
+        "Harry a appris ce sort durant sa préparation à la troisième tâche du Tournoi des Trois Sorciers (CF31).",
+        "Harry utilise le charme du Bouclier pour se protéger et empêcher des Mangemorts d'attirer la prophétie pendant la bataille au Département des mystères (OP35-36)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/b/#bouclier-charme",
+      "potterSlug": "shield-charm",
+      "matchScore": 100
+    },
+    "hurling-hex": {
+      "id": "catapultage-malefice-de",
+      "heading": "Catapultage, maléfice de [Hurling Hex]",
+      "nameFr": "Catapultage, maléfice de",
+      "nameEn": "Hurling Hex",
+      "etymology": "Pas de formule connue.",
+      "effect": "Un maléfice assez vache qui peut être placé sur un balai et probablement provoquer la chute du conducteur.",
+      "examples": [
+        "Quand Flitwick démontait l'Eclair de Feu de Harry pour détecter des maléfices, celui-ci était recherché (PA)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#catapultage-malefice-de",
+      "potterSlug": "hurling-hex",
+      "matchScore": 100
+    },
+    "tickling-charm": {
+      "id": "chatouillis-sortilege",
+      "heading": "Chatouillis, sortilège de [Tickling Charm]",
+      "nameFr": "Chatouillis, sortilège de",
+      "nameEn": "Tickling Charm",
+      "etymology": "",
+      "effect": "Voir RICTUSEMPRA",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#chatouillis-sortilege",
+      "potterSlug": "tickling-charm",
+      "matchScore": 100
+    },
+    "bat-bogey-hex": {
+      "id": "chauve-furie-sortilege",
+      "heading": "Chauve-Furie, sortilège de [Bat-Bogey Hex]",
+      "nameFr": "Chauve-Furie, sortilège de",
+      "nameEn": "Bat-Bogey Hex",
+      "etymology": "Pas de formule connue.",
+      "effect": "Fait se couvrir le visage de la victime de sortes de chauve-souris qui battent des ailes en tous sens.",
+      "examples": [
+        "Une spécialité de Ginny Weasley ; elle l'utilise sur Drago Malefoy pour s'échapper du bureau d'Ombrage ; cela impressionne non seulement Ron (OP33) mais aussi Fred et George, qui affirment son propos que \"la puissance ne dépend pas de la taille\" (OP6)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#chauve-furie-sortilege",
+      "potterSlug": "bat-bogey-hex",
+      "matchScore": 100
+    },
+    "locking-spell": {
+      "id": "collaporta",
+      "heading": "Collaporta [Colloportus]",
+      "nameFr": "Collaporta",
+      "nameEn": "Colloportus",
+      "etymology": "\"colligo\" L. lier avec + \"portus\" L. porte",
+      "effect": "Scelle une porte, dans un étrange bruit de succion.",
+      "examples": [
+        "Hermione, Harry, et plusieurs autres membres de l'Armée de Dumbledore utilisent ce sort pour essayer de retenir l'attaque des Mangemorts (OP35)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#collaporta",
+      "potterSlug": "locking-spell",
+      "matchScore": 100
+    },
+    "confundus-charm": {
+      "id": "confusion-sortilege",
+      "heading": "Confusion, sortilège de [Confundus Charm]",
+      "nameFr": "Confusion, sortilège de",
+      "nameEn": "Confundus Charm",
+      "etymology": "confundo\" L. mélanger, brouiller.",
+      "effect": "Provoque la confusion.",
+      "examples": [
+        "Rogue suggère que Harry, Ron et Hermione ont subi ce sort pour croire en l'innocence de Sirius Black (PA21).",
+        "Croupton Jr. utilise ce sort pour embrouiller la Coupe de Feu afin qu'elle croie que Harry a au moins 17 ans (CF17).",
+        "Hermione l'a lancé sur McLaggen durant sa sixième année, pendant les essais de Quidditch pour trouver un gardien (PSM11)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#confusion-sortilege",
+      "potterSlug": "confundus-charm",
+      "matchScore": 100
+    },
+    "cushioning-charm": {
+      "id": "coussinage-sortilege-de",
+      "heading": "Coussinage, sortilège de [Cushioning Charm]",
+      "nameFr": "Coussinage, sortilège de",
+      "nameEn": "Cushioning Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Le sortilège de Coussinage créé un \"coussin\" invisible sur le manche du balai, rendant le vol plus confortable.",
+      "examples": [
+        "Inventé par Elliot Smethwyck en 1820 (QA)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#coussinage-sortilege-de",
+      "potterSlug": "cushioning-charm",
+      "matchScore": 100
+    },
+    "severing-charm": {
+      "id": "cracbadabum",
+      "heading": "Cracbadabum [Diffindo]",
+      "nameFr": "Cracbadabum",
+      "nameEn": "Diffindo",
+      "etymology": "",
+      "effect": "Sortilège pour briser ou déchirer un objet.",
+      "examples": [
+        "Harry utilise ce sortilège sur le cartable de Cedric afin de le retenir et lui parler discrètement des dragons (CF9)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#cracbadabum",
+      "potterSlug": "severing-charm",
+      "matchScore": 100
+    },
+    "trip-jinx": {
+      "id": "croche-pied-malefice",
+      "heading": "Croche-Pied, maléfice du [Trip Jinx]",
+      "nameFr": "Croche-Pied, maléfice du",
+      "nameEn": "Trip Jinx",
+      "etymology": "Pas de formule connue.",
+      "effect": "Fait trébucher la victime.",
+      "examples": [
+        "Malefoy utilise les maléfice de Croche-Pied pour attraper Harry dans le couloir du septième étage alors qu'il s'enfuit de la Salle sur Demande (OP27)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/c/#croche-pied-malefice",
+      "potterSlug": "trip-jinx",
+      "matchScore": 100
+    },
+    "disillusionment-charm": {
+      "id": "desillusion-sortilege",
+      "heading": "Désillusion, sortilège de [Disillusionment Charm]",
+      "nameFr": "Désillusion, sortilège de",
+      "nameEn": "Disillusionment Charm",
+      "etymology": "\"Désillusion\" : perdre ses croyances",
+      "effect": "Sortilège qui fait perdre le sens des réalités, de la vérité.",
+      "examples": [
+        "Les hippogriffes et les chevaux ailés détenus par des sorciers subissent des sortilèges de désillusion de sorte que les moldus ne s'aperçoivent de rien d'anormal (AF).",
+        "Maugrey Fol OEil jette le sortilège de désillusion sur Harry pour le dissimuler durant le voyage de Privet Drive au Square Grimmaurd (\"Il faut que je te désillusionne\"). Pour Harry, c'était comme si on avait cassé un oeuf sur sa tête, comme si un liquide froid coulait sur son corps. Sous l'effet du sortilège, il prenait l'apparence de ce qui était derrière lui. Il se sentait comme un caméléon humain. Puis Maugrey enleva le sortilège et cette fois ce fut comme si un liquide chaud lui coulait sur le corps (OP3, 4)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/d/#desillusion-sortilege",
+      "potterSlug": "disillusionment-charm",
+      "matchScore": 100
+    },
+    "eradication-spell": {
+      "id": "destructum",
+      "heading": "Destructum [Deletrius]",
+      "nameFr": "Destructum",
+      "nameEn": "Deletrius",
+      "etymology": "",
+      "effect": "Efface l'image fantomatique des sorts révélés par la formule Priori Incatatum. Peut-être cette formule peut-elle aussi effacer les effets d'autres sorts.",
+      "examples": [
+        "Amos Diggory l'utilise pour effacer l'image fantomatique de la Marque des Ténèbres qu'il avait fait apparaître de la baguette de Harry (CF9)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/d/#destructum",
+      "potterSlug": "eradication-spell",
+      "matchScore": 100
+    },
+    "vanishing-spell": {
+      "id": "disparition-sortilege",
+      "heading": "Disparition, sortilège de [Vanishing Spell]",
+      "nameFr": "Disparition, sortilège de",
+      "nameEn": "Vanishing Spell",
+      "etymology": "",
+      "effect": "Voir EVANESCO",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/d/#disparition-sortilege",
+      "potterSlug": "vanishing-spell",
+      "matchScore": 100
+    },
+    "one-eyed-witch-spell": {
+      "id": "dissendium",
+      "heading": "Dissendium",
+      "nameFr": "Dissendium",
+      "nameEn": "",
+      "etymology": "Incertain : \"dissocio\" L. diviser ? Même sonorité que \"descendre\". Commentaire d'Amanda par e-mail : \"Dissocio\" veut dire \"couper\" ou \"séparer\", \"en\" peut vouloir dire à la fois \"ici !\" et \"regarde !\" ; \"dium\" fait bien sûr référence au soleil et se traduit par \"jour\" ou \"aujourd'hui\" mais je l'ai vu utilisé pour \"maintenant\". Ainsi, mis bout à bout, \"dissendium\" pourrait signifier \"séparer ici, maintenant !\".",
+      "effect": "Incertain : \"dissocio\" L. diviser ? Même sonorité que \"descendre\".",
+      "examples": [
+        "Harry apprend ce mot de passe en lisant la carte du Maraudeur. On le murmure en tapotant la sorcière avec sa baguette (PA10)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/d/#dissendium",
+      "potterSlug": "one-eyed-witch-spell",
+      "matchScore": 100
+    },
+    "gripping-charm": {
+      "id": "empogne-sortilege",
+      "heading": "Empogne, sortilège d' [Gripping Charm]",
+      "nameFr": "Empogne, sortilège d'",
+      "nameEn": "Gripping Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Sort qui permet de saisir un objet plus facilement.",
+      "examples": [
+        "Les sortilège d'Empogne, inventés en 1875, sont appliqués au Souafle pour que les poursuiveurs puissent le saisir (QA)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#empogne-sortilege",
+      "potterSlug": "gripping-charm",
+      "matchScore": 100
+    },
+    "cruciatus-curse": {
+      "id": "endoloris",
+      "heading": "Endoloris [Crucio]",
+      "nameFr": "Endoloris",
+      "nameEn": "Crucio",
+      "etymology": "\"dolor, is\" L. douleur",
+      "effect": "Un des \" Sortilèges Impardonnables , \" Ce sortilège inflige à la victime une douleur presque intolérable. Certains sont devenus fous d'avoir subi ce sortilège trop longtemps.",
+      "examples": [
+        "Utilisé par les partisans de Voldemort pendant ses années de puissance , aussi bien sur des Moldus que sur des sorciers.",
+        "Frank et Alice Londubat ont souffert du sortilège Doloris et en sont devenus fous (CF, OP9, 23).",
+        "Voldemort l'utilise sur Queudver , Avery et Harry (CF14, 17, 21, 29, 31, 33).",
+        "Pendant la bataille au Département des mystères, Bellatrix s'aperçoit que Neville est le fils des Londubat qu'elle a torturés. Elle semble prendre plaisir à employer le sortilège Doloris sur leur fils.",
+        "Plus tard, Harry essaye de l'employer sur Bellatrix Lestrange, mais elle ne ressent rien. Elle lui apprend alors qu'il faut souhaiter vraiment faire le mal sans quoi il ne fonctionne pas (OP36).",
+        "Quand ils se demandent ce que peut être l'arme qui mobilise les membres de l'Ordre du Phénix et les Mangemorts, Harry affirme que Voldemort n'a besoin d'aucune arme pour la douleur, il y a déjà le sortilège Doloris. C'est suffisamment efficace, il n'a pas besoin d'autre chose (OP6)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#endoloris",
+      "potterSlug": "cruciatus-curse",
+      "matchScore": 100
+    },
+    "disarming-charm": {
+      "id": "expelliarmus",
+      "heading": "Expelliarmus",
+      "nameFr": "Expelliarmus",
+      "nameEn": "",
+      "etymology": "\"expelo\" L. pousser dehors + \"arma\" L. arme.",
+      "effect": "Fait s'envoler de ses mains l'arme d'un adversaire.",
+      "examples": [
+        "Sortilège de défense de base, présenté lors du club de duel (CS10) et utilisé fréquemment par la suite. Si la nature exacte de l'arme de l'adversaire est incertaine, ce sortilège peut avoir des effets inattendus. Si plusieurs sorciers lancent le sort simultanément sur un adversaire, celui-ci peut perdre connaissance (PA, CF31, 34).",
+        "Rogue l'utilise contre Lockhart et le résultat est plutôt violent (CS10).",
+        "Harry décide de commencer les cours de l'A.D. avec Expelliarmus. Zacharias Smith pense que ce n'est pas utile contre Vous-Savez-Qui mais Harry fait remarquer qu'il l'a utilisé contre lui l'année précédente (OP18)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#expelliarmus",
+      "potterSlug": "disarming-charm",
+      "matchScore": 100
+    },
+    "blasting-curse": {
+      "id": "explosion-sortilege",
+      "heading": "Explosion, sortilège d' [Blasting Curse]",
+      "nameFr": "Explosion, sortilège d'",
+      "nameEn": "Blasting Curse",
+      "etymology": "Pas de formule connue.",
+      "effect": "Sort utile pour les duels de Sorciers.",
+      "examples": [
+        "Durant la Compétition des Duels de Sorciers d'Angleterre en 1430, Alberta Toothill se rendit célèbre en vainquant le favori, Samson Wiblin, avec un sortilège d'Explosion (CSC)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#explosion-sortilege",
+      "potterSlug": "blasting-curse",
+      "matchScore": 100
+    },
+    "banishing-charm": {
+      "id": "expulsion",
+      "heading": "Expulsion [Banishing Charm]",
+      "nameFr": "Expulsion",
+      "nameEn": "Banishing Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "inverse de \" Attraction \"",
+      "examples": [
+        "Harry et ses camarades pratiquent ce sort dans le cours de sortilèges de quatrième année. Flitwick se retrouve \"expulsé\" au fond de la classe par Neville qui ne maîtrise pas son sortilège (CF26)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#expulsion",
+      "potterSlug": "banishing-charm",
+      "matchScore": 100
+    },
+    "extinguishing-spell": {
+      "id": "extinction-sortilege",
+      "heading": "Extinction, sortilège d' [Extinguishing Spell]",
+      "nameFr": "Extinction, sortilège d'",
+      "nameEn": "Extinguishing Spell",
+      "etymology": "Pas de formule connue.",
+      "effect": "Sort pour éteindre un feu.",
+      "examples": [
+        "Utilisé par les gardiens de dragons ; ils se tiendront prêts à s'en servir lorsque les champions affronteront les dragons de la première tâche (CF14)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#extinction-sortilege",
+      "potterSlug": "extinguishing-spell",
+      "matchScore": 100
+    },
+    "pack-charm": {
+      "id": "failamalle",
+      "heading": "Failamalle [Pack]",
+      "nameFr": "Failamalle",
+      "nameEn": "Pack",
+      "etymology": "\"Failamalle !\"",
+      "effect": "Une formule qui fait se rassembler les affaires dans la valise.",
+      "examples": [
+        "Tonks utilise ce sort pour aider Harry à rassembler ses affaires pour l'école avant de s'enfuir de chez les Dursley. Elle ajoute qu'elle n'a jamais été douée pour les sorts ménagers alors que sa mère y avait un don particulier puisque qu'avec elle les chaussettes se pliaient toutes seules. La version de Tonks est moins parfaite mais l'opération est rondement menée (OP3)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#failamalle",
+      "potterSlug": "pack-charm",
+      "matchScore": 100
+    },
+    "bandaging-charm": {
+      "id": "ferula",
+      "heading": "Ferula",
+      "nameFr": "Ferula",
+      "nameEn": "",
+      "etymology": "\"ferula\" L. brindille, petite branche",
+      "effect": "Sort qui fait apparaître une attelle.",
+      "examples": [
+        "Lupin l'utilise pour faire apparaître une attelle et des bandages pour la jambe brisée de Ron (PA19)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#ferula",
+      "potterSlug": "bandaging-charm",
+      "matchScore": 100
+    },
+    "fidelius-charm": {
+      "id": "fidelitas-sortilege",
+      "heading": "Fidelitas, sortilège de [Fidelius Charm]",
+      "nameFr": "Fidelitas, sortilège de",
+      "nameEn": "Fidelius Charm",
+      "etymology": "fidelis\" L. fidélité, confiance.",
+      "effect": "Sortilège complexe et très puissant qui dissimule une ou plusieurs personnes ; leur cachette n'est connue que de celui qui est désigné comme \"Gardien du Secret\".",
+      "examples": [
+        "Utilisé pour essayer de protéger Lily et James Potter de Voldemort. \"- C'est un sortilège d'une grande complexité. Il s'agit d'un procédé magique destiné à cacher un secret au coeur d'un être unique. L'information est dissimulée à l'intérieur même de la personne choisie, qu'on appelle le Gardien du Secret. Le secret devient alors impossible à découvrir, sauf bien sûr si le Gardien décide de le divulguer. Ainsi, tant que le Gardien du Secret refusait de parler, Vous-Savez-Qui pouvait toujours fouiller le village où James et Lily Potter vivaient depuis des années, il lui était impossible de les retrouver, même s'il avait collé le nez contre la fenêtre de leur salon ! \" Malheureusement, Peter Pettigrow fût choisi comme Gardien du Secret et il trahit James et Lily (PA10, ...)",
+        "Dumbledore utilise le sortilège de Fidelitas pour dissimuler le 12, square Grimmaurd , le quartier général de l'Ordre du Phenix. Il est lui-même le Gardien du Secret de l'Ordre (OP6)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#fidelitas-sortilege",
+      "potterSlug": "fidelius-charm",
+      "matchScore": 100
+    },
+    "flagrate": {
+      "id": "flambios",
+      "heading": "Flambios [Flagrate]",
+      "nameFr": "Flambios",
+      "nameEn": "Flagrate",
+      "etymology": "",
+      "effect": "Crée une ligne enflammée en l'air qui peut être dirigée avec la baguette magique pour former diverses formes.",
+      "examples": [
+        "Hermione utilise cette formule pour dessiner des X enflammés au dessus des portes du hall circulaire du Département des mystères (OP34).",
+        "Il s'agit peut-être du même genre de principe que Peintenlair ou Lancétincelle ."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#flambios",
+      "potterSlug": "flagrate",
+      "matchScore": 100
+    },
+    "bluebell-flames": {
+      "id": "flammes-bleues",
+      "heading": "Flammes Bleues [Bluebell flames]",
+      "nameFr": "Flammes Bleues",
+      "nameEn": "Bluebell flames",
+      "etymology": "",
+      "effect": "Fait jaillir une quantité de flammes bleues que l'on peut diriger à un endroit précis.",
+      "examples": [
+        "Hermione sait lancer des sorts de Flammes Bleues qui peuvent être transportés dans un bocal, se répandre près de la cible et retourner dans le bocal (ES11).",
+        "Elle met le feu à la robe de Rogue (ES11) et aussi au Filet du Diable (ES16).",
+        "Les feux portables et résistant à l'eau sont une de ses spécialités (CS11)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#flammes-bleues",
+      "potterSlug": "bluebell-flames",
+      "matchScore": 100
+    },
+    "twitchy-ears-hex": {
+      "id": "folloreille-sortilege",
+      "heading": "Folloreille, sortilège de [Twitchy Ears Hex]",
+      "nameFr": "Folloreille, sortilège de",
+      "nameEn": "Twitchy Ears Hex",
+      "etymology": "Pas de formule connue.",
+      "effect": "Force les oreilles de la victime à s'agiter et remuer de manière incontrôlable.",
+      "examples": [
+        "Harry fut atteint par ce maléfice en s'entraînant à la défense contre les maléfices en cours de défense contre les forces du Mal (CF28)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#folloreille-sortilege",
+      "potterSlug": "twitchy-ears-hex",
+      "matchScore": 100
+    },
+    "horton-keitch-braking-charm": {
+      "id": "freinage-de-horton-keitch",
+      "heading": "Freinage de Horton-Keitch [Horton-Keitch Braking Charm]",
+      "nameFr": "Freinage de Horton-Keitch",
+      "nameEn": "Horton-Keitch Braking Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Rend les balais de course plus faciles à tenir.",
+      "examples": [
+        "Inventé par Basil Horton et Randolph Keitch, les sorciers qui ont créé la compagnie Comète en 1929 (QA)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#freinage-de-horton-keitch",
+      "potterSlug": "horton-keitch-braking-charm",
+      "matchScore": 100
+    },
+    "pimple-jinx": {
+      "id": "furonculose",
+      "heading": "Furonculose [Furnunculus]",
+      "nameFr": "Furonculose",
+      "nameEn": "Furnunculus",
+      "etymology": "\"Furunculus !\" De \"furunculus\" L. \"petit voleur\", qui a donné le mot furoncle. Ndt : dans la version originale, la formule est \"Furnunculus\". D'après Claire T. Nollet, à un moment donné les sorcier ont décidé qu'il était plus facile de prononcer la formule avec un \"n\" supplémentaire après les lettres f-u-r.",
+      "effect": "De \"furunculus\" L. \"petit voleur\", qui a donné le mot furoncle.",
+      "examples": [
+        "Harry jette ce sort sur Malefoy, mais il est détourné et frappe Goyle dans la figure (CF18, 37).",
+        "Pour réconforter Ginny, Fred et George se sont couverts de fourrure ou de furoncles avant de lui sauter dessus (Ndt : pas de furoncles dans la version française : \"(...) et en se cachant derrière des statues pour lui sauter dessus par surprise.\") (CS11)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#furonculose",
+      "potterSlug": "pimple-jinx",
+      "matchScore": 100
+    },
+    "flame-freezing-charm": {
+      "id": "gele-flamme-sortilege",
+      "heading": "Gèle-Flamme, sortilège de [Flame Freezing Charm]",
+      "nameFr": "Gèle-Flamme, sortilège de",
+      "nameEn": "Flame Freezing Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Change les propriétés du feu de sorte que sa chaleur n'est plus qu'une brise tiède.",
+      "examples": [
+        "Sort utilisé par les sorcières et sorciers du Moyen-Age qui étaient brûlés sur des bûchers. Ils devaient crier et faire croire à leur supplice (PA1) (cf. Gwendoline la Fantasque (CSC)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/g/#gele-flamme-sortilege",
+      "potterSlug": "flame-freezing-charm",
+      "matchScore": 100
+    },
+    "permanent-sticking-charm": {
+      "id": "glu-perpetuelle-sortilege",
+      "heading": "Glu Perpétuelle, sortilège de [Permanent Sticking Charm]",
+      "nameFr": "Glu Perpétuelle, sortilège de",
+      "nameEn": "Permanent Sticking Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Sort qui colle magiquement une chose à une autre. Il est extrêmement difficile de détacher quelque chose collé à la Glu perpétuelle.",
+      "examples": [
+        "Le portrait de la mère de Sirius et la tapisserie de l'arbre généalogique des Black sont collés au mur par le sortilège de Glu perpétuelle. Ainsi, les membres de l' Ordre du Phenix ne peuvent pas les détacher (OP6).",
+        "Il était impossible d'ôter le portrait ensorcelé du bureau du Premier Ministre moldu avec les moyens moldus classiques. Il doit donc avoir subi un sortilège de Glu Perpétuelle (PSM1)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/g/#glu-perpetuelle-sortilege",
+      "potterSlug": "permanent-sticking-charm",
+      "matchScore": 100
+    },
+    "pepper-breath": {
+      "id": "haleine-pimentee",
+      "heading": "Haleine pimentée [Pepper Breath]",
+      "nameFr": "Haleine pimentée",
+      "nameEn": "Pepper Breath",
+      "etymology": "Pas de formule connue.",
+      "effect": "Ce sortilège donne à une personne une haleine de feu.",
+      "examples": [
+        "Harry, qui recherchait des sorts pour contrer les dragons, décide de ne pas l'utiliser."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/h/#haleine-pimentee",
+      "potterSlug": "pepper-breath",
+      "matchScore": 100
+    },
+    "homorphus-charm": {
+      "id": "homomorphus-sortilege",
+      "heading": "Homomorphus, sortilège d' [Homorphus Charm]",
+      "nameFr": "Homomorphus, sortilège d'",
+      "nameEn": "Homorphus Charm",
+      "etymology": "\"Homo\" Gr. le même + \"morph\" forme [force le loup-garou à demeurer humain] OU \"homo\" L. homme + \"morph\" forme [force le loup-garou à devenir humain]",
+      "effect": "Un bon sortilège contre les loups-garous. Ses effets exacts ne sont pas connus.",
+      "examples": [
+        "Lockhart prétend avoir utilisé ce sort pour battre le loup-garou de Wagga Wagga, il en fait la démonstration en classe de défense contre les forces du Mal (CS10)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/h/#homomorphus-sortilege",
+      "potterSlug": "homorphus-charm",
+      "matchScore": 100
+    },
+    "freezing-charm": {
+      "id": "immobulus",
+      "heading": "Immobulus",
+      "nameFr": "Immobulus",
+      "nameEn": "",
+      "etymology": "\"im-\" préfixe L. pas + \"mobilis\" L. mobile.",
+      "effect": "Arrête ou ralentit un objet.",
+      "examples": [
+        "Hermione l'utilise sur les Lutins de Cornouailles dans la première leçon de défense contre les forces du Mal de Lockhart dans CS/f, mais ça n'est pas certifié canonique puisqu'il ne correspond pas au sort qu'elle jette dans CS6, qui est \"refroidissant\".",
+        "On ne trouve cette formule que dans CS/f."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#immobulus",
+      "potterSlug": "freezing-charm",
+      "matchScore": 100
+    },
+    "imperturbable-charm": {
+      "id": "impassibilite-sortilege",
+      "heading": "Impassibilité, sortilège d' [Imperturbable Charm]",
+      "nameFr": "Impassibilité, sortilège d'",
+      "nameEn": "Imperturbable Charm",
+      "etymology": "",
+      "effect": "Crée une barrière magique sur un objet, comme une porte, pour éviter qu'on écoute aux portes.",
+      "examples": [
+        "La porte de la cuisine du 12, square Grimmaurd à été impassibilisée pour empêcher les enfants d'utiliser les Oreilles à rallonge et écouter les réunions qui s'y tiennent. Il suffit de jeter quelque chose contre la porte suspecte et si le contact est impossible, ça signifie qu'elle a été impassibilisée. Ginny a lancé des Bombabouses pour le vérifier (OP4)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#impassibilite-sortilege",
+      "potterSlug": "imperturbable-charm",
+      "matchScore": 100
+    },
+    "impediment-jinx": {
+      "id": "impedimenta",
+      "heading": "Impedimenta [Impediment Curse, Impediment Jinx]",
+      "nameFr": "Impedimenta",
+      "nameEn": "Impediment Curse, Impediment Jinx",
+      "etymology": "\"impedimentum\" L. obstacle, entrave",
+      "effect": "Arrête ou ralentit un objet.",
+      "examples": [
+        "Harry apprend ce sort pour la troisième tâche. Ron l'apprend aussi et l'utilise sur une guêpe. Harry l'utilise avec de bons résultats sur une araignée géante et sur le Scroutt à pétard. (CF29, 31)",
+        "Madame Bibine utilise ce sort pour projeter Harry à terre alors qu'il se bat avec Malefoy après le match de Quidditch (OP19)",
+        "Harry enseigne le maléfice d'Entrave aux membres de l'A.D. (OP21)",
+        "Harry voit dans la Pensine son père jeter le maléfice d'Entrave à Rogue. (OP28)",
+        "Le maléfice d'Entrave est utilisé par les Mangemorts pendant la bataille du Département des mystères. (OP35)",
+        "Harry fit usage de ce maléfice sur un Inferi dans la caverne du faux Horcruxe. (PSM6)",
+        "Harry le lança sur Amycus tandis que ce dernier se battait en duel contre Ginny. Plus tard, Harry le lança soit sur Amycus, soir sur Alecto, lorsqu'ils tentèrent de l'attraper par derrière. Encore plus tard, il le lança sur Rogue, sans succès (PSM28)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#impedimenta",
+      "potterSlug": "impediment-jinx",
+      "matchScore": 100
+    },
+    "imperius-curse": {
+      "id": "impero",
+      "heading": "Impero [Imperio]",
+      "nameFr": "Impero",
+      "nameEn": "Imperio",
+      "etymology": "\"impero\" L. commander.",
+      "effect": "Un des \"Sortilèges Impardonnables\". Ce sort met la victime sous contrôle total de l'auteur qui peut lui faire faire ce qu'il veut.",
+      "examples": [
+        "Exposé et démonstration durant le cours de DCFM du faux Maugrey. (CF14)",
+        "Lancé sur Krum par le faux Maugrey. (CF31, CF35)",
+        "Lancé sur Croupton Jr. par Croupton Sr. (CF35)",
+        "Lancé sur Croupton Sr. par Voldemort. (CF35)",
+        "Lancé par Voldemort sur Harry. (CF34)",
+        "Harry souleva l'hypothèse - que Arthur réfuta - que Fudge aurait pu agir sous l'influence du sortilège de l'Imperium. (OP9)",
+        "Herbert Chorley , ministre appartenant du gouvernement britannique moldu, se mit à imiter un canard à cause d'un sortilège de l'Imperium mal lancé et fut hospitalisé à Ste Mangouste. (PSM1)",
+        "Lancé par Drago Malefoy sur Madame Rosmerta. (PSM27)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#impero",
+      "potterSlug": "imperius-curse",
+      "matchScore": 100
+    },
+    "impervius-charm": {
+      "id": "impervius",
+      "heading": "Impervius",
+      "nameFr": "Impervius",
+      "nameEn": "",
+      "etymology": "\"im-\" préfixe L. non + \"pervius\" L. perméable.",
+      "effect": "Rend les choses étanches ou imperméables.",
+      "examples": [
+        "Hermione utilise ce sort pour repousser l'eau des lunettes de Harry pendant un match de Quidditch disputé sous la pluie. (PA9)",
+        "Tous les membres de l'équipe de Gryffondor l'utilisent sur leurs visages pour un entraînement sous une pluie battante, mais ils abandonnent néanmoins au bout d'une heure. (OP18)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#impervius",
+      "potterSlug": "impervius-charm",
+      "matchScore": 100
+    },
+    "incarcerous-spell": {
+      "id": "incarcerem",
+      "heading": "Incarcerem [Incarcerous]",
+      "nameFr": "Incarcerem",
+      "nameEn": "Incarcerous",
+      "etymology": "\"incarcerare\" L. in : dans + carcer : prison.",
+      "effect": "Envoie des cordes surgies de nulle part qui s'enroulent autour de quelqu'un ou quelque chose.",
+      "examples": [
+        "Ombrage utilise ce sort sur Magorian ce qui provoque l'attaque des autres Centaures. (OP33)",
+        "Harry fit usage de ce maléfice sur un Inferi dans la caverne du faux Horcruxe. (PSM6)",
+        "Harry lança ce sort sur Rogue, sans succès, lorsque ce dernier tentait de s'enfuir de Poudlard. (PSM28)",
+        "C'est peut-être la formule pour d'autres sortilèges de ligature."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#incarcerem",
+      "potterSlug": "incarcerous-spell",
+      "matchScore": 100
+    },
+    "unbreakable-charm": {
+      "id": "incassable-sortilege",
+      "heading": "Incassable, sortilège [Unbreakable Charm]",
+      "nameFr": "Incassable, sortilège",
+      "nameEn": "Unbreakable Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Rend un objet incassable.",
+      "examples": [
+        "Hermione jette ce sort sur le bocal dans lequel elle a capturé Rita Skeeter sous forme de scarabée pour l'empêcher de reprendre sa forme humaine (CF37)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#incassable-sortilege",
+      "potterSlug": "unbreakable-charm",
+      "matchScore": 100
+    },
+    "fire-making-spell": {
+      "id": "incendio",
+      "heading": "Incendio",
+      "nameFr": "Incendio",
+      "nameEn": "",
+      "etymology": "\"incendo\" L. mettre le feu.",
+      "effect": "Allume un feu.",
+      "examples": [
+        "Mr Weasley utilise ce sort pour allumer un feu dans la cheminée des Dursley. (CF4)",
+        "Utilisé par un Mangemort pour mettre feu à la cabane de Hagrid. (PSM28)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/i/#incendio",
+      "potterSlug": "fire-making-spell",
+      "matchScore": 100
+    },
+    "revulsion-jinx": {
+      "id": "lashlabask",
+      "heading": "Lashlabask [Relashio]",
+      "nameFr": "Lashlabask",
+      "nameEn": "Relashio",
+      "etymology": "",
+      "effect": "Envoie un jet d'étincelles brûlantes. Sous l'eau, cette formule produit un jet d'eau bouillante.",
+      "examples": [
+        "Harry utilise cette formule contre les Strangulots durant la deuxième tâche (CF26)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#lashlabask",
+      "potterSlug": "revulsion-jinx",
+      "matchScore": 100
+    },
+    "legilimency-spell": {
+      "id": "legilimens",
+      "heading": "Legilimens",
+      "nameFr": "Legilimens",
+      "nameEn": "",
+      "etymology": "\"legens\" L. lecteur + \"mens\" L. pensée.",
+      "effect": "Voir Legilimancie .",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#legilimens",
+      "potterSlug": "legilimency-spell",
+      "matchScore": 100
+    },
+    "dangling-jinx": {
+      "id": "levicorpus",
+      "heading": "Levicorpus",
+      "nameFr": "Levicorpus",
+      "nameEn": "",
+      "etymology": "\"levo\" L. lever, soulever, élever + \"corpus\" L. corps.",
+      "effect": "Suspend dans les airs la cible par la cheville.",
+      "examples": [
+        "Sort développé par le Prince de Sang-Mêlé, il était noté dans son vieux manuel de potions sans aucune description de ses effets (mais fort heureusement avec son contre-sort) ; Harry le lança un peu précipitamment sur Ron sans avoir une idée claire du résultat. (PSM12)",
+        "Harry tenta et rata ce sortilège sur Rogue durant sa fuite de Poudlard. (PSM28)",
+        "Le contre-sort est Liberacorpus."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#levicorpus",
+      "potterSlug": "dangling-jinx",
+      "matchScore": 100
+    },
+    "hover-charm": {
+      "id": "levitation-sortilege",
+      "heading": "Lévitation, sortilège de [Hover Charm]",
+      "nameFr": "Lévitation, sortilège de",
+      "nameEn": "Hover Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Fait flotter un objet en l'air.",
+      "examples": [
+        "Dobby utilise ce sort (sans baguette ni formule) pour maintenir en l'air le gâteau aux violettes de Pétunia (CS2)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#levitation-sortilege",
+      "potterSlug": "hover-charm",
+      "matchScore": 100
+    },
+    "liberacorpus": {
+      "id": "liberacorpus",
+      "heading": "Liberacorpus",
+      "nameFr": "Liberacorpus",
+      "nameEn": "",
+      "etymology": "\"liber\" L. libérer + \"corpus\" L. corps.",
+      "effect": "Contre-sort de Levicorpus.",
+      "examples": [
+        "Sort développé par le Prince de Sang-Mêlé, il était noté dans son vieux manuel de potions sans aucune description de ses effets (mais fort heureusement avec son contre-sort) ; Harry le lança un peu précipitamment sur Ron sans avoir une idée claire du résultat (PSM12)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#liberacorpus",
+      "potterSlug": "liberacorpus",
+      "matchScore": 100
+    },
+    "age-line": {
+      "id": "limite-d-age",
+      "heading": "Limite d'Age [Age Line]",
+      "nameFr": "Limite d'Age",
+      "nameEn": "Age Line",
+      "etymology": "Pas de formule connue.",
+      "effect": "Une fine ligne dorée au sol qui bloque quiconque la dépasse s'il est trop jeune (elle peut probablement être réglée pour bloquer le passage des gens plus vieux qu'un âge donné ).",
+      "examples": [
+        "Dumbledore trace une Limite d'Age autour de la Coupe de Feu pour tenir à l'écart ceux qui n'ont pas encore atteint l'âge de dix-sept ans.",
+        "Quand les jumeaux Weasley , qui ont pris de la potion de Vieillissement pour essayer de tricher, enjambent la Limite d'Age, ils sont refoulés et se retrouvent avec de longues barbes blanches (CF16)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#limite-d-age",
+      "potterSlug": "age-line",
+      "matchScore": 100
+    },
+    "locomotion-charm": {
+      "id": "locomotor",
+      "heading": "Locomotor...",
+      "nameFr": "Locomotor...",
+      "nameEn": "",
+      "etymology": "\"loco\" L. d'un endroit + \"motionem\" L. mouvement.",
+      "effect": "Déplace un objet ou une personne. Le terme \"Locomotor\" est souvent suivi du nom de la cible, de l'objet que l'on souhaite déplacer.",
+      "examples": [
+        "Flitwick utilisa Locomotor Barda pour ramener les affaires de Trelawney dans ses appartements via l'escalier de marbre. (OP26)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#locomotor",
+      "potterSlug": "locomotion-charm",
+      "matchScore": 100
+    },
+    "wand-lighting-charm": {
+      "id": "lumos",
+      "heading": "Lumos",
+      "nameFr": "Lumos",
+      "nameEn": "",
+      "etymology": "\"lumen\" L. lumière.",
+      "effect": "Fait jaillir un petit faisceau de lumière de l'extrémité de la baguette de l'auteur.",
+      "examples": [
+        "Ce sort est fréquemment utilisé par les gens qui explorent le château de Poudlard ou la Forêt interdite .",
+        "Dumbledore l'utilise aussi quand il cherche Mr Croupton (CF28), et son faisceau de lumière est aussi étroit et luisant que ceux que produit habituellement Harry. Il est vrai qu'on aurait pu penser que Dumbledore était capable de produire quelque chose d'un peu plus puissant.",
+        "Quand Harry perd sa baguette durant l'attaque des Détraqueurs , il lance désespérément \"Lumos\", et à sa grande surprise le bout de sa baguette s'allume, même s'il ne la tient pas en main. La lumière produite avec Lumos éclaire même en présence des Détraqueurs alors que celle des réverbères et des étoiles a disparu (OP1).",
+        "La formule pour éteindre la lumière est \" Nox \".",
+        "VOIR AUSSI Coups de Baguette."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#lumos",
+      "potterSlug": "wand-lighting-charm",
+      "matchScore": 100
+    },
+    "placement-charm": {
+      "id": "mise-en-place-sortilege",
+      "heading": "Mise en place, sortilège de [Placement Charm]",
+      "nameFr": "Mise en place, sortilège de",
+      "nameEn": "Placement Charm",
+      "etymology": "Pas de formule connue",
+      "effect": "Sort pour mettre quelque chose en place.",
+      "examples": [
+        "Utilisé pour mettre une bride autour du cou d'un Kelpy, ce qui est le seul moyen de le contrôler (AF)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/m/#mise-en-place-sortilege",
+      "potterSlug": "placement-charm",
+      "matchScore": 100
+    },
+    "mobiliarbus": {
+      "id": "mobiliarbus",
+      "heading": "Mobiliarbus",
+      "nameFr": "Mobiliarbus",
+      "nameEn": "",
+      "etymology": "\"mobilis\" L. qui peut bouger + \"arbor\" L. arbre.",
+      "effect": "Déplace un arbre.",
+      "examples": [
+        "La base des sortilèges pour déplacer quelque chose est formée par le préfixe \"Mobili-\". A charge pour l'auteur du sort de compléter avec le mot latin désignant l'objet à déplacer, dans ce cas un arbre. Il n'existe certainement pas de sort standard pour déplacer un arbre."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/m/#mobiliarbus",
+      "potterSlug": "mobiliarbus",
+      "matchScore": 100
+    },
+    "mobilicorpus": {
+      "id": "mobilicorpus",
+      "heading": "Mobilicorpus",
+      "nameFr": "Mobilicorpus",
+      "nameEn": "",
+      "etymology": "\"mobilis\" L. qui peut bouger + \"corpus\" L. corps.",
+      "effect": "Déplace un corps.",
+      "examples": [
+        "La base des sorts pour déplacer quelque chose est formée par le préfixe \"Mobili-\". Dans ce cas-ci, le mot latin pour corps est ajouté à la fin. Sirius Black utilise ce sortilège pour faire léviter le corps de Rogue inconscient et le pousser le long du passage secret depuis la Cabane hurlante jusqu'à l'école."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/m/#mobilicorpus",
+      "potterSlug": "mobilicorpus",
+      "matchScore": 100
+    },
+    "morsmordre": {
+      "id": "morsmordre",
+      "heading": "Morsmordre",
+      "nameFr": "Morsmordre",
+      "nameEn": "",
+      "etymology": "\"mors\" L. mort + fr. \"mordre\"",
+      "effect": "Fait apparaître dans le ciel un immense crâne entouré d'étoile vertes, avec un serpent sortant de sa bouche.",
+      "examples": [
+        "Ce sort n'est connu que des Mangemorts , qui l'envoient dans le ciel lorsqu'ils ont commis un meurtre. La Marque des Ténèbres est vue à la Coupe du Monde de Quidditch, apparue de la baguette de Harry tenue par Bartemius Croupton Jr. (CF9)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/m/#morsmordre",
+      "potterSlug": "morsmordre",
+      "matchScore": 100
+    },
+    "silencing-charm": {
+      "id": "mutisme-sortilege",
+      "heading": "Mutisme, sortilège de [Silencing Charm]",
+      "nameFr": "Mutisme, sortilège de",
+      "nameEn": "Silencing Charm",
+      "etymology": "\"Silencio\"",
+      "effect": "Un sortilège pour rendre quelque chose silencieux.",
+      "examples": [
+        "Le chant du Focifère peut rendre fou celui qui l'écoute et doit être arrêté par un sortilège de Mutisme. Le sortilège est à renouveler sur le Focifère tous les mois (AF).",
+        "Les cinquième année travaillent ce sortilège en cours de Métamorphose en utilisant des corbeaux et des grenouilles (OP18).",
+        "Hermione lance le sortilège de Mutisme sur un Mangemort dans la bataille du Département des mystères, ce qui atténue le sort qu'il lui lance. Elle est quand même mise k.o. et \"fait déjà assez de dégâts comme ça\" selon Madame Pomfresh (OP)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/m/#mutisme-sortilege",
+      "potterSlug": "silencing-charm",
+      "matchScore": 100
+    },
+    "wand-extinguishing-charm": {
+      "id": "nox",
+      "heading": "Nox",
+      "nameFr": "Nox",
+      "nameEn": "",
+      "etymology": "\"nox\" L. nuit",
+      "effect": "Eteint la lumière de \" Lumos \".",
+      "examples": [
+        "Harry et Hermione utilisent ce sortilège pour éteindre les lumières de leurs baguettes dans la Cabane hurlante (PA17)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/n/#nox",
+      "potterSlug": "wand-extinguishing-charm",
+      "matchScore": 100
+    },
+    "obliteration-charm": {
+      "id": "obliteration-sortilege-d",
+      "heading": "Oblitération, sortilège d' [Obliteration Charm]",
+      "nameFr": "Oblitération, sortilège d'",
+      "nameEn": "Obliteration Charm",
+      "etymology": "\"oblitesco\" - L. se cacher, se dissimuler \"oblittero\" - L. annuler, cacher",
+      "effect": "Efface les traces ou la piste laissées par quelqu'un.",
+      "examples": [
+        "Hermione utilise un charme d'Oblitération en marchant entre la cabane de Hagrid et le château pour effacer leur traces de pas dans la neige (OP20)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/o/#obliteration-sortilege-d",
+      "potterSlug": "obliteration-charm",
+      "matchScore": 100
+    },
+    "oculus-reparo": {
+      "id": "oculus-reparo",
+      "heading": "Oculus Reparo",
+      "nameFr": "Oculus Reparo",
+      "nameEn": "",
+      "etymology": "\"oculus\" L. oeil + \"reparare\" L. réparer",
+      "effect": "Simple sort pour réparer une paire de lunettes.",
+      "examples": [
+        "Dans les films, Hermione utilise ce sort pour réparer les lunettes de Harry dans le train et sur le Chemin de Traverse (ES/f, CS/f).",
+        "C'est peut-être une forme du sort Reparo qu'utilise Hermione pour réparer une vitre brisée dans le train (CF8, 11). La formule de base est \"Reparo\", complété parfois par un nom d'objet, particulièrement quand l'auteur du sort n'est pas très habile.",
+        "Probablement le même sort utilisé par Mr Weasley pour réparer les lunettes de Harry (CS4), par Bill Weasley pour réparer le pied de la table (CF5) et par Percy pour réparer ses lunettes cassées quand il s'incline un peu trop bas (CF8)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/o/#oculus-reparo",
+      "potterSlug": "oculus-reparo",
+      "matchScore": 100
+    },
+    "bouquet-spell": {
+      "id": "orchideous",
+      "heading": "Orchideous",
+      "nameFr": "Orchideous",
+      "nameEn": "",
+      "etymology": "Orchideae\" L. orchidée",
+      "effect": "Fait apparaître un bouquet de fleurs au bout de la baguette.",
+      "examples": [
+        "Mr Ollivander utilise ce sort pour tester la baguette de Fleur lors de l' Examen des Baguettes (CF18)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/o/#orchideous",
+      "potterSlug": "bouquet-spell",
+      "matchScore": 100
+    },
+    "full-body-bind-curse": {
+      "id": "petrificus-totalus",
+      "heading": "Petrificus Totalus (&quotMaléfice du Saucisson&quot)",
+      "nameFr": "Petrificus Totalus",
+      "nameEn": "",
+      "etymology": "\"petrificare\" L. transformer en pierre + \"totalis\" L. entier",
+      "effect": "Rend le corps de la victime entièrement rigide.",
+      "examples": [
+        "Lorsque Neville essaie de les arrêter sur le chemin de la Pierre Philosophale, Hermione lui jette ce maléfice et s'en excuse (ES16).",
+        "Utilisé par Harry pendant la bataille du Département des mystères (OP31).",
+        "Envoyé sur Harry par Dumbledore sous sa forme non verbale (PSM27, 28).",
+        "Envoyé par Harry sur un Mangemort aux traits grossiers et sur Fenrir Greyback (PSM28)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/p/#petrificus-totalus",
+      "potterSlug": "full-body-bind-curse",
+      "matchScore": 100
+    },
+    "four-point-spell": {
+      "id": "pointe-au-nord",
+      "heading": "Pointe au Nord [Point Me]",
+      "nameFr": "Pointe au Nord",
+      "nameEn": "Point Me",
+      "etymology": "",
+      "effect": "Voir QUATRE-POINTS .",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/p/#pointe-au-nord",
+      "potterSlug": "four-point-spell",
+      "matchScore": 100
+    },
+    "portkey-spell": {
+      "id": "portus",
+      "heading": "Portus",
+      "nameFr": "Portus",
+      "nameEn": "",
+      "etymology": "\"porta\" L. porte, entrée.",
+      "effect": "Transforme l'objet visé en Portoloin.",
+      "examples": [
+        "La nuit où Nagini a attaqué Arthur Weasley, Dumbledore a transformé une vieille bouilloire noircie en Portoloin pour envoyer Harry et les Weasley au 12, square Grimmaurd (OP22).",
+        "Après son duel avec Voldemort, Dumbledore transforme la tête arrachée du sorcier d'or en Portoloin vers son bureau avec cette formule (OP36).",
+        "Quand cette formule est lancée, la chose visée se met à briller en bleu et tremble brièvement avant de reprendre son apparence normale (OP22, OP36)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/p/#portus",
+      "potterSlug": "portkey-spell",
+      "matchScore": 100
+    },
+    "reverse-spell": {
+      "id": "prior-incanto",
+      "heading": "Prior Incanto [Prior Incantato] (aussi : Priori incantatum [Priori incantatem])",
+      "nameFr": "Prior Incanto",
+      "nameEn": "Prior Incantato",
+      "etymology": "\"prior\" L. avant, plus tôt, précédemment + \"incantatare\" L. enchanter.",
+      "effect": "Peut être lancé comme formule (\" Prior Incanto \"). L'effet produit oblige la baguette à émettre une image fantomatique du dernier sort émis. Les images peuvent être détruites par la formule Deletrius .",
+      "examples": [
+        "Amos Diggory lance un Prior Incanto sur la baguette de Harry pour déterminer si elle est à l'origine de la Marque des Ténèbres (CF9).",
+        "Quand Harry et Voldemort s'affrontent en duel, leurs baguettes, qui contiennent toutes les deux une plume du même phénix, déclenchent le sortilège Priori Incantatum (CF36)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/p/#prior-incanto",
+      "potterSlug": "reverse-spell",
+      "matchScore": 100
+    },
+    "protean-charm": {
+      "id": "proteiforme-sortilege",
+      "heading": "Protéiforme, sortilège [Protean Charm]",
+      "nameFr": "Protéiforme, sortilège",
+      "nameEn": "Protean Charm",
+      "etymology": "\"protéi\" qui peut prendre plusieurs formes, de Proteus, dieu marin de la mythologie grecque qui pouvait changer de forme rapidement.",
+      "effect": "Sortilège complexe qui fait changer quelque chose de forme.",
+      "examples": [
+        "Hermione peut lancer un sortilège Protéiforme sur les faux Gallions utilisés par l'A.D. pour prévenir les membres des dates et heures de la prochaine réunion. Le sortilège fait changer les nombres sur les pièces quand Harry change les nombres sur le sien. Les élèves de Serdaigle on été étonnés de voir qu'Hermione, qui n'était pas de leur maison, pouvait jeter un tel sortilège qui est du niveau des A.S.P.I.C.. Evidemment, aucun d'entre eux ne pouvait lancer un tel sort en cinquième année (OP19)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/p/#proteiforme-sortilege",
+      "potterSlug": "protean-charm",
+      "matchScore": 100
+    },
+    "reductor-curse": {
+      "id": "ratatinage",
+      "heading": "Ratatinage (ou Réduction), sortilège de [Reductor Curse]",
+      "nameFr": "Ratatinage , sortilège de",
+      "nameEn": "Reductor Curse",
+      "etymology": "",
+      "effect": "Voir REDUCTO",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#ratatinage",
+      "potterSlug": "reductor-curse",
+      "matchScore": 100
+    },
+    "scouring-charm": {
+      "id": "recurage",
+      "heading": "Récurage, sortilège de [Scouring Charm]",
+      "nameFr": "Récurage, sortilège de",
+      "nameEn": "Scouring Charm",
+      "etymology": "\"Récurvite\" (?)",
+      "effect": "Nettoye les choses, les ongles par exemple.",
+      "examples": [
+        "Hermione apprend à Neville le sortilège de Récurage pour nettoyer les intestins de crapaud sous ses ongles (CF14).",
+        "Un charme de Récurage est nécessaire pour éradiquer les Bandimons (AF).",
+        "Il n'y a pas d'indication claire que Récurvite (ci-dessous) et Récurage soient le même sort mais cela semble très probable."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#recurage",
+      "potterSlug": "scouring-charm",
+      "matchScore": 100
+    },
+    "shrinking-charm": {
+      "id": "reduction",
+      "heading": "Réduction [Reducio]",
+      "nameFr": "Réduction",
+      "nameEn": "Reducio",
+      "etymology": "de \"reducere\" L. réduire",
+      "effect": "inverse de : Amplificatum",
+      "examples": [
+        "Maugrey, qui a agrandi une araignée avec la formule Amplificatum , utilise Reducto pour lui rendre sa taille normale (CF14)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#reduction",
+      "potterSlug": "shrinking-charm",
+      "matchScore": 100
+    },
+    "mending-charm": {
+      "id": "reparo",
+      "heading": "Reparo",
+      "nameFr": "Reparo",
+      "nameEn": "",
+      "etymology": "\"reparare\" L. réparer",
+      "effect": "Annule les dommages subits par des choses ou objets.",
+      "examples": [
+        "Hermione lance ce sort pour réparer la vitre cassée de la porte du carrosse (CF8, 11).",
+        "Probablement le même sort qu'utilise Mr Weasley pour réparer les lunettes de Harry (CS4). Bill Weasley l'utilise pour réparer le pied de la table (CF5) ; Percy l'utilise pour réparer ses lunettes quand il s'incline un peu trop bas (CF8).",
+        "McGonagall utilise ce qui est certainement le même sort pour réparer le pied du bureau de Neville, accidentellement disparu (CS16).",
+        "Harry utilise cette formule pour réparer le bol chinois d'Essence de Murlap qu'il a renversé par terre. Toutefois, le sortilège ne peut faire revenir le liquide perdu dans le bol (OP15).",
+        "Rogue utilise ce sort dans son bureau pour réparer un bocal cassé pendant les leçons d'Occlumancie (OP26).",
+        "Hermione répare avec ce sort une tasse à thé que Ron avait cassé en cours de Métamorphose (OP30).",
+        "Après avoir découpé les couvertures de son ancien et de son nouveau manuel de potions et les avoir échangées, Harry les \"répara\" en les tapotant et en prononcant l'incantation (PSM11)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#reparo",
+      "potterSlug": "mending-charm",
+      "matchScore": 100
+    },
+    "muggle-repelling-charm": {
+      "id": "repousse-moldus",
+      "heading": "Repello Moldum [Repello Muggletum] [Muggle Repelling Charms]",
+      "nameFr": "Repello Moldum",
+      "nameEn": "Repello Muggletum",
+      "etymology": "de \"repello\", L. repousser + \"Moldu\"",
+      "effect": "Aussi présenté comme sortilèges Repousse-Moldus [Repello Muggle Repelling Charms].",
+      "examples": [
+        "Le stade de la Coupe du Monde de Quidditch est couvert de sortilèges Repousse-Moldus : tout au long de l'année, chaque fois qu'un Moldu s'approchait du site du stade, il se rappelait soudain un rendez-vous urgent et repartait au plus vite (CF8).",
+        "Hermione Granger utilise la formule Repello Moldum pour protéger le campement du trio lors de leur chasse aux Horcruxes (RM14)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#repousse-moldus",
+      "potterSlug": "muggle-repelling-charm",
+      "matchScore": 100
+    },
+    "boggart-banishing-spell": {
+      "id": "riddikulus",
+      "heading": "Riddikulus",
+      "nameFr": "Riddikulus",
+      "nameEn": "",
+      "etymology": "\"ridiculum\" L. plaisanterie ; de \"ridere\" L. rire",
+      "effect": "Protection contre un Epouvantard. Oblige la créature à prendre une apparence ridicule.",
+      "examples": [
+        "Lupin enseigne cette formule aux troisième année durant son cours de défense contre les forces du Mal. Le rire des spectateurs fait disparaître l'Epouvantard (PA, CF31)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/r/#riddikulus",
+      "potterSlug": "boggart-banishing-spell",
+      "matchScore": 100
+    },
+    "drought-charm": {
+      "id": "secheresse-sortilege",
+      "heading": "Sécheresse, sortilège de [Drought Charm]",
+      "nameFr": "Sécheresse, sortilège de",
+      "nameEn": "Drought Charm",
+      "etymology": "Pas de formule connue.",
+      "effect": "Sèche de l'eau.",
+      "examples": [
+        "Harry envisage un instant d'utiliser ce sort pour atteindre le fond du lac, mais il se rend compte qu'avec ce sort il ne peut vider un tel volume d'eau (CF26)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#secheresse-sortilege",
+      "potterSlug": "drought-charm",
+      "matchScore": 100
+    },
+    "laceration-curse": {
+      "id": "sectumsempra",
+      "heading": "Sectumsempra",
+      "nameFr": "Sectumsempra",
+      "nameEn": "",
+      "etymology": "\"sectus\" L. participe passé de \"seco\", \"couper\" + \"sempra\" L. toujours.",
+      "effect": "\"Découpe\" la cible.",
+      "examples": [
+        "Sortilège inventé par le Prince de Sang-Mêlé (\"contre les ennemis\") (PSM21).",
+        "C'est probablement le sort non verbal utilisé par Rogue sur le visage de James durant leur confrontation après leur B.U.S.E. de DCFM dont Harry a été témoin dans la Pensine (OP28), à en juger par la remarque de Rogue durant sa fuite de Poudlard (PSM28)",
+        "Harry l'utilisa contre Malefoy et faillit le tuer. Rogue en fut troublé et se demanda comment Harry pouvait connaître ce sortilège (PSM24)",
+        "Harry l'utilisa sur les Inferi dans la caverne mais sans grand résultat (PSM26)",
+        "Harry le lança sans succès sur Rogue lors de sa fuite (PSM28)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#sectumsempra",
+      "potterSlug": "laceration-curse",
+      "matchScore": 100
+    },
+    "unbreakable-vow": {
+      "id": "serment-inviolable",
+      "heading": "Serment Inviolable [Unbreakable Vow]",
+      "nameFr": "Serment Inviolable",
+      "nameEn": "Unbreakable Vow",
+      "etymology": "Incantation inconnue.",
+      "effect": "Le sortilège doit être effectué avec une baguette tenue par l'Enchaîneur. Il doit toucher, avec sa baguette, les mains jointes de la personne effectuant le serment et de la personne le recevant. A chaque clause du serment acceptée, l'Enchaîneur fait jaillir une langue de feu rougeâtre de sa baguette qui s'enroule autour des mains des participants, restant en place et s'entrelaçant avec les autres langues de feu au fil des autres clauses du serment (PSM2).",
+      "examples": [
+        "Rogue fit le Serment Inviolable à Narcissa Malefoy avec Bellatrix Lestrange comme Enchaîneur (PSM2)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#serment-inviolable",
+      "potterSlug": "unbreakable-vow",
+      "matchScore": 100
+    },
+    "snake-summons-spell": {
+      "id": "serpensortia",
+      "heading": "Serpensortia",
+      "nameFr": "Serpensortia",
+      "nameEn": "",
+      "etymology": "Serpens\" L. serpent + \"sortir\".",
+      "effect": "Fait jaillir un énorme serpent du bout de la baguette.",
+      "examples": [
+        "Drago lance ce sortilège sur Harry au Club de Duel, sur les conseils de Rogue. Le serpent tente d'attaquer Justin Finch-Fletchley et Harry tente de l'en empêcher (CS10)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#serpensortia",
+      "potterSlug": "snake-summons-spell",
+      "matchScore": 100
+    },
+    "amplifying-charm": {
+      "id": "sonorus",
+      "heading": "Sonorus (inverse : Sourdinam)",
+      "nameFr": "Sonorus",
+      "nameEn": "",
+      "etymology": "\"sonorus\" L. bruit",
+      "effect": "Permet à la voix de porter sur une grande distance.",
+      "examples": [
+        "Ludo Verpey utilise ce sortilège pour se faire entendre dans le stade de la Coupe du Monde de Quidditch et par les spectateurs du Tournoi des Trois Sorciers (CF8, 31)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#sonorus",
+      "potterSlug": "amplifying-charm",
+      "matchScore": 100
+    },
+    "quietening-charm": {
+      "id": "sourdinam",
+      "heading": "Sourdinam [Quietus] (inverse : Sonorus)",
+      "nameFr": "Sourdinam",
+      "nameEn": "Quietus",
+      "etymology": "",
+      "effect": "Inverse l'effet du sortilège Sonorus , rendant à l'auteur du sortilège sa voix normale.",
+      "examples": [
+        "Verpey utilise les sortilèges Sonorus et Sourdinam pour permettre à sa voix de porter assez loin lors des commentaires qu'il fait à la Coupe du Monde et au Tournoi des Trois Sorciers (CF8)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#sourdinam",
+      "potterSlug": "quietening-charm",
+      "matchScore": 100
+    },
+    "specialis-revelio": {
+      "id": "specialis-revelio",
+      "heading": "Specialis Revelio (Revelasort de Scarpin)",
+      "nameFr": "Specialis Revelio",
+      "nameEn": "",
+      "etymology": "",
+      "effect": "Utilisé pour identifier les ingrédients d'une potion.",
+      "examples": [
+        "Utilisé par Hermione sur la copie du Manuel avancé de préparation des potions du Prince de Sang-Mêlé (PSM9)",
+        "Utilisé par Ernie Macmillan (PSM18)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#specialis-revelio",
+      "potterSlug": "specialis-revelio",
+      "matchScore": 100
+    },
+    "patronus-charm": {
+      "id": "spero-patronum",
+      "heading": "Spero Patronum [Expecto Patronum]",
+      "nameFr": "Spero Patronum",
+      "nameEn": "Expecto Patronum",
+      "etymology": "\"spero\" L. espérer + \"patronus\" L. patron, protecteur",
+      "effect": "Crée un Patronus, créature fantomatique, habituellement une forme d'animal qui est l'incarnation des pensées positives de l'auteur du sort. Un Patronus repousse les Détraqueurs.",
+      "examples": [
+        "Lupin apprend ce sortilège à Harry qui ne produit qu'un faible résultat jusqu'au jour où il est face à un groupe de Détraqueurs qui menacent Sirius Black . Harry voit arriver un Patronus qui charge à travers le lac et il comprend plus tard que c'est lui-même qui l'a produit (PA12, CF31).",
+        "Harry utilise ce sortilège pour repousser deux Détraqueurs dans l'allée près de Privet Drive. Ce qui lui attirera de graves ennuis, mais il n'avait pas d'autre possibilités (OP1).",
+        "Le Patronus de Harry est un cerf alors que celui de Hermione est une loutre et celui de Cho un cygne. Seamus ne sait pas très bien ce qu'est le sien sauf qu'il est très velu (OP27).",
+        "Ndt : gardé sous sa forme originale dans la v.f. de PA/f"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#spero-patronum",
+      "potterSlug": "patronus-charm",
+      "matchScore": 100
+    },
+    "stunning-spell": {
+      "id": "stupefix",
+      "heading": "Stupéfix [Stupefy]",
+      "nameFr": "Stupéfix",
+      "nameEn": "Stupefy",
+      "etymology": "\"stupefacio\" L. faire perdre conscience, de \"stupeo\" L. assommer",
+      "effect": "Rend la cible inconsciente ; ce sort projette une boule de lumière rouge.",
+      "examples": [
+        "Utilisé par les sorciers du ministère pour tenter de stopper l'inconnu qui a lancé la Marque des Ténèbres (CF9).",
+        "Utilisé par les gardiens des dragons (plusieurs à la fois) pour contenir les dragons (CF).",
+        "Flavius Belby essaie le sort de Stupéfiction contre un Moremplis, mais le seul résultat est un trou dans la porte de sa chambre (AF).",
+        "Permet de repousser les Povrebins (AF).",
+        "Harry le lança sans succès sur Rogue lors de sa fuite (PSM28)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#stupefix",
+      "potterSlug": "stunning-spell",
+      "matchScore": 100
+    },
+    "transmogrifian-torture": {
+      "id": "supplice-de-metamorphose",
+      "heading": "Supplice de Métamorphose [Transmogrifian Torture]",
+      "nameFr": "Supplice de Métamorphose",
+      "nameEn": "Transmogrifian Torture",
+      "etymology": "",
+      "effect": "Supplice supposé provoquer la mort.",
+      "examples": [
+        "Lockhart annonce comme certain que Miss Teigne est morte, victime du Supplice de Métamorphose. Immédiatement après, Dumbledore informe tout le monde qu'elle n'est pas morte mais pétrifiée , et Lockhart répond que c'est bien ce qu'il pensait. Connaissant Lockhart, il est bien possible que le Supplice de Métamorphose n'existe même pas (c.f. MUTINLUTIN MALINPESTI ) (CS9)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/s/#supplice-de-metamorphose",
+      "potterSlug": "transmogrifian-torture",
+      "matchScore": 100
+    },
+    "dancing-feet-spell": {
+      "id": "tarantallegra",
+      "heading": "Tarantallegra",
+      "nameFr": "Tarantallegra",
+      "nameEn": "",
+      "etymology": "\"tarantella\" italien (tarantelle) : danse venant de Taranto, ville d'Italie + \"allegro\" italien : rapide",
+      "effect": "Force les jambes de la victime à s'agiter selon une danse folle.",
+      "examples": [
+        "Drago utilise ce maléfice contre Harry durant la première et dernière réunion du Club de Duel (CS10)",
+        "Dolohov utilise ce maléfice contre Neville pendant la bataille du Département des mystères (OP35)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/t/#tarantallegra",
+      "potterSlug": "dancing-feet-spell",
+      "matchScore": 100
+    },
+    "wiping-spell": {
+      "id": "tergeo",
+      "heading": "Tergeo",
+      "nameFr": "Tergeo",
+      "nameEn": "",
+      "etymology": "\"tergeo\" L. nettoyer, sécher, récurer",
+      "effect": "Nettoye la cible ; objet ou individu.",
+      "examples": [
+        "Hermione utilisa ce sort pour nettoyer le sang séché présent sur le visage de Harry dont le nez venait d'être cassé par Malefoy (PSM8)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/t/#tergeo",
+      "potterSlug": "wiping-spell",
+      "matchScore": 100
+    },
+    "bubble-head-charm": {
+      "id": "tetenbulle",
+      "heading": "Têtenbulle [Bubble-Head Charm]",
+      "nameFr": "Têtenbulle",
+      "nameEn": "Bubble-Head Charm",
+      "etymology": "pas de formule connue",
+      "effect": "Enferme la tête de l'auteur du sort dans une bulle d'air.",
+      "examples": [
+        "Durant la deuxième tâche , Cedric utilise ce sort pour nager sous l'eau et sauver Cho (CF26).",
+        "Durant la deuxième tâche, Fleur utilise ce sort pour nager sous l'eau et essayer de rejoindre Gabrielle (CF26).",
+        "C'est devenu à la mode durant les derniers mois de la cinquième année de Harry de s'appliquer ce sortilège ; des Bombabouses et boules puantes étant très fréquemment jetées dans les couloirs (OP30)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/t/#tetenbulle",
+      "potterSlug": "bubble-head-charm",
+      "matchScore": 100
+    },
+    "apparition": {
+      "id": "transplanage",
+      "heading": "Transplanage [Apparition]",
+      "nameFr": "Transplanage",
+      "nameEn": "Apparition",
+      "etymology": "ou \"Transplaner\", ce qui englobe les deux (en français uniquement)",
+      "effect": "\"Apparaître\", \"Disparaître\" [\"Apparate, Disapparate\"] ou \"Transplaner\", ce qui englobe les deux (en français uniquement)",
+      "examples": [
+        "Voir ES2 pour un exemple de Transplanage sans utilisation de baguette magique.",
+        "Sort très difficile à maîtriser. Mal exécuté, un Transplanage peut causer une \"désartibulation\", ce qui signifie qu'un partie du corps du maladroit reste sur place. Il n'est heureusement pas coupé en deux ; il est juste bloqué.",
+        "Le transplanage est régulé par le ministère. Les sorciers doivent passer un examen et obtenir un permis pour avoir le droit de transplaner. Pour passer l'examen, le candidat doit avoir plus de 17 ans (la majorité chez les sorciers) (CF6, OP7, PSM).",
+        "La difficulté du Transplanage augmente avec la distance. Seuls des sorciers hautement entraînés peuvent envisager des Transplanages intercontinentaux (QA).",
+        "Il est possible d'accompagner quelqu'un qui transplane, sans savoir soi-même transplaner : ils suffit de s'agripper à lui (PSM3)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/t/#transplanage",
+      "potterSlug": "apparition",
+      "matchScore": 100
+    },
+    "entrail-expelling-curse": {
+      "id": "videntrailles",
+      "heading": "Videntrailles, sortilège de [Entrail-Expelling Curse]",
+      "nameFr": "Videntrailles, sortilège de",
+      "nameEn": "Entrail-Expelling Curse",
+      "etymology": "pas de formule connue",
+      "effect": "Apparemment, ce maléfice fait sortir les viscères de la victime hors d'elle !",
+      "examples": [
+        "Cet horrible maléfice fut inventé par Urquhart Rackharrow dans les années 1600. Son portrait est accroché au mur de la salle Dai Llewellyn à Ste Mangouste (OP22)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/v/#videntrailles",
+      "potterSlug": "entrail-expelling-curse",
+      "matchScore": 100
+    },
+    "projectile-jinx": {
+      "id": "waddiwasi",
+      "heading": "Waddiwasi",
+      "nameFr": "Waddiwasi",
+      "nameEn": "",
+      "etymology": "\"vadd\", en suédois \"masse souple\" + \"vas y\" (c'est significatif car Lupin ne fait pas seulement partir le chewing-gum du trou de la serrure, il le projette directement dans la narine de Peeves [merci à Alina]).",
+      "effect": "Projette une boule de chewing-gum du trou d'une serrure.",
+      "examples": [
+        "Lupin considère cela comme un petit sort bien utile. Il l'utilise pour enlever la boule de chewing-gum du trou de la serrure. Le chewing-gum est projeté dans le nez de Peeves (PA7).",
+        "Le \"sort bien utile\" que Lupin leur montrait était sans doute la partie \"wasi\", associé avec un nom désignant la cible ; \"wad\" dans ce cas-ci. A nouveau, nous voyons l'importance de l'intention dans la magie, puisque la boule part directement dans la narine de Peeves par la volonté avec la partie \"vas y\" de la formule. Dans d'autres situations, la formule pourrait être \"robawasi\" pour envoyer une robe dans la malle d'un élève, mais seulement si l'élève se concentre sur l'endroit où il veut que la robe soit envoyée."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/w/#waddiwasi",
+      "potterSlug": "projectile-jinx",
+      "matchScore": 100
+    },
+    "levitation-charm": {
+      "id": "wingardium-leviosa",
+      "heading": "Wingardium Leviosa",
+      "nameFr": "Wingardium Leviosa",
+      "nameEn": "",
+      "etymology": "(OP31)",
+      "effect": "sortilège de Lévitation [Levitation Charm] (OP31)",
+      "examples": [
+        "Sort très simple enseigné aux élèves de première année (ES10).",
+        "Dans un excellent exemple pour montrer l'importance de l'intention dans la magie, Ron utilise ce sort pour faire léviter puis tomber sur la tête du troll son propre gourdin. La partie \"wing\" de la formule semble la rendre spécifique aux plumes.",
+        "Flitwick apprend aux première année que la lévitation est \"l'une des aptitudes les plus élémentaires d'un sorcier\" (ES/f)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/w/#wingardium-leviosa",
+      "potterSlug": "levitation-charm",
+      "matchScore": 100
+    },
+    "anti-cheating-spell": {
+      "id": "anti-fraude-sortileges",
+      "heading": "Anti-fraude, sortilèges d' [Anti-Cheating Spells]",
+      "nameFr": "Anti-fraude, sortilèges d'",
+      "nameEn": "Anti-Cheating Spells",
+      "etymology": "Pas de formule ou de nom connus",
+      "effect": "Appliqués sur les plumes avant les examens.",
+      "examples": [],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/a/#anti-fraude-sortileges",
+      "potterSlug": "anti-cheating-spell",
+      "matchScore": 80
+    },
+    "levitation-spell": {
+      "id": "levitation-sorts",
+      "heading": "lévitation, sorts de [Levitation Spells]",
+      "nameFr": "lévitation, sorts de",
+      "nameEn": "Levitation Spells",
+      "etymology": "Divers sorts.",
+      "effect": "La lévitation permet à une personne ou un objet de flotter un mètre cinquante au dessus du sol.",
+      "examples": [
+        "Le sort Wingardium Leviosa est un sort de lévitation (ES).",
+        "Dobby utilise un sortilège de lévitation pour faire flotter le gâteau de la Tante Pétunia à travers la cuisine (CS2)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#levitation-sorts",
+      "potterSlug": "levitation-spell",
+      "matchScore": 80
+    },
+    "switching-spell": {
+      "id": "transfert",
+      "heading": "Transfert, sortilèges de [Switching Spells]",
+      "nameFr": "Transfert, sortilèges de",
+      "nameEn": "Switching Spells",
+      "etymology": "variés, selon la transformation désirée",
+      "effect": "Une partie des sorts de Métamorphose qui transforme une chose en une autre.",
+      "examples": [
+        "Hermione connaît déjà des sortilèges de Transfert dès sa première année. McGonagall fait gagner des points à Gryffondor pour cela (ES9).",
+        "Neville n'était pas très doué pour ce sort, puisqu'il avait accidentellement transplanté ses propres oreilles sur un cactus durant le cours de métamorphose (CF15).",
+        "Hermione, discutant des moyens de battre les dragons : \"Ça, ce sont des sortilèges de Transfert. Mais à quoi ça pourrait bien servir ? A moins de lui transférer de la guimauve à la place des crocs pour le rendre moins dangereux...\" (CF20)",
+        "La définition des sortilèges de Transfert était l'un des sujets de l'épreuve écrite de métamorphose des B.U.S.E. de Harry en juin 1996 (OP31)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/t/#transfert",
+      "potterSlug": "switching-spell",
+      "matchScore": 80
+    },
+    "reviving-spell": {
+      "id": "enervatum",
+      "heading": "Enervatum [Ennervate]",
+      "nameFr": "Enervatum",
+      "nameEn": "Ennervate",
+      "etymology": "\"e\" sans et \"nervus\" L. nerf.",
+      "effect": "Sort pour rendre à la vie une personne stupéfixiée.",
+      "examples": [
+        "Amos Diggory réveille Winky avec cette formule (CF9).",
+        "Dumbledore l'utilise pour réveiller Barty Croupton Jr. (CF35)",
+        "Note : dans certaines versions anglaises, cette formule est orthographiée \"Ennervate\", dans d'autres \"Enervate\", ce qui change complètement le sens (avec ou sans nerfs)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/e/#enervatum",
+      "potterSlug": "reviving-spell",
+      "matchScore": 72
+    },
+    "general-counter-spell": {
+      "id": "finite-incantatem",
+      "heading": "Finite Incantatem",
+      "nameFr": "Finite Incantatem",
+      "nameEn": "",
+      "etymology": "\"finio\" L. finir, cesser, mourir + \"incantationem\" L. art d'ensorceler",
+      "effect": "Interrompt l'effet du sortilège en cours.",
+      "examples": [
+        "Rogue utilise cette formule pour faire cesser les divers sortilèges malheureux qui affectent les membres du club de duel quand la situation commence à dégénérer (CS11).",
+        "Contrairement à ce que montre le deuxième film, ce sortilège ne peut arrêter le Cognard fou. La magie requise pour ensorceler les Cognards est d'un niveau très élevé et ne peut être contrecarrée par une simple formule, encore moins lancée par une adolescente de douze ans (CS/f)."
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/f/#finite-incantatem",
+      "potterSlug": "general-counter-spell",
+      "matchScore": 72
+    },
+    "horn-tongue-hex": {
+      "id": "langue-de-corne",
+      "heading": "Langue de corne [Horn Tongue]",
+      "nameFr": "Langue de corne",
+      "nameEn": "Horn Tongue",
+      "etymology": "Pas de formule connue.",
+      "effect": "Fait apparaître une corne sur la langue de la cible. Quel avantage cela représente, on se le demande !",
+      "examples": [
+        "Harry, qui cherche un bon sort pour s'aider dans le combat contre le dragon, renonce à celui-ci qui ne ferait que donner une arme de plus à la créature. (CF20)"
+      ],
+      "dedicatedUrl": null,
+      "sourceUrl": "https://www.encyclopedie-hp.org/monde-magique/sorts/l/#langue-de-corne",
+      "potterSlug": "horn-tongue-hex",
+      "matchScore": 72
+    }
+  }
+}

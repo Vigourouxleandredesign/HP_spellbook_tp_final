@@ -1,0 +1,1076 @@
+{
+  "alarte-ascendare": {
+    "name": { "fr": "Alarte Ascendare" },
+    "effect": { "fr": "Charme qui projette un objet en l’air." }
+  },
+  "albus-dumbledore-s-forceful-spell": {
+    "name": { "fr": "Sort vigoureux d’Albus Dumbledore" },
+    "effect": { "fr": "Sort employé par Dumbledore au Ministère de la Magie britannique, le 18 juin 1996, lors de son duel contre Voldemort pendant la bataille du Département des Mystères." }
+  },
+  "alohomora-duo": {
+    "name": { "fr": "Alohomora Duo" },
+    "effect": { "fr": "Variante renforcée du charme de déverrouillage : elle ouvre portes et serrures, sans que l’on sache précisément en quoi elle surpasse Alohomora." }
+  },
+  "altering-spell": {
+    "name": { "fr": "Sortilège d’altération" },
+    "effect": { "fr": "Métamorphose qui change la forme ou la couleur d’un objet." }
+  },
+  "amplificus": {
+    "name": { "fr": "Amplificus" },
+    "effect": { "fr": "Sort dont l’effet exact demeure inconnu ; il n’amplifie toutefois pas le son." }
+  },
+  "animagus-spell": {
+    "name": { "fr": "Sortilège Animagus" },
+    "effect": { "fr": "Métamorphose (Amato Animo Animato Animagus) qui entre dans le rituel permettant de devenir Animagus." }
+  },
+  "animation-charm": {
+    "name": { "fr": "Charme d’animation" },
+    "effect": { "fr": "Charme (Piertotum Locomotor) qui anime des objets jusqu’alors inertes et dont le lanceur peut diriger les mouvements. C’était l’un des sorts favoris du professeur McGonagall. Appliqué à un squelette, il le charme — ce qui n’est pas de la magie noire, contrairement à la nécromancie, bien que le résultat se ressemble." }
+  },
+  "anteoculatia": {
+    "name": { "fr": "Anteoculatia" },
+    "effect": { "fr": "Charme obscur qui fait pousser des bois de cerf sur la tête de la cible." }
+  },
+  "anti-apparition-charm": {
+    "name": { "fr": "Charme anti-Transplanage" },
+    "effect": { "fr": "Jinx, aussi appelé charme anti-Apparition, qui empêche de transplaner dans une zone. Il protège depuis longtemps le château et le parc de Poudlard ; seul le directeur en exercice peut le lever." }
+  },
+  "anti-disapparition-jinx": {
+    "name": { "fr": "Jinx anti-Déplanage" },
+    "effect": { "fr": "Jinx qui empêche de déplaner hors d’une zone. On s’en sert pour y retenir quelqu’un, protéger un lieu — ou y piéger une proie." }
+  },
+  "anti-intruder-jinx": {
+    "name": { "fr": "Jinx anti-intrus" },
+    "effect": { "fr": "Jinx (incantation inconnue) posé sur un lieu pour en interdire l’entrée aux indésirables. Il fut jeté sur Poudlard en 1996, pour renforcer les défenses contre les Mangemorts." }
+  },
+  "antonin-dolohov-s-curse": {
+    "name": { "fr": "Malédiction d’Antonin Dolohov" },
+    "effect": { "fr": "Malédiction (incantation inconnue) lancée par le Mangemort Antonin Dolohov lors de la bataille du Département des Mystères, en 1996. Un coup de baguette tranchant projette une traînée de flammes violettes : les blessures sont graves, et le sort peut tuer s’il est assez puissant." }
+  },
+  "aqua-eructo": {
+    "name": { "fr": "Aqua Eructo" },
+    "effect": { "fr": "Charme qui fait jaillir de l’eau de la pointe de la baguette, d’un mince filet jusqu’à un jet puissant." }
+  },
+  "aquarius-scarius": {
+    "name": { "fr": "Aquarius Scarius" },
+    "effect": { "fr": "Charme dont l’effet exact demeure inconnu." }
+  },
+  "arrow-shooting-spell": {
+    "name": { "fr": "Sortilège tire-flèches" },
+    "effect": { "fr": "Métamorphose qui fait jaillir des flèches de la baguette du lanceur." }
+  },
+  "ascendio": {
+    "name": { "fr": "Charme d’ascension" },
+    "effect": { "fr": "Charme (Ascendio) qui projette le lanceur haut dans les airs. Sous l’eau, il le propulse jusqu’à la surface." }
+  },
+  "atmospheric-charm": {
+    "name": { "fr": "Charme atmosphérique" },
+    "effect": { "fr": "Charme de modification du temps qu’il fait, qui recrée un climat à l’intérieur. On le dissipe avec Meteolojinx recanto." }
+  },
+  "avenseguim": {
+    "name": { "fr": "Avenseguim" },
+    "effect": { "fr": "Charme qui transforme un objet en dispositif de pistage." }
+  },
+  "avifors-spell": {
+    "name": { "fr": "Sortilège Avifors" },
+    "effect": { "fr": "Métamorphose (Avifors) qui change petits objets et créatures en oiseaux. Contre certains êtres, on la tient pour un jinx." }
+  },
+  "badgering": {
+    "name": { "fr": "Badgering" },
+    "effect": { "fr": "Métamorphose qui change la cible en blaireau." }
+  },
+  "bandaging-charm": {
+    "name": { "fr": "Charme de bandage" }
+  },
+  "basic-cast": {
+    "name": { "fr": "Jet de base" },
+    "effect": { "fr": "Sort qui lance des étincelles rouges et blesse la cible. On l’emploie surtout en duel, ou pour tenir à distance une créature agressive." }
+  },
+  "baubillious": {
+    "name": { "fr": "Baubillious" },
+    "effect": { "fr": "Charme qui fait jaillir un jet d’étincelles blanches de la baguette. On peut s’en servir en duel." }
+  },
+  "bedazzling-hex": {
+    "name": { "fr": "Maléfice d’éblouissement" },
+    "effect": { "fr": "Maléfice qui déguise un objet au point de le rendre invisible. Jeté sur une cape, il en fait une cape d’invisibilité — dont l’effet, comme pour la plupart, s’affaiblit avec le temps." }
+  },
+  "bewitched-snowballs": {
+    "name": { "fr": "Boules de neige ensorcelées" },
+    "effect": { "fr": "Charme qui ensorcelle des boules de neige : elles poursuivent une cible désignée et ne cessent de s’y jeter." }
+  },
+  "bird-conjuring-charm": {
+    "name": { "fr": "Sortilège de conjuration d’oiseaux" }
+  },
+  "bloomus": {
+    "name": { "fr": "Bloomus" },
+    "effect": { "fr": "Charme lié à la botanique, dont l’effet exact n’est pas connu ; il n’accélère pas la croissance des plantes." }
+  },
+  "blue-sparks": {
+    "name": { "fr": "Étincelles bleues" },
+    "effect": { "fr": "Charme qui fait jaillir un jet d’étincelles bleues de la baguette. En duel, c’est un sort mineur ; en grande quantité, ces étincelles gênent la vue et la respiration." }
+  },
+  "boggart-banishing-spell": {
+    "name": { "fr": "Sortilège anti-épouvantard" }
+  },
+  "bombarda-maxima": {
+    "name": { "fr": "Bombarda Maxima" },
+    "effect": { "fr": "Incantation de la variante la plus puissante du sortilège de bombardement. Elle provoque de violentes explosions, capables d’abattre des murs entiers." }
+  },
+  "bombardment-spell": {
+    "name": { "fr": "Sortilège de bombardement" },
+    "effect": { "fr": "Charme explosif (Bombarda) qui fait sauter la cible. On s’en sert pour éventrer une porte scellée ou arracher les barreaux d’une fenêtre. Il est bruyant, donc peu discret, et sa lumière crue peut blesser les yeux. Bombarda Maxima en est la forme la plus forte." }
+  },
+  "bouquet-spell": {
+    "name": { "fr": "Sortilège du bouquet" }
+  },
+  "box-blasting-charm": {
+    "name": { "fr": "Charme d’ouverture des coffres" },
+    "effect": { "fr": "Charme (Cistem Aperio) qui fait éclater malles, coffres, caisses et autres contenants." }
+  },
+  "brackium-emendo": {
+    "name": { "fr": "Brackium Emendo" },
+    "effect": { "fr": "Sort de guérison censé souder un os brisé — ou, parfois, le faire disparaître. On ignore s’il s’agit d’un vrai sortilège médical ou d’une variante maladroite." }
+  },
+  "bravery-charm": {
+    "name": { "fr": "Charme de bravoure" },
+    "effect": { "fr": "Charme qui aiguise l’ardeur des alliés face à certains ennemis." }
+  },
+  "bridge-conjuring-spell": {
+    "name": { "fr": "Sortilège de conjuration de pont" },
+    "effect": { "fr": "Métamorphose qui fait apparaître un pont à partir de rien. Ignotus, Antioch et Cadmus Peverell s’en servirent, dans le Conte des trois frères, pour franchir un fleuve traître — et y rencontrèrent la Mort." }
+  },
+  "broom-jinx": {
+    "name": { "fr": "Jinx de balai" },
+    "effect": { "fr": "Jinx qui pousse un balai à désarçonner son cavalier, par à-coups soudains et mouvements violents." }
+  },
+  "bubble-spell": {
+    "name": { "fr": "Sortilège de bulles" },
+    "effect": { "fr": "Sort qui fait naître un chapelet de bulles à la pointe de la baguette." }
+  },
+  "cascading-jinx": {
+    "name": { "fr": "Jinx en cascade" },
+    "effect": { "fr": "Jinx qui frappe plusieurs adversaires proches les uns des autres. Il éclate en explosion et touche tout ce qui se trouve dans le rayon choisi par le lanceur." }
+  },
+  "caterwauling-charm": {
+    "name": { "fr": "Charme de hurlement" },
+    "effect": { "fr": "Charme qui déclenche un cri perçant dès qu’une personne non autorisée franchit le périmètre protégé." }
+  },
+  "cauldron-to-badger-spell": {
+    "name": { "fr": "Sortilège chaudron-en-blaireau" },
+    "effect": { "fr": "Métamorphose qui change un chaudron en blaireau. On l’enseigne à Poudlard au plus tard en cinquième année ; Harry Potter s’y exerça pour ses ASPIC, en 1995-1996." }
+  },
+  "cauldron-to-sieve": {
+    "name": { "fr": "Sortilège chaudron-en-passoire" },
+    "effect": { "fr": "Métamorphose qui transforme les chaudrons en passoires." }
+  },
+  "cave-inimicum": {
+    "name": { "fr": "Cave Inimicum" },
+    "effect": { "fr": "Charme protecteur qui dresse une limite dissimulant le lanceur. De l’autre côté, on ne le voit pas, on ne l’entend pas et, si le sort est bien jeté, on ne le sent pas non plus." }
+  },
+  "circumrota": {
+    "name": { "fr": "Circumrota" },
+    "effect": { "fr": "Charme qui fait tourner ou pivoter des objets." }
+  },
+  "cleaning-charm": {
+    "name": { "fr": "Charme de nettoyage" },
+    "effect": { "fr": "Sort de propreté qui nettoie la cible." }
+  },
+  "colour-change-charm": {
+    "name": { "fr": "Charme de changement de couleur" },
+    "effect": { "fr": "Charme (Colovaria) qui change la couleur de la cible. Son incantation rappelle celle du charme de croissance." }
+  },
+  "combat-bolt": {
+    "name": { "fr": "Éclair de combat" },
+    "effect": { "fr": "Sort offensif courant, qui frappe et blesse l’adversaire. Au XXIe siècle, les agents de la Force d’intervention du Secret magique s’en servirent beaucoup contre les ennemis de la Calamité." }
+  },
+  "concealment-charm": {
+    "name": { "fr": "Charme de dissimulation" },
+    "effect": { "fr": "Charmes qui dérobent des choses à la vue et masquent les propriétés magiques d’un objet." }
+  },
+  "confusion-hex": {
+    "name": { "fr": "Maléfice de confusion" },
+    "effect": { "fr": "Maléfice qui trouble l’esprit de l’adversaire et l’affaiblit, le rendant plus vulnérable." }
+  },
+  "conjunctivitis-curse": {
+    "name": { "fr": "Malédiction de Conjonctivite" },
+    "effect": { "fr": "Sortilège qui irrite les yeux de la cible jusqu’à les faire gonfler et se fermer. Les dragons y sont particulièrement sensibles : leur peau résiste à presque tout, mais leurs yeux restent une faille. La potion Oculus peut le contrer. Une variante violette aveugle tout à fait, et celle-là résiste à la potion." }
+  },
+  "cornflake-skin-spell": {
+    "name": { "fr": "Jinx de la peau en flocons" },
+    "effect": { "fr": "Charme obscur qui donne à la peau l’aspect d’une croûte de flocons de maïs." }
+  },
+  "cracker-jinx": {
+    "name": { "fr": "Jinx des pétards" },
+    "effect": { "fr": "Jinx qui fait apparaître des pétards de sorcier explosifs. En duel, il blesse l’adversaire — mais le souffle peut aussi atteindre le lanceur." }
+  },
+  "cribbing-spell": {
+    "name": { "fr": "Sortilège d’antisèche" },
+    "effect": { "fr": "Charme qui aide à tricher aux devoirs, contrôles et examens écrits." }
+  },
+  "crinus-muto": {
+    "name": { "fr": "Crinus Muto" },
+    "effect": { "fr": "Métamorphose qui change la couleur et la coupe des cheveux du lanceur." }
+  },
+  "curse-of-the-bogies": {
+    "name": { "fr": "Malédiction des Crottes de nez" },
+    "effect": { "fr": "Malédiction (Mucus ad Nauseam) qui donne un vilain rhume et un nez qui coule à torrents, assez pour faire s’effondrer la victime si l’on n’y remédie pas. Les éternuements ne cessent pas. Un second jet n’aggrave rien, sauf avec les variantes Duo ou Tria. Un contre-sort existe, et la potion Pepperup — comme l’antidote aux poisons courants — peut aussi soulager." }
+  },
+  "dancing-feet-spell": {
+    "name": { "fr": "Sortilège des pieds dansants" }
+  },
+  "dangling-jinx": {
+    "name": { "fr": "Jinx de suspension" }
+  },
+  "densaugeo": {
+    "name": { "fr": "Densaugeo" },
+    "effect": { "fr": "Maléfice qui fait s’allonger les dents de devant à une vitesse alarmante." }
+  },
+  "deprimo": {
+    "name": { "fr": "Sortilège Deprimo" },
+    "effect": { "fr": "Charme (Deprimo) qui perce le sol de trous. Assez fort pour pulvériser le plancher d’une pièce en quelques secondes." }
+  },
+  "descending-charm": {
+    "name": { "fr": "Charme de descente" },
+    "effect": { "fr": "Charme (Descendo) qui fait chuter ou descendre les objets. Il peut aussi, pour un temps, empêcher une victime de piqûre de Billywig de flotter." }
+  },
+  "desk-into-pig": {
+    "name": { "fr": "Sortilège pupitre-en-cochon" },
+    "effect": { "fr": "Métamorphose (incantation inconnue) qui change des pupitres en cochons. Sort relativement avancé." }
+  },
+  "deterioration-hex": {
+    "name": { "fr": "Maléfice de détérioration" },
+    "effect": { "fr": "Maléfice qui affaiblit l’adversaire et lui ôte de l’endurance." }
+  },
+  "diminuendo": {
+    "name": { "fr": "Diminuendo" },
+    "effect": { "fr": "Charme qui fait rétrécir la cible, y compris un être humain." }
+  },
+  "disintegration-spell": {
+    "name": { "fr": "Sortilège de désintégration" },
+    "effect": { "fr": "Charme obscur qui fait éclater la personne touchée en menus morceaux, jusqu’à la désintégrer." }
+  },
+  "doubling-charm": {
+    "name": { "fr": "Charme de duplication" },
+    "effect": { "fr": "Charme (Geminio) qui duplique un objet en une réplique presque indistincte de l’original. Avec l’incantation Gemino, il devient une malédiction : à chaque contact, l’objet se multiplie sans fin, jusqu’à emplir l’espace et écraser l’intrus sous le poids des copies." }
+  },
+  "draconifors-spell": {
+    "name": { "fr": "Sortilège Draconifors" },
+    "effect": { "fr": "Métamorphose (Draconifors) qui change des objets en petits dragons." }
+  },
+  "ducklifors": {
+    "name": { "fr": "Ducklifors" },
+    "effect": { "fr": "Jinx de métamorphose qui change un être vivant en canard. Les élèves de quatrième année et au-delà savent le jeter ; on l’enseigne donc en Métamorphose au plus tard cette année-là." }
+  },
+  "dumbledore-s-army-parchment-jinx": {
+    "name": { "fr": "Jinx du parchemin de l’Armée de Dumbledore" },
+    "effect": { "fr": "Jinx posé par Hermione Granger en 1995 pour se garder des traîtres au sein de l’Armée de Dumbledore. Quiconque trahissait le groupe, après avoir signé le parchemin, se couvrait de furoncles sur les joues et le nez, formant le mot « CAFTEUR »." }
+  },
+  "ear-shrivelling-curse": {
+    "name": { "fr": "Sortilège de ratatinage des oreilles" },
+    "effect": { "fr": "Malédiction qui fait se ratatiner les oreilles de la cible." }
+  },
+  "ears-to-kumquats-spell": {
+    "name": { "fr": "Sortilège oreilles-en-kumquats" },
+    "effect": { "fr": "Métamorphose qui change les oreilles de la victime en kumquats. Le Chicaneur du 1er septembre 1995 prétendait qu’en retournant certaines runes publiées, on révélait ce sort." }
+  },
+  "ebublio-jinx": {
+    "name": { "fr": "Jinx Ebublio" },
+    "effect": { "fr": "Jinx (Ebublio), aussi appelé jinx de bulle, qui enferme la cible dans une énorme bulle : on ne la perce pas à la force des bras, et le prisonnier n’y voit goutte. Filius Flitwick en inventa une version d’où l’on pouvait voir au-dehors." }
+  },
+  "echo-detection-charm": {
+    "name": { "fr": "Charme de détection par écho" },
+    "effect": { "fr": "Charme qui envoie des ondes de force ; elles rebondissent vers le lanceur lorsqu’elles frappent une cible." }
+  },
+  "engorgio-skullus": {
+    "name": { "fr": "Engorgio Skullus" },
+    "effect": { "fr": "Charme obscur, variante du sortilège d’engorgement, qui fait enfler la tête de la victime. Le contre-sort est le sortilège de rétrécissement de tête." }
+  },
+  "episkey": {
+    "name": { "fr": "Episkey" },
+    "effect": { "fr": "Charme de guérison qui soigne les blessures assez légères : nez cassé, orteils, lèvres fendues." }
+  },
+  "epoximise": {
+    "name": { "fr": "Epoximise" },
+    "effect": { "fr": "Métamorphose qui colle deux objets l’un à l’autre, sans doute en changeant l’un d’eux en adhésif ou en faisant apparaître une substance gluante." }
+  },
+  "eradication-spell": {
+    "name": { "fr": "Sortilège d’éradication" }
+  },
+  "erecto": {
+    "name": { "fr": "Erecto" },
+    "effect": { "fr": "Charme qui redresse un objet et le met en place." }
+  },
+  "everte-statum": {
+    "name": { "fr": "Everte Statum" },
+    "effect": { "fr": "Charme qui projette l’adversaire de plusieurs pas en arrière. La douleur est vive et brève, selon la force du jet, mais sans séquelle durable." }
+  },
+  "expulso-curse": {
+    "name": { "fr": "Sortilège Expulso" },
+    "effect": { "fr": "Malédiction (Expulso) qui déclenche de terribles explosions : un éclat de lumière bleue disloque la cible, assez fort pour jeter quelqu’un contre un mur." }
+  },
+  "extension-charm": {
+    "name": { "fr": "Charme d’extension" },
+    "effect": { "fr": "Charme (Capacious Extremis) qui agrandit l’intérieur d’un objet sans en changer l’extérieur, en augmente la capacité et en allège le contenu. Magie avancée, étroitement contrôlée par le Ministère de la Magie." }
+  },
+  "false-memory-spell": {
+    "name": { "fr": "Sortilège de faux souvenirs" },
+    "effect": { "fr": "Sort qui implante dans l’esprit d’une victime un souvenir qui n’est pas le sien, sans qu’elle s’en doute. Contrairement au sortilège de l’Oubli, il n’efface rien : il ajoute des souvenirs tout à fait artificiels." }
+  },
+  "feather-light-charm": {
+    "name": { "fr": "Charme de légèreté" },
+    "effect": { "fr": "Charme qui rend un objet lourd léger comme une plume." }
+  },
+  "ferret-to-human-spell": {
+    "name": { "fr": "Sortilège furet-en-humain" },
+    "effect": { "fr": "Métamorphose qui change un furet en être humain, inverse du sort humain-en-furet. Minerva McGonagall s’en servit sur Draco Malfoy en 1994." }
+  },
+  "fianto-duri": {
+    "name": { "fr": "Fianto Duri" },
+    "effect": { "fr": "Charme qui, combiné à une protection comme Protego Maxima, durcit les défenses magiques et les rend plus solides." }
+  },
+  "fiendfyre": {
+    "name": { "fr": "Feudeymon" },
+    "effect": { "fr": "Malédiction mortelle (Pestis Incendium) qui engendre des flammes enchantées, immenses et brûlantes, capables de tout dévorer. Elles prennent la forme de bêtes de feu — serpents, chimères, dragons — et pourchassent les vivants. Ce feu maudit, instable et presque conscient, se propage vite et calcine au moindre contact. Il demande un contrôle extrême. C’est l’une des rares substances capables de détruire un Horcruxe." }
+  },
+  "finestra-spell": {
+    "name": { "fr": "Sortilège Finestra" },
+    "effect": { "fr": "Charme (Finestra) qui brise le verre. Presque silencieux, il permet de s’introduire discrètement par une fenêtre." }
+  },
+  "finger-removing-jinx": {
+    "name": { "fr": "Jinx arrache-doigts" },
+    "effect": { "fr": "Jinx qui arrache les doigts de la main." }
+  },
+  "firestorm": {
+    "name": { "fr": "Tempête de feu" },
+    "effect": { "fr": "Charme qui fait naître, autour de la baguette, un grand anneau de flammes." }
+  },
+  "flagrante-curse": {
+    "name": { "fr": "Sortilège Flagrante" },
+    "effect": { "fr": "Malédiction (Flagrante) qui fait qu’un objet brûle au toucher, d’une chaleur atroce." }
+  },
+  "flask-conjuring-spell": {
+    "name": { "fr": "Sortilège de conjuration de fiole" },
+    "effect": { "fr": "Sort qui fait apparaître une fiole de verre. Le 1er mai 1998, Hermione Granger s’en servit pour recueillir les souvenirs de Severus Rogue mourant." }
+  },
+  "flintifors": {
+    "name": { "fr": "Flintifors" },
+    "effect": { "fr": "Métamorphose qui change la cible en boîte d’allumettes." }
+  },
+  "flipendo-maxima": {
+    "name": { "fr": "Flipendo Maxima" },
+    "effect": { "fr": "Variante plus puissante du jinx de recul : elle projette la cible plus loin, et plus fort, que Flipendo." }
+  },
+  "flipendo-tria": {
+    "name": { "fr": "Flipendo Tria" },
+    "effect": { "fr": "Jinx qui envoie la cible plus loin que Flipendo et Flipendo Duo. Il ressemble à une petite tornade et peut frapper plusieurs adversaires." }
+  },
+  "flying-charm": {
+    "name": { "fr": "Charme de vol" },
+    "effect": { "fr": "Charme jeté sur des objets pour les faire voler. On l’applique aux balais et aux tapis volants." }
+  },
+  "fogging-spell": {
+    "name": { "fr": "Sortilège de brouillard" },
+    "effect": { "fr": "Charme (Nebulus) qui fait naître du brouillard à la pointe de la baguette." }
+  },
+  "fortifundus": {
+    "name": { "fr": "Fortifundus" },
+    "effect": { "fr": "Métamorphose dont l’effet exact demeure inconnu." }
+  },
+  "foundables-spell": {
+    "name": { "fr": "Sortilège des Fondables" },
+    "effect": { "fr": "Sort lancé au XXIe siècle, sans doute par Grim Fawley, qui déclencha la Calamité : de nombreuses entorses au Code international du secret magique, et l’apparition de Forteresses." }
+  },
+  "four-point-spell": {
+    "name": { "fr": "Sortilège des Quatre Points" }
+  },
+  "fracto-strata": {
+    "name": { "fr": "Fracto Strata" },
+    "effect": { "fr": "Sort élémentaire qui brise en morceaux les objets fragiles. Presque tous les sorciers le connaissent." }
+  },
+  "freezing-charm": {
+    "name": { "fr": "Charme de Gel" }
+  },
+  "freezing-spell": {
+    "name": { "fr": "Sortilège Glacius" },
+    "effect": { "fr": "Charme (Glacius) qui fige la cible d’un souffle glacial sorti de la baguette. Il gèle l’eau, éteint les feux et peut immobiliser un adversaire." }
+  },
+  "fumos-duo": {
+    "name": { "fr": "Fumos Duo" },
+    "effect": { "fr": "Forme la plus puissante du sortilège d’écran de fumée. Elle fait naître plusieurs nuages d’une fumée rouge sombre, assez épaisse pour masquer la cible et brouiller la visée en duel." }
+  },
+  "fur-spell": {
+    "name": { "fr": "Sortilège de fourrure" },
+    "effect": { "fr": "Charme (incantation inconnue) qui recouvre la victime de poils." }
+  },
+  "glacius-duo": {
+    "name": { "fr": "Glacius Duo" },
+    "effect": { "fr": "Charme de duel qui emprisonne l’ennemi dans la glace. Plus fort que Glacius, moins que Glacius Tria." }
+  },
+  "glacius-tria": {
+    "name": { "fr": "Glacius Tria" },
+    "effect": { "fr": "Charme de duel qui gèle l’ennemi. C’est la forme la plus efficace de Glacius, supérieure à Glacius et à Glacius Duo." }
+  },
+  "glisseo": {
+    "name": { "fr": "Sortilège de glissade" },
+    "effect": { "fr": "Métamorphose (Glisseo) qui change un escalier en toboggan lisse. Très ancien — on s’en servait déjà au Moyen Âge —, il peut ensorceler une marche pour qu’elle se dérobe à certains visiteurs. En combat, glisser est aussi plus rapide que de dévaler les marches." }
+  },
+  "golemus-mobilia": {
+    "name": { "fr": "Golemus Mobilia" },
+    "effect": { "fr": "Métamorphose dont l’effet exact demeure inconnu." }
+  },
+  "gouging-spell": {
+    "name": { "fr": "Sortilège de creusement" },
+    "effect": { "fr": "Charme (Defodio) qui entaille et écarte terre ou pierre aux endroits choisis." }
+  },
+  "green-sparks": {
+    "name": { "fr": "Étincelles vertes" },
+    "effect": { "fr": "Charme qui fait jaillir un jet d’étincelles vertes, utile pour signaler un danger et appeler à l’aide. On peut aussi s’en servir en duel, comme sort mineur." }
+  },
+  "greenhouse-charm": {
+    "name": { "fr": "Charme de serre" },
+    "effect": { "fr": "Charme (Celescere) qui favorise, en serre, la pousse des plantes destinées aux potions." }
+  },
+  "growth-charm": {
+    "name": { "fr": "Charme de croissance" },
+    "effect": { "fr": "Charme qui augmente la taille de la cible. Son incantation rappelle celle du charme de changement de couleur ; on le rapproche du sortilège d’engorgement." }
+  },
+  "gusts": {
+    "name": { "fr": "Rafales" },
+    "effect": { "fr": "Sort obscur qui soulève un vent violent, assez pour blesser en duel — même derrière un bouclier." }
+  },
+  "gytrash-conjuring-spell": {
+    "name": { "fr": "Sortilège de conjuration de Gytrash" },
+    "effect": { "fr": "Sort qui fait apparaître, par des éclairs verts, des Gytrash transparents et verdâtres. Puissants, ils cèdent toutefois au charme de lumière." }
+  },
+  "hair-loss-curse": {
+    "name": { "fr": "Sortilège de calvitie" },
+    "effect": { "fr": "Malédiction (Calvorio) qui ôte à la victime ses cheveux — ou sa coiffe." }
+  },
+  "hair-thickening-charm": {
+    "name": { "fr": "Charme d’épaississement des cheveux" },
+    "effect": { "fr": "Charme (incantation inconnue) qui fait pousser les cheveux, plus longs et plus épais, en un rien de temps." }
+  },
+  "hardening-charm": {
+    "name": { "fr": "Charme de durcissement" },
+    "effect": { "fr": "Charme (Duro) qui change un objet en pierre." }
+  },
+  "hardenus": {
+    "name": { "fr": "Hardenus" },
+    "effect": { "fr": "Métamorphose dont l’effet exact demeure inconnu." }
+  },
+  "head-shrink-spell": {
+    "name": { "fr": "Sortilège de rétrécissement de tête" },
+    "effect": { "fr": "Charme obscur (Redactum Skullus) qui rétrécit le crâne et les chairs de la tête. C’est le contre-sort d’Engorgio Skullus." }
+  },
+  "herbifors": {
+    "name": { "fr": "Herbifors" },
+    "effect": { "fr": "Métamorphose qui change la cible en bouquet de fleurs. Elle peut aussi agir sur une chevelure." }
+  },
+  "herbivicus-charm": {
+    "name": { "fr": "Charme Herbivicus" },
+    "effect": { "fr": "Charme (Herbivicus), aussi appelé sortilège de jardinage, qui accélère fortement la croissance des plantes et fait éclore les fleurs. Herbivicus Duo en est une version plus forte." }
+  },
+  "herstrifors": {
+    "name": { "fr": "Herstrifors" },
+    "effect": { "fr": "Métamorphose dont l’effet exact demeure inconnu." }
+  },
+  "homing-spell": {
+    "name": { "fr": "Sortilège à tête chercheuse" },
+    "effect": { "fr": "Sorts offensifs puissants qui, une fois lancés, poursuivent la cible à vitesse constante et lui infligent de sérieux dégâts." }
+  },
+  "homonculous-charm": {
+    "name": { "fr": "Charme de l’Homonculus" },
+    "effect": { "fr": "Jeté sur une carte, il permet de suivre les déplacements de chaque personne dans la zone représentée." }
+  },
+  "horcrux-making-spell": {
+    "name": { "fr": "Sortilège de création d’Horcruxe" },
+    "effect": { "fr": "Sort obscur qui prépare un réceptacle à recevoir un fragment d’âme, afin d’en faire un Horcruxe. Le lanceur s’amarre ainsi au monde des vivants et se soustrait à la mort." }
+  },
+  "horn-tongue-hex": {
+    "name": { "fr": "Maléfice de la langue cornue" },
+    "effect": {
+      "en": "A hex that causes a horn to grow on the victim’s tongue, making speech painful and badly slurred.",
+      "fr": "Maléfice qui fait pousser une corne sur la langue de la victime, rendant la parole pénible et maladroite."
+    }
+  },
+  "horton-keitch-braking-charm": {
+    "name": { "fr": "Charme de freinage Horton-Keitch" }
+  },
+  "hot-air-charm": {
+    "name": { "fr": "Charme d’air chaud" },
+    "effect": { "fr": "Charme qui fait souffler de l’air chaud hors de la baguette, assez pour sécher en un instant des vêtements trempés." }
+  },
+  "hour-reversal-charm": {
+    "name": { "fr": "Charme de retournement horaire" },
+    "effect": { "fr": "Charme qui recule le temps d’une heure à chaque tour d’un sablier. Inventé dans les années 1890." }
+  },
+  "human-presence-revealing-spell": {
+    "name": { "fr": "Sortilège révélateur de présence humaine" },
+    "effect": { "fr": "Charme (Homenum Revelio) qui révèle la présence d’autres êtres humains alentour, en les marquant d’un signe. Variante du charme Revelio." }
+  },
+  "ice-jinx": {
+    "name": { "fr": "Jinx de glace" },
+    "effect": { "fr": "Jinx qui fait apparaître un petit bloc de glace." }
+  },
+  "ignition-spell": {
+    "name": { "fr": "Sortilège d’allumage" },
+    "effect": { "fr": "Sort (Inflamare) qui enflamme une cible d’une petite boule de feu." }
+  },
+  "illegibilus": {
+    "name": { "fr": "Illegibilus" },
+    "effect": { "fr": "Charme qui rend une écriture illisible." }
+  },
+  "impervius-charm": {
+    "name": { "fr": "Charme Impervius" }
+  },
+  "inanimatus-conjurus-spell": {
+    "name": { "fr": "Sortilège Inanimatus Conjurus" },
+    "effect": { "fr": "Métamorphose (Inanimatus Conjurus) qui permet de modifier l’agencement d’une pièce." }
+  },
+  "incarcerous-spell": {
+    "name": { "fr": "Sortilège Incarcerem" }
+  },
+  "incendio-duo-spell": {
+    "name": { "fr": "Sortilège Incendio Duo" },
+    "effect": { "fr": "Charme (Incendio) qui fait naître des flammes vertes. Variante plus forte du sortilège de Feu, moins puissante toutefois qu’Incendio Tria." }
+  },
+  "incendio-tria": {
+    "name": { "fr": "Incendio Tria" },
+    "effect": { "fr": "Charme qui fait naître des flammes bleues ; un élève de première ou deuxième année de Poudlard peut déjà le jeter. Il surpasse Incendio et Incendio Duo, et ses flammes sont plus amples." }
+  },
+  "inflating-charm": {
+    "name": { "fr": "Charme de gonflement" },
+    "effect": { "fr": "Charme (Inflatus), parfois tenu pour un jinx, qui gonfle la cible." }
+  },
+  "informous-spell": {
+    "name": { "fr": "Sortilège Informous" },
+    "effect": { "fr": "Charme (Informous) qui ajoute au Folio Bruti du lanceur une page sur la créature ensorcelée." }
+  },
+  "inn-charm": {
+    "name": { "fr": "Charme d’auberge" },
+    "effect": { "fr": "Charme (Tribuomnus) qui améliore la qualité des plats servis dans les auberges de sorciers." }
+  },
+  "insect-hex": {
+    "name": { "fr": "Maléfice de l’insecte" },
+    "effect": { "fr": "Charme obscur (Entomorphis), aussi appelé jinx de l’insecte, qui prête pour un temps des traits d’insecte à la victime : elle perd la parole et se voit forcée de ramper." }
+  },
+  "instant-scalping-hex": {
+    "name": { "fr": "Maléfice de scalpage instantané" },
+    "effect": { "fr": "Maléfice qui rase d’un coup toute la chevelure de la cible." }
+  },
+  "intruder-charm": {
+    "name": { "fr": "Charme anti-intrusion" },
+    "effect": { "fr": "Charme qui détecte les intrus et donne l’alarme — l’équivalent magique d’une sonnerie antivol." }
+  },
+  "jelly-brain-jinx": {
+    "name": { "fr": "Jinx du cerveau en gelée" },
+    "effect": { "fr": "Jinx qui émousse les facultés mentales." }
+  },
+  "jelly-fingers-curse": {
+    "name": { "fr": "Sortilège des doigts en gelée" },
+    "effect": { "fr": "Malédiction qui rend les doigts mous et tremblants, comme s’ils étaient de gelée." }
+  },
+  "jelly-legs-curse": {
+    "name": { "fr": "Maléfice des jambes en gelée" },
+    "effect": { "fr": "Charme obscur (Locomotor Wibbly), aussi appelé jinx des jambes en gelée, qui fait se dérober les jambes de la victime. On le trouve dans Maléfices et contre-maléfices, du professeur Vindictus Viridian. Combiné au jinx des boutons, il fait pousser de petits tentacules sur tout le visage." }
+  },
+  "knee-reversal-hex": {
+    "name": { "fr": "Maléfice d’inversion des genoux" },
+    "effect": { "fr": "Maléfice, inventé au XIIe siècle ou avant, qui inverse les genoux de la victime." }
+  },
+  "knitting-charm": {
+    "name": { "fr": "Charme de tricot" },
+    "effect": { "fr": "Charme qui ensorcelle des aiguilles à tricoter pour qu’elles travaillent toutes seules." }
+  },
+  "knockback-jinx": {
+    "name": { "fr": "Jinx de recul" },
+    "effect": { "fr": "Jinx (Flipendo) qui projette la cible en arrière. On s’en sert en duel, mais aussi pour pousser des objets lourds. Il figure dans Les Forces du Mal : un guide de protection personnelle, de Quentin Trimble." }
+  },
+  "knockback-jinx-duo": {
+    "name": { "fr": "Jinx de recul Duo" },
+    "effect": { "fr": "Version plus puissante du jinx de recul (Flipendo) : deux fois plus forte que l’ordinaire, mais moindre que Flipendo Tria." }
+  },
+  "lacarnum-inflamari": {
+    "name": { "fr": "Lacarnum Inflamari" },
+    "effect": { "fr": "Charme qui enflamme capes et autres vêtements portés par quelqu’un." }
+  },
+  "laceration-curse": {
+    "name": { "fr": "Sortilège de lacération" }
+  },
+  "langlock": {
+    "name": { "fr": "Langlock" },
+    "effect": { "fr": "Jinx qui colle la langue au palais. Il agit sur les humains comme sur les esprits — Peeves y compris. On l’emploie surtout pour empêcher de parler, ou de prononcer une incantation." }
+  },
+  "lapifors-spell": {
+    "name": { "fr": "Sortilège Lapifors" },
+    "effect": { "fr": "Métamorphose (Lapifors) qui change la cible en lapin ; elle réussit mieux sur de petites cibles — statues, salamandres, chats. Contre une créature, on peut la tenir pour un jinx." }
+  },
+  "leek-jinx": {
+    "name": { "fr": "Jinx des poireaux" },
+    "effect": { "fr": "Jinx qui fait pousser des poireaux dans les oreilles de la victime." }
+  },
+  "legilimency-spell": {
+    "name": { "fr": "Sortilège de Legilimancie" }
+  },
+  "locomotion-charm": {
+    "name": { "fr": "Charme de Locomotion" }
+  },
+  "lumos-duo": {
+    "name": { "fr": "Lumos Duo" },
+    "effect": { "fr": "Variante du charme de lumière : un faisceau concentré jaillit de la baguette." }
+  },
+  "lumos-maxima": {
+    "name": { "fr": "Lumos Maxima" },
+    "effect": { "fr": "Charme, variante du charme de lumière, qui fait éclater à la pointe de la baguette un flash blanc, assez vif pour éblouir." }
+  },
+  "lumos-solem-spell": {
+    "name": { "fr": "Charme de soleil" },
+    "effect": { "fr": "Charme (Lumos Solem) qui produit un éclat de vrai soleil, aveuglant. Le Filet du Diable hait la lumière et la chaleur : ce sort l’affaiblit fort. On conseille des lunettes noires à l’entraînement. Un geste de poignet plus ou moins ample module l’intensité." }
+  },
+  "magicus-extremos": {
+    "name": { "fr": "Magicus Extremos" },
+    "effect": { "fr": "Charme de partenariat qui accroît pour un temps la puissance des sorts. Il faut au moins trois sorciers pour le jeter ensemble ; l’effet, bref, est alors considérable." }
+  },
+  "meteolojinx-recanto": {
+    "name": { "fr": "Meteolojinx recanto" },
+    "effect": { "fr": "Contre-charme qui dissipe les effets météorologiques des charmes de modification du temps, tel le charme atmosphérique." }
+  },
+  "ministry-of-magic-fog": {
+    "name": { "fr": "Brouillard du Ministère de la Magie" },
+    "effect": { "fr": "Charme breveté du Ministère de la Magie britannique, qui dérobe certains lieux au regard des Moldus." }
+  },
+  "muffliato-charm": {
+    "name": { "fr": "Charme Muffliato" },
+    "effect": { "fr": "Charme (Muffliato) qui emplit les oreilles de quiconque se trouve à proximité d’un bourdonnement indistinct, afin de parler sans être entendu — proche du charme Impassible." }
+  },
+  "muggle-repelling-charm": {
+    "name": { "fr": "Sortilège de Répulsion des Moldus" }
+  },
+  "multicorfors-spell": {
+    "name": { "fr": "Sortilège Multicorfors" },
+    "effect": { "fr": "Métamorphose (Multicorfors) qui change la couleur et le style des vêtements de la cible." }
+  },
+  "mutatio-skullus": {
+    "name": { "fr": "Mutatio Skullus" },
+    "effect": { "fr": "Charme obscur qui, à en juger par son nom, déforme la tête de la victime." }
+  },
+  "obscuro": {
+    "name": { "fr": "Obscuro" },
+    "effect": { "fr": "Charme qui fait apparaître un bandeau sur les yeux de la victime et lui dérobe la vue de ce qui l’entoure." }
+  },
+  "one-eyed-witch-spell": {
+    "name": { "fr": "Sortilège de la sorcière borgne" }
+  },
+  "opening-charm": {
+    "name": { "fr": "Charme d’ouverture" },
+    "effect": { "fr": "Charme (Aberto) qui ouvre les portes." }
+  },
+  "oppugno-jinx": {
+    "name": { "fr": "Jinx Oppugno" },
+    "effect": { "fr": "Jinx (Oppugno) qui lance un objet ou un être à l’attaque de la victime. Créatures conjurées et objets mobiles, s’ils sont sous l’emprise du lanceur, se jettent alors sur la cible." }
+  },
+  "orbis": {
+    "name": { "fr": "Orbis" },
+    "effect": { "fr": "Jinx qui aspire la cible dans le sol. Il ne fonctionne que si un allié la maintient en lévitation pendant qu’on le jette." }
+  },
+  "oscausi": {
+    "name": { "fr": "Oscausi" },
+    "effect": { "fr": "Charme obscur qui scelle la bouche : la peau recouvre l’endroit, comme si la bouche n’avait jamais existé, et la victime se trouve réduite au silence." }
+  },
+  "pack-charm": {
+    "name": { "fr": "Charme d’emballage" }
+  },
+  "pain-extraction-spell": {
+    "name": { "fr": "Sortilège d’extraction de la douleur" },
+    "effect": { "fr": "Sort de guérison, lié à la magie ancienne, qui retire à autrui la douleur — morale, et sans doute physique — pour la ramener à la pointe de la baguette. Trop répété, il vide aussi la cible de toute émotion ; l’énergie puisée se corrompt. Niamh Fitzgerald y voyait des traces « sombres » : c’est une forme de magie noire." }
+  },
+  "papyrus-reparo": {
+    "name": { "fr": "Papyrus Reparo" },
+    "effect": { "fr": "Charme, variante du sortilège de Réparation, qui rassemble les morceaux d’un papier déchiré." }
+  },
+  "partis-temporus": {
+    "name": { "fr": "Charme de séparation" },
+    "effect": { "fr": "Charme (Partis Temporus) qui écarte pour un temps la cible et ouvre une brèche là où pointe la baguette. Il peut fendre une tempête de feu." }
+  },
+  "patented-daydream-charm": {
+    "name": { "fr": "Charme de rêverie breveté" },
+    "effect": { "fr": "Article magique inventé par Fred et George Weasley, vendu chez Weasley, Farces pour sorciers facétieux, au Chemin de Traverse." }
+  },
+  "periculum": {
+    "name": { "fr": "Periculum" },
+    "effect": { "fr": "Charme qui fait jaillir de la baguette des étincelles rouges." }
+  },
+  "peskipiksi-pesternomi": {
+    "name": { "fr": "Peskipiksi Pesternomi" },
+    "effect": { "fr": "Incantation censée capturer les pixies — ou du moins les repousser." }
+  },
+  "pimple-jinx": {
+    "name": { "fr": "Jinx des boutons" }
+  },
+  "pinhead-jinx": {
+    "name": { "fr": "Jinx de tête d’épingle" },
+    "effect": { "fr": "Jinx dont l’effet exact demeure inconnu." }
+  },
+  "piscifors": {
+    "name": { "fr": "Piscifors" },
+    "effect": { "fr": "Métamorphose qui change la cible en poisson. Horace Slughorn la trouvait fort belle." }
+  },
+  "porcupine-jinx": {
+    "name": { "fr": "Jinx du porc-épic" },
+    "effect": { "fr": "Jinx dont l’effet exact demeure inconnu." }
+  },
+  "portkey-spell": {
+    "name": { "fr": "Sortilège du Portoloin" }
+  },
+  "proficiency-charm": {
+    "name": { "fr": "Charme d’habileté" },
+    "effect": { "fr": "Charme qui, jeté sur quelqu’un, avive certains talents particuliers." }
+  },
+  "projectile-jinx": {
+    "name": { "fr": "Jinx de projectile" }
+  },
+  "protego-diabolica": {
+    "name": { "fr": "Protego Diabolica" },
+    "effect": { "fr": "Entoure le lanceur d’un anneau de flammes noires qui incinèrent les ennemis et épargnent les alliés." }
+  },
+  "protego-horribilis": {
+    "name": { "fr": "Protego Horribilis" },
+    "effect": { "fr": "Puissant charme de protection." }
+  },
+  "protego-maxima": {
+    "name": { "fr": "Protego Maxima" },
+    "effect": { "fr": "Version renforcée du charme du Bouclier. Combiné à Fianto Duri et Repello Inimicum, il dresse une barrière magique presque imprenable." }
+  },
+  "protego-totalum": {
+    "name": { "fr": "Protego Totalum" },
+    "effect": { "fr": "Enchantement protecteur, variante du charme du Bouclier, qui met à l’abri pour longtemps un lieu ou une demeure. Il arrête et repousse intrus et sorts — sauf les malédictions les plus fortes, dont les Sortilèges Impardonnables." }
+  },
+  "protection-charm": {
+    "name": { "fr": "Charme de protection" },
+    "effect": { "fr": "Charme qui fortifie les défenses de quelqu’un et le met mieux à l’abri du mal." }
+  },
+  "pullus": {
+    "name": { "fr": "Pullus" },
+    "effect": { "fr": "Jinx de métamorphose qui change la cible en poulet. Les Erklings y sont particulièrement sensibles." }
+  },
+  "pumpkin-head-jinx": {
+    "name": { "fr": "Jinx de la tête de citrouille" },
+    "effect": { "fr": "Jinx (Melofors) qui enferme la tête de la victime dans une citrouille. Vu du dehors, on croirait que la tête elle-même s’est changée en citrouille." }
+  },
+  "purple-firecrackers": {
+    "name": { "fr": "Pétards violets" },
+    "effect": { "fr": "Charme qui fait jaillir de la baguette des pétards violets." }
+  },
+  "pus-squirting-hex": {
+    "name": { "fr": "Maléfice du pus" },
+    "effect": { "fr": "Maléfice qui fait gicler du pus du nez de la victime." }
+  },
+  "quietening-charm": {
+    "name": { "fr": "Charme d’atténuation" }
+  },
+  "red-sparks": {
+    "name": { "fr": "Étincelles rouges" },
+    "effect": { "fr": "Charme (Vermillious) qui fait jaillir un jet d’étincelles rouges, utile pour signaler un danger. On peut aussi s’en servir en duel, encore qu’il serve peu contre un adversaire en armure. Vermillious Duo et Vermillious Tria en sont des versions plus fortes." }
+  },
+  "refilling-charm": {
+    "name": { "fr": "Charme de remplissage" },
+    "effect": { "fr": "Charme qui remplit à nouveau le récipient visé de la boisson qu’il contenait. On peut le jeter à voix haute ou sans parole." }
+  },
+  "reparifarge": {
+    "name": { "fr": "Reparifarge" },
+    "effect": { "fr": "Contre-métamorphose générale, destinée à corriger une transformation maladroite ou inachevée. Le Guide de la métamorphose à l’usage des débutants insiste pour qu’on l’essaie toujours : le produit d’une métamorphose incomplète peut être dangereux." }
+  },
+  "reparifors": {
+    "name": { "fr": "Reparifors" },
+    "effect": { "fr": "Charme de guérison qui dissipe les maux magiques légers, tels la paralysie ou un empoisonnement." }
+  },
+  "repello-inimicum": {
+    "name": { "fr": "Repello Inimicum" },
+    "effect": { "fr": "Repousse les ennemis. Combiné à Protego Maxima et Fianto Duri, il désintègre tout ce qui touche la barrière." }
+  },
+  "revealing-charm": {
+    "name": { "fr": "Charme de révélation" },
+    "effect": { "fr": "Charme (Aparecium) qui révèle les messages écrits à l’encre invisible, ainsi que d’autres marques cachées — y compris par un charme de dissimulation." }
+  },
+  "revelio-charm": {
+    "name": { "fr": "Charme Revelio" },
+    "effect": { "fr": "Charme (Revelio) qui révèle objets cachés, messages, êtres invisibles, passages secrets et autres marques dérobées. Difficile pour un élève de deuxième année. Il peut aussi dévoiler le vrai visage de quelqu’un qui a changé d’apparence — mais il n’agit pas sur un Animagus transformé, ni de la même façon sur les goules caméléons, qu’il aide toutefois à démasquer." }
+  },
+  "reversis": {
+    "name": { "fr": "Reversis" },
+    "effect": { "fr": "Sort dont l’effet exact demeure inconnu." }
+  },
+  "reverte": {
+    "name": { "fr": "Reverte" },
+    "effect": { "fr": "Charme qui ramène des objets à leur place ou à leur état d’origine, parfois en les faisant reculer." }
+  },
+  "reviving-spell": {
+    "name": { "fr": "Sortilège de Réveil" }
+  },
+  "revulsion-jinx": {
+    "name": { "fr": "Jinx de Révulsion" }
+  },
+  "rose-growth": {
+    "name": { "fr": "Pousse des roses" },
+    "effect": { "fr": "Charme qui fait croître les rosiers à une vitesse inhabituelle." }
+  },
+  "rowboat-spell": {
+    "name": { "fr": "Charme de barque" },
+    "effect": { "fr": "Charme qui propulse les barques sur l’eau et les fait avancer plus vite." }
+  },
+  "salvio-hexia": {
+    "name": { "fr": "Salvio Hexia" },
+    "effect": { "fr": "Enchantement protecteur qui détourne les maléfices d’une zone. Même un lanceur peu habile peut en couvrir un petit espace contre la plupart des hex ; plus il est fort, plus le sort arrête de sorts puissants, et plus large est l’aire protégée. Les plus grands peuvent en couvrir des châteaux entiers." }
+  },
+  "sardine-hex": {
+    "name": { "fr": "Maléfice des sardines" },
+    "effect": { "fr": "Maléfice qui fait éternuer des sardines à la victime." }
+  },
+  "sauce-making-spell": {
+    "name": { "fr": "Sortilège créateur de sauce" }
+  },
+  "sealant-charm": {
+    "name": { "fr": "Charme de scellement" },
+    "effect": { "fr": "Charme qui scelle magiquement les enveloppes. Aux États-Unis, le Congrès magique exigeait que les demandes de permis de baguette lui parviennent ainsi fermées." }
+  },
+  "sea-urchin-jinx": {
+    "name": { "fr": "Jinx de l’oursin" },
+    "effect": { "fr": "Jinx qui donne à la victime l’allure d’un oursin : de minuscules piquants lui percent la peau. L’inconfort est atroce." }
+  },
+  "seize-and-pull-charm": {
+    "name": { "fr": "Charme de saisie et de traction" },
+    "effect": { "fr": "Charme (Carpe Retractum) qui fait naître un cordon de lumière rétractable : il attire l’objet vers le lanceur ou, si la cible est fixe, le lanceur vers la cible." }
+  },
+  "shield-penetration-spell": {
+    "name": { "fr": "Sortilège perce-bouclier" },
+    "effect": { "fr": "Sort qui projette un puissant éclair bleu-blanc, assez pour briser de vastes protections telles que Protego Horribilis." }
+  },
+  "shooting-spell": {
+    "name": { "fr": "Sortilège de tir" },
+    "effect": { "fr": "Sort sans nom dont Harry Potter et Ron Weasley se servirent en 1997, durant la chasse aux Horcruxes, pour tenter d’abattre un lapin. Ils s’en défièrent aussi l’un l’autre, se poursuivant dans le pré." }
+  },
+  "singing-charm": {
+    "name": { "fr": "Charme de chant" },
+    "effect": { "fr": "Charme (Cantis) qui fait éclater la cible en chanson." }
+  },
+  "skurge-charm": {
+    "name": { "fr": "Charme Skurge" },
+    "effect": { "fr": "Charme (Skurge) qui nettoie l’ectoplasme vert et gluant laissé par les fantômes. Il peut aussi effrayer esprits et poltergeists. À ne pas confondre avec le charme de récurage, plus versatile." }
+  },
+  "slippery-jinx": {
+    "name": { "fr": "Jinx glissant" },
+    "effect": { "fr": "Jinx qui rend un objet glissant, presque impossible à tenir." }
+  },
+  "slowing-charm": {
+    "name": { "fr": "Charme de ralentissement" },
+    "effect": { "fr": "Charme de freinage (Arresto Momentum) qui ralentit un objet. On l’enseigne en Sortilèges en deuxième et cinquième années à Poudlard. On l’applique aussi aux balais ; l’Éclair de Feu porte un « charme de freinage incassable »." }
+  },
+  "slug-vomiting-charm": {
+    "name": { "fr": "Sortilège à vomir des limaces" },
+    "effect": { "fr": "Malédiction (Slugulus Eructo) qui force la victime à vomir des limaces ; le teint peut aussi jaunir. Un jet de lumière verte. Un caramel à la mélasse en dissipe les effets en quelques secondes ; sinon, cela passe tout seul." }
+  },
+  "smashing-spell": {
+    "name": { "fr": "Sortilège de fracas" },
+    "effect": { "fr": "Sort qui libère un éclat de lumière bleue et une énorme explosion qui ravage tout dans son rayon. Il peut aussi briser des vitres." }
+  },
+  "smokescreen-spell": {
+    "name": { "fr": "Sortilège d’écran de fumée" },
+    "effect": { "fr": "Charme (Fumos) qui fait naître un nuage de fumée défensif, assez pour brouiller la vue. En duel, il masque le lanceur, gêne la visée adverse et permet de s’éclipser. On le trouve dans Les Forces du Mal : un guide de protection personnelle, du professeur Quentin Trimble." }
+  },
+  "snake-summons-spell": {
+    "name": { "fr": "Sortilège de conjuration de serpent" }
+  },
+  "snake-vanishing-spell": {
+    "name": { "fr": "Sortilège de disparition des serpents" },
+    "effect": { "fr": "Métamorphose (Vipera Evanesca) qui fait disparaître les serpents. Elle sert de contre-sort au sortilège de conjuration de serpent, au sort feu-en-serpent, et sans doute à tout sort qui produit des serpents." }
+  },
+  "softening-charm": {
+    "name": { "fr": "Charme d’amortissement" },
+    "effect": { "fr": "Charme (Spongify) qui ramollit les objets, les rendant caoutchouteux et rebondissants." }
+  },
+  "sonicus": {
+    "name": { "fr": "Sonicus" },
+    "effect": { "fr": "Sort dont l’effet exact demeure inconnu ; il n’amplifie toutefois pas le son." }
+  },
+  "sonorous-charm": {
+    "name": { "fr": "Charme de Sonorus" },
+    "effect": { "fr": "Charme qui fait jaillir de la baguette un rugissement amplifié. Ce bruit bouscule tout sur son passage et peut blesser un adversaire." }
+  },
+  "spider-banishing-charm": {
+    "name": { "fr": "Charme de bannissement des araignées" },
+    "effect": { "fr": "Charme (Arania Exumai) qui projette au loin Acromentules et autres grandes araignées. S’il manque sa cible et frappe la pierre, il y laisse une large brûlure noire : on déconseille de le jeter sur un humain, encore qu’un rayon passant près de quelqu’un n’ait pas d’effet fâcheux, pourvu qu’une araignée soit atteinte." }
+  },
+  "sponge-knees-curse": {
+    "name": { "fr": "Sortilège des genoux-éponges" },
+    "effect": { "fr": "Malédiction qui rend les jambes spongieuses, au point qu’il devient difficile de marcher ou même de tenir debout." }
+  },
+  "squiggle-quill": {
+    "name": { "fr": "Sortilège plume-en-ver" },
+    "effect": { "fr": "Métamorphose qui change les plumes à écrire en vers." }
+  },
+  "stamina-charm": {
+    "name": { "fr": "Charme d’endurance" },
+    "effect": { "fr": "Charme qui avive et rétablit l’endurance." }
+  },
+  "stealth-sensoring-spell": {
+    "name": { "fr": "Sortilège détecteur de furtivité" },
+    "effect": { "fr": "Charme qui détecte ceux qui tentent d’entrer quelque part en se dissimulant par magie." }
+  },
+  "sternius": {
+    "name": { "fr": "Sternius" },
+    "effect": { "fr": "Charme obscur qui fait éternuer la victime sans relâche. En duel, il distrait et affaiblit l’adversaire." }
+  },
+  "stickfast-hex": {
+    "name": { "fr": "Maléfice de glu" },
+    "effect": { "fr": "Maléfice (Colloshoo) qui colle les chaussures au sol : la cible trébuche dès qu’elle veut bouger." }
+  },
+  "stinging-jinx": {
+    "name": { "fr": "Jinx de piqûre" },
+    "effect": { "fr": "Charme obscur, aussi appelé maléfice de piqûre, qui pique la chair : une marque rouge comme une brûlure, et un gonflement. Le Mangemort Antoine Grimalkin en conçut une variante terrible, le Frequensting, dont il se servit avec sa femme pour terroriser la Grande-Bretagne pendant la première guerre des sorciers." }
+  },
+  "stretching-jinx": {
+    "name": { "fr": "Jinx d’étirement" },
+    "effect": { "fr": "Jinx qui étire la cible." }
+  },
+  "supersensory-charm": {
+    "name": { "fr": "Charme supersensoriel" },
+    "effect": { "fr": "Charme qui avive les sens, afin de mieux percevoir ce qui entoure la cible." }
+  },
+  "surgito": {
+    "name": { "fr": "Charme de désenchantement" },
+    "effect": { "fr": "Contre-charme (Surgito) qui lève un enchantement." }
+  },
+  "taboo": {
+    "name": { "fr": "Tabou" },
+    "effect": { "fr": "Dès que le mot est prononcé, le lanceur en est alerté et les enchantements protecteurs autour de celui qui a parlé s’affaiblissent." }
+  },
+  "tail-growing-spell": {
+    "name": { "fr": "Sortilège de queue" },
+    "effect": { "fr": "Sort qui fait pousser une queue à la victime." }
+  },
+  "teacup-to-tortoise-spell": {
+    "name": { "fr": "Sortilège tasse-en-tortue" },
+    "effect": { "fr": "Métamorphose qui change une tasse à thé en tortue." }
+  },
+  "teapot-to-tortoise-spell": {
+    "name": { "fr": "Sortilège théière-en-tortue" },
+    "effect": { "fr": "Métamorphose qui, bien jetée, change une théière en tortue." }
+  },
+  "teeth-straightening-spell": {
+    "name": { "fr": "Charme de redressement des dents" },
+    "effect": { "fr": "Charme qui redresse les dents croches." }
+  },
+  "teleportation-spell": {
+    "name": { "fr": "Sortilège de téléportation" },
+    "effect": { "fr": "Sort qui fait disparaître des objets pour les faire réapparaître ailleurs." }
+  },
+  "tentaclifors": {
+    "name": { "fr": "Tentaclifors" },
+    "effect": { "fr": "Charme obscur qui métamorphose la tête de la cible en tentacule." }
+  },
+  "terrifying-charm": {
+    "name": { "fr": "Charme terrifiant" },
+    "effect": { "fr": "Charme dont l’effet exact n’est pas connu ; il sert sans doute à terrifier la cible." }
+  },
+  "tickling-hex": {
+    "name": { "fr": "Maléfice de chatouillis" },
+    "effect": { "fr": "Maléfice (Titillando), aussi appelé sortilège de chatouillis, qui chatouille la cible jusqu’à l’affaiblir. Il se manifeste par des mains violettes, spectrales, qui s’acharnent à la chatouiller." }
+  },
+  "toenail-growing-hex": {
+    "name": { "fr": "Maléfice de pousse des ongles de pied" },
+    "effect": { "fr": "Maléfice qui fait pousser les ongles de pied de la victime à une vitesse alarmante." }
+  },
+  "tongue-tying-curse": {
+    "name": { "fr": "Sortilège du nœud de langue" },
+    "effect": { "fr": "Malédiction (Mimblewimble) qui noue la langue et empêche de parler clairement — donc de prononcer une incantation. Comme le charme du Silence, elle est précieuse en duel, encore que la magie plus avancée puisse la vaincre. On la trouve dans Maléfices et contre-maléfices, du professeur Vindictus Viridian." }
+  },
+  "tracking-spell": {
+    "name": { "fr": "Sortilège de pistage" },
+    "effect": { "fr": "Charme (Appare Vestigium) qui révèle et illumine les traces d’activité magique récente, ainsi que les empreintes et sillons magiques d’un lieu." }
+  },
+  "twitchy-ears-hex": {
+    "name": { "fr": "Maléfice des oreilles agitées" },
+    "effect": {
+      "en": "A hex that makes the victim’s ears twitch and jerk uncontrollably.",
+      "fr": "Maléfice qui force les oreilles de la victime à s’agiter et à remuer sans qu’elle puisse les maîtriser."
+    }
+  },
+  "unbreakable-vow": {
+    "name": { "fr": "Serment Inviolable" },
+    "effect": {
+      "en": "An Unbreakable Vow is a binding magical contract. A Bonder holds a wand to the joined hands of the two parties; if either later breaks the terms, they die.",
+      "fr": "Le Serment Inviolable lie deux personnes par un contrat magique. L’Enchaîneur touche de sa baguette leurs mains jointes ; à chaque clause acceptée, une langue de feu rougeâtre s’enroule autour des mains. Quiconque enfreint le serment en meurt."
+    }
+  },
+  "uninviting-charm": {
+    "name": { "fr": "Charme de non-invitation" },
+    "effect": { "fr": "Charme dont l’effet exact demeure inconnu." }
+  },
+  "unsupported-flight": {
+    "name": { "fr": "Vol sans soutien" },
+    "effect": { "fr": "Sort qui permet à un sorcier de voler sans balai ni autre appui. Lord Voldemort en donna une démonstration mémorable." }
+  },
+  "vacuum-cleaner-spell": {
+    "name": { "fr": "Charme aspirateur" },
+    "effect": { "fr": "Charme qui nettoie un objet en se servant de la baguette comme d’un aspirateur." }
+  },
+  "vanishing-cabinet-repair-spell": {
+    "name": { "fr": "Sortilège de réparation de l’Armoire à disparaître" },
+    "effect": { "fr": "Charme (Harmonia Nectere Passus) qui répare une Armoire à disparaître brisée et en rétablit le bon fonctionnement. Prononcer l’incantation ne suffit pas : Draco Malfoy mit près d’un an à en réparer une." }
+  },
+  "ventus-duo": {
+    "name": { "fr": "Ventus Duo" },
+    "effect": { "fr": "Variante renforcée de Ventus : un jet de vent en spirale, plus violent, qui blesse davantage en duel." }
+  },
+  "vera-verto": {
+    "name": { "fr": "Vera Verto" },
+    "effect": { "fr": "Métamorphose qui change un animal en gobelet. Elle agit surtout sur les oiseaux, les rats et les félins." }
+  },
+  "verdillious": {
+    "name": { "fr": "Verdillious" },
+    "effect": { "fr": "Charme qui fait flamber la pointe de la baguette comme une fusée : lumière verte, étincelles et fumée, assez pour blesser un adversaire." }
+  },
+  "verdimillious-charm": {
+    "name": { "fr": "Charme Verdimillious" },
+    "effect": { "fr": "Charme (Verdimillious) qui fait jaillir des étincelles vertes. Elles peuvent révéler des objets cachés par les Arts sombres, et servir en duel." }
+  },
+  "verdimillious-duo-spell": {
+    "name": { "fr": "Sortilège Verdimillious Duo" },
+    "effect": { "fr": "Charme (Verdimillious) qui fait jaillir des étincelles vertes de la baguette. Version plus puissante du charme Verdimillious, assez facile à jeter, et utile à plus d’un titre." }
+  },
+  "vermiculus": {
+    "name": { "fr": "Vermiculus" },
+    "effect": { "fr": "Jinx de métamorphose qui change les choses en vers." }
+  },
+  "versis": {
+    "name": { "fr": "Versis" },
+    "effect": { "fr": "Sort dont l’effet exact demeure inconnu." }
+  },
+  "victor-rookwood-s-curse": {
+    "name": { "fr": "Malédiction de Victor Rookwood" },
+    "effect": { "fr": "Malédiction qui inflige, des années durant, douleur, tourment et maladie. Ni la magie de guérison ni les figues à ratatinage n’y peuvent rien. On a suggéré qu’une relique obscure pourrait la lever ; cela n’a jamais été tenté." }
+  },
+  "vulnera-sanentur": {
+    "name": { "fr": "Vulnera Sanentur" },
+    "effect": { "fr": "Incantation chantante d’un sort de guérison qui referme les plaies profondes. C’est aussi le contre-sort de Sectumsempra." }
+  },
+  "washing-up-spell": {
+    "name": { "fr": "Sortilège de vaisselle" },
+    "effect": { "fr": "Sort qui ensorcelle la vaisselle sale pour qu’elle se lave toute seule." }
+  },
+  "weight-loss-charms": {
+    "name": { "fr": "Charme amaigrissant" },
+    "effect": { "fr": "Charmes qui allègent le poids d’une personne. Certains, plus « sérieux » que d’autres, permettent de manger sans cesse des plats très riches." }
+  },
+  "white-sparks": {
+    "name": { "fr": "Étincelles blanches" },
+    "effect": { "fr": "Charme qui fait jaillir un jet d’étincelles blanches de la baguette. On peut s’en servir en duel, comme sort mineur. En grande quantité, ces étincelles gênent la vue et la respiration." }
+  },
+  "windy-spell": {
+    "name": { "fr": "Sortilège du vent" },
+    "effect": { "fr": "Charme (Ventus) qui fait jaillir de la baguette un jet de vent violent, en spirale." }
+  },
+  "wiping-spell": {
+    "name": { "fr": "Sortilège d’essuyage" }
+  }
+}

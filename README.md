@@ -16,9 +16,9 @@ L'utilisateur feuillette un grimoire 3D où chaque double-page présente un sort
 |---|---|---|
 | 0 — Préparation | ✅ | Planning, docs, wireframes |
 | 1 — Fondations | ✅ | Vite, R3F, fetch API (~345 sorts) |
-| 2 — Livre 3D | ⬜ | Feuilletage, mapping sort → page |
-| 3 — Recherche & UI | ⬜ | Barre de recherche, filtrage |
-| 4 — Livraison | ⬜ | Responsive, Netlify, envoi final |
+| 2 — Livre 3D | ✅ | Feuilletage, mapping sort → page |
+| 3 — Recherche & UI | ✅ | Barre de recherche, filtrage |
+| 4 — Livraison | ➡️ | UI bilingue, mobile, gestes · Netlify / mail à faire |
 
 ---
 
@@ -52,8 +52,10 @@ Ouvre [http://localhost:5173](http://localhost:5173).
 |---|---|
 | `npm run dev` | Serveur de développement |
 | `npm run build` | Build production |
-| `npm run preview` | Prévisualiser le build local |
+| `npm run preview` | Preview prod (libère 4173 s’il est pris) |
 | `npm run lint` | ESLint |
+| `npm run i18n:spells` | Reconstruire `spell-i18n.json` |
+| `npm run enrich` | Dump EHP + synthèse d’enrichment |
 
 ### Variables d'environnement
 
@@ -76,7 +78,7 @@ services/api.ts       fetch + pagination + mapping JSON:API → Spell
       ↓
 hooks/useSpells.ts    chargement, loading, error, retry
       ↓
-context/SpellContext  sorts, page courante, slug URL, gesture
+context/SpellContext  sorts, page courante (Alohomora par défaut)
       ↓
 components / scenes   UI HTML + canvas R3F
 ```
@@ -85,8 +87,8 @@ components / scenes   UI HTML + canvas R3F
 
 | URL | Comportement |
 |---|---|
-| `/` | Livre ouvert (1er sort par défaut) |
-| `/spell/:slug` | Livre ouvert sur le sort demandé |
+| `/` | Livre ouvert sur **Alohomora** |
+| `/spell/:slug` | Livre ouvert sur le sort demandé (slug inconnu → `/`) |
 
 Visuellement, une seule vue (`BookView`) — les routes servent au deep linking.
 
@@ -96,14 +98,17 @@ Visuellement, une seule vue (`BookView`) — les routes servent au deep linking.
 src/
 ├── App.tsx                 Routing + SpellProvider
 ├── BookView.tsx            Vue unique (recherche + livre + contrôles + about)
-├── components/             UI HTML
-├── components/gesture/     Bonus — GestureCanvas (stub)
+├── components/             UI HTML (SearchBar, SpellControls, About…)
 ├── scenes/                 Canvas R3F (SpellbookScene, lumières, bloom)
-├── context/                SpellContext
+│   └── spellbook/          Modèle, pages canvas, geste baguette, caméra
+├── context/                SpellContext, LocaleContext
 ├── config/                 Defaults scène 3D (Leva / prod)
-├── hooks/                  useSpells, useSceneControls
+├── hooks/                  useSpells, useSceneControls, useSpellNavigation
+├── i18n/                   Messages FR / EN
+├── data/                   Enrichment + i18n sorts + gestes (hors runtime réseau)
+├── utils/                  filterSpells, localizeSpell, spellLightColor
 ├── services/               api.ts
-├── types/                  spell.ts, api.ts
+├── types/                  spell.ts, api.ts, i18n.ts
 └── styles/tokens/          colors.ts — source de vérité des couleurs
 ```
 
@@ -113,8 +118,8 @@ Toutes les couleurs sont définies dans `src/styles/tokens/colors.ts` et inject�
 
 ### Modèle 3D
 
-- Fichier servi : `public/models/Spellbook.glb`
-- Sources Blender : `Assets/`
+- **Source unique :** `Assets/spellbook_lowpoly_v2.glb` (importé par Vite, pas de copie dans `public/`)
+- Ancien modèle haute-fidélité : `Assets/Spellbook.glb`
 
 ---
 
@@ -136,21 +141,22 @@ Attributs mappés côté app : `slug`, `name`, `incantation`, `category`, `effec
 ### En place
 
 - Scène 3D avec modèle GLB, lumières, bloom
-- Panneau Leva en dev (lumières, bloom)
+- Panneau Leva en dev (lumières, bloom, test d'animation)
 - Chargement des ~345 sorts au démarrage
-- Indicateur de position (`1 / 345`)
-- Deep link `/spell/:slug`
-- Gestion erreur API + bouton « Réessayer »
-- Slot « Geste du sort » (stub bonus)
+- Feuilletage 3D (page suivante / précédente, boucle première ↔ dernière)
+- Contenu **dans** le livre : gauche (nom, incantation API, catégorie) · droite (effet, image, lumière)
+- Recherche locale bilingue (nom FR/EN, incantation, catégorie, slug)
+- Navigation boutons, clavier (← →) et clic sur les pages
+- Indicateur de position et URL `/spell/:slug`
+- Accueil et slug inconnu → Alohomora (`/`)
+- États chargement / aucun résultat / erreur API
+- Section « À propos » + bouton FR / EN
+- Pages du livre localisées + overlay de gestes sourcés (livres, films, Hogwarts Legacy)
+- Caméra dézoomée sur mobile (≤ 768 px)
 
 ### À venir
 
-- Animation de feuilletage
-- Navigation précédent / suivant
-- Affichage du contenu du sort sur la double-page 3D
-- Barre de recherche et filtrage
-- Responsive mobile
-- Déploiement Netlify
+- Déploiement Netlify + envoi du rendu (Léandre)
 
 ---
 

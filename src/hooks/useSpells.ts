@@ -1,6 +1,15 @@
 import { useCallback, useEffect, useState } from 'react'
+import enrichmentFile from '@/data/spell-enrichment.json' with { type: 'json' }
+import i18nFile from '@/data/spell-i18n.json' with { type: 'json' }
+import wandGesturesFile from '@/data/sources/wand-gestures.json' with { type: 'json' }
 import { fetchAllSpells } from '@/services/api'
+import type { SpellEnrichmentFile } from '@/types/enrichment'
+import type { WandGestureFile } from '@/types/gesture'
+import type { SpellI18nFile } from '@/types/i18n'
 import type { Spell } from '@/types/spell'
+import { applyWandGestures } from '@/utils/applyWandGestures'
+import { mergeSpellList } from '@/utils/mergeSpellEnrichment'
+import { applySpellI18nList } from '@/utils/localizeSpell'
 
 interface UseSpellsResult {
   spells: Spell[]
@@ -28,9 +37,22 @@ export function useSpells(): UseSpellsResult {
 
       try {
         const data = await fetchAllSpells()
+        const raw = enrichmentFile as SpellEnrichmentFile | { default: SpellEnrichmentFile }
+        const enrichment = 'patches' in raw ? raw : raw.default
+        const i18nRaw = i18nFile as SpellI18nFile | { default: SpellI18nFile }
+        const i18n = 'spells' in i18nRaw ? i18nRaw : i18nRaw.default
+        const gesturesRaw = wandGesturesFile as
+          | WandGestureFile
+          | { default: WandGestureFile }
+        const gestures = 'spells' in gesturesRaw ? gesturesRaw : gesturesRaw.default
 
         if (!cancelled) {
-          setSpells(data)
+          setSpells(
+            applyWandGestures(
+              applySpellI18nList(mergeSpellList(data, enrichment), i18n),
+              gestures,
+            ),
+          )
         }
       } catch (err) {
         if (!cancelled) {
