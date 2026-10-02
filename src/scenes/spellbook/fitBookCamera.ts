@@ -1,4 +1,5 @@
 import * as THREE from 'three'
+import { computeFitDistance } from '@/config/camera'
 import type { SceneCameraSettings } from '@/config/scene'
 
 export interface CameraFitResult {
@@ -22,9 +23,7 @@ export function fitPerspectiveCameraToObject(
   const maxDim = Math.max(size.x, size.y, size.z)
 
   camera.fov = settings.fov
-  const fovRad = (camera.fov * Math.PI) / 180
-  const distance =
-    (maxDim / 2 / Math.tan(fovRad / 2)) * settings.fitMargin
+  const distance = computeFitDistance(maxDim, settings.fov, settings.fitMargin)
 
   camera.position.set(
     center.x + settings.offsetX,

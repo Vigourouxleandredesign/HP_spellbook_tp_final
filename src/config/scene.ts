@@ -1,5 +1,12 @@
 import { colors } from '@/styles/tokens/colors'
 import spellbookModel from '@assets/spellbook_lowpoly_v2.glb?url'
+import { desktopCameraDefaults } from '@/config/camera'
+
+export {
+  cameraForViewport,
+  MOBILE_CAMERA_QUERY,
+  type SceneCameraSettings,
+} from '@/config/camera'
 
 export const sceneDefaults = {
   lights: {
@@ -18,20 +25,7 @@ export const sceneDefaults = {
     luminanceSmoothing: 0.025,
     mipmapBlur: true,
   },
-  camera: {
-    fov: 42,
-    fitMargin: 0.5,
-    fitElevation: 0.85,
-    offsetX: 0,
-    offsetY: 0,
-    offsetZ: 0,
-    targetOffsetY: -0.28,
-    minPolarDeg: 31,
-    maxPolarDeg: 88,
-    minDistanceScale: 0.7,
-    maxDistanceScale: 2.55,
-    modelRotationY: 0,
-  },
+  camera: desktopCameraDefaults,
 } as const
 
 export type SceneLightSettings = {
@@ -50,39 +44,6 @@ export type SceneBloomSettings = {
   luminanceThreshold: number
   luminanceSmoothing: number
   mipmapBlur: boolean
-}
-
-export type SceneCameraSettings = {
-  fov: number
-  fitMargin: number
-  fitElevation: number
-  offsetX: number
-  offsetY: number
-  offsetZ: number
-  targetOffsetY: number
-  minPolarDeg: number
-  maxPolarDeg: number
-  minDistanceScale: number
-  maxDistanceScale: number
-  modelRotationY: number
-}
-
-/** Viewport étroit : le fit serre trop le livre, on recule d’au moins 2×. */
-export const MOBILE_CAMERA_QUERY = '(max-width: 768px)'
-
-export function cameraForViewport(
-  settings: SceneCameraSettings,
-  isMobile: boolean,
-): SceneCameraSettings {
-  if (!isMobile) return settings
-
-  return {
-    ...settings,
-    fov: Math.max(settings.fov, 56),
-    fitMargin: settings.fitMargin * 2,
-    fitElevation: settings.fitElevation * 1.1,
-    maxDistanceScale: Math.max(settings.maxDistanceScale, 3.4),
-  }
 }
 
 /** URL Vite — source unique : Assets/spellbook_lowpoly_v2.glb */
