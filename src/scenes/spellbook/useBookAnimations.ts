@@ -5,6 +5,7 @@ import * as THREE from 'three'
 import { MODEL_PATH } from '@/config/scene'
 import type { BookAnimationId } from '@/config/bookAnimations'
 import { bookAnimationBridge } from '@/scenes/spellbook/bookAnimationBridge'
+import { pageInkBridge } from '@/scenes/spellbook/pageInkBridge'
 import {
   buildBookClips,
   getBookClipList,
@@ -105,7 +106,7 @@ export function useBookAnimations(
         return false
       }
 
-      if (activeActionRef.current) {
+      if (activeActionRef.current || !settledRef.current) {
         return false
       }
 
@@ -115,51 +116,58 @@ export function useBookAnimations(
       settledRef.current = false
       onCompleteRef.current = options?.onComplete
       bookAnimationBridge.setState({ isAnimating: true })
-
-      action.reset()
-      action.setLoop(THREE.LoopOnce, 1)
-      action.clampWhenFinished = true
-      action.enabled = true
-      action.paused = false
-
-      if (id === 'pageForward') {
-        action.timeScale = -1
-        action.time = action.getClip().duration
-      } else {
-        action.timeScale = 1
-        action.time = 0
-      }
-
-      const onFinished = (event: { action?: THREE.AnimationAction }) => {
-        if (event.action !== action || generation !== generationRef.current) {
-          return
-        }
-        currentMixer.removeEventListener('finished', onFinished as never)
-        finishedListenerRef.current = null
-        settlePlayback()
-      }
-
-      finishedListenerRef.current = onFinished
-      currentMixer.addEventListener('finished', onFinished as never)
-      action.play()
-      activeActionRef.current = action
       setIsAnimating(true)
 
-      const durationMs =
-        (action.getClip().duration / Math.max(Math.abs(action.timeScale), 0.001)) *
-          1000 +
-        80
-      timeoutRef.current = setTimeout(() => {
+      const startClip = () => {
         if (generation !== generationRef.current) return
-        settlePlayback()
-      }, durationMs)
 
-      if (import.meta.env.DEV) {
-        console.info('[Spellbook] play', id, {
-          duration: action.getClip().duration.toFixed(3),
-          timeScale: action.timeScale,
-        })
+        action.reset()
+        action.setLoop(THREE.LoopOnce, 1)
+        action.clampWhenFinished = true
+        action.enabled = true
+        action.paused = false
+
+        if (id === 'pageForward') {
+          action.timeScale = -1
+          action.time = action.getClip().duration
+        } else {
+          action.timeScale = 1
+          action.time = 0
+        }
+
+        const onFinished = (event: { action?: THREE.AnimationAction }) => {
+          if (event.action !== action || generation !== generationRef.current) {
+            return
+          }
+          currentMixer.removeEventListener('finished', onFinished as never)
+          finishedListenerRef.current = null
+          settlePlayback()
+        }
+
+        finishedListenerRef.current = onFinished
+        currentMixer.addEventListener('finished', onFinished as never)
+        action.play()
+        activeActionRef.current = action
+
+        const durationMs =
+          (action.getClip().duration /
+            Math.max(Math.abs(action.timeScale), 0.001)) *
+            1000 +
+          80
+        timeoutRef.current = setTimeout(() => {
+          if (generation !== generationRef.current) return
+          settlePlayback()
+        }, durationMs)
+
+        if (import.meta.env.DEV) {
+          console.info('[Spellbook] play', id, {
+            duration: action.getClip().duration.toFixed(3),
+            timeScale: action.timeScale,
+          })
+        }
       }
+
+      void pageInkBridge.fadeOut().then(startClip)
 
       return true
     },

@@ -1,5 +1,5 @@
-import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import { Canvas } from '@react-three/fiber'
+import { Suspense, useCallback, useEffect, useMemo, useRef, useState, type RefObject } from 'react'
+import { Canvas, useThree } from '@react-three/fiber'
 import { OrbitControls } from '@react-three/drei'
 import { Leva } from 'leva'
 import type { Group } from 'three'
@@ -14,6 +14,10 @@ import { SceneLights } from '@/scenes/SceneLights'
 import { SceneEffects } from '@/scenes/SceneEffects'
 import { SpellbookModel } from '@/scenes/spellbook/SpellbookModel'
 import { BookCameraRig } from '@/scenes/spellbook/BookCameraRig'
+import {
+  shouldAllowWheelZoom,
+  shouldEnableRotate,
+} from '@/scenes/spellbook/orbitSafety'
 import {
   useSceneControls,
   useSceneControlsFallback,
@@ -43,6 +47,39 @@ interface SceneCoreProps {
   onTurnPrevious: () => void
   onTurnNext: () => void
   isMobile: boolean
+}
+
+function OrbitSafetyGate({
+  controlsRef,
+}: {
+  controlsRef: RefObject<OrbitControlsImpl | null>
+}) {
+  const gl = useThree((state) => state.gl)
+
+  useEffect(() => {
+    const element = gl.domElement
+
+    const onWheel = (event: WheelEvent) => {
+      if (!shouldAllowWheelZoom(event.ctrlKey)) {
+        event.stopImmediatePropagation()
+      }
+    }
+
+    const onPointerDown = (event: PointerEvent) => {
+      const controls = controlsRef.current
+      if (!controls) return
+      controls.enableRotate = shouldEnableRotate(event)
+    }
+
+    element.addEventListener('wheel', onWheel, { capture: true })
+    element.addEventListener('pointerdown', onPointerDown, { capture: true })
+    return () => {
+      element.removeEventListener('wheel', onWheel, { capture: true })
+      element.removeEventListener('pointerdown', onPointerDown, { capture: true })
+    }
+  }, [controlsRef, gl])
+
+  return null
 }
 
 function SceneCore({
@@ -86,6 +123,7 @@ function SceneCore({
           onTurnNext={onTurnNext}
         />
       </Suspense>
+      <OrbitSafetyGate controlsRef={controlsRef} />
       <OrbitControls
         ref={controlsRef}
         makeDefault
@@ -188,6 +226,7 @@ export function SpellbookScene() {
       {import.meta.env.DEV && (
         <Leva collapsed={false} titleBar={{ title: 'Scene' }} />
       )}
+      {!isMobile && <p className={styles.hint}>{t.sceneHint}</p>}
       <Canvas
         className={styles.canvas}
         gl={{ alpha: true }}

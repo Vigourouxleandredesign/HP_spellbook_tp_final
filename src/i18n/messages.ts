@@ -48,6 +48,7 @@ export const messages = {
     bookLoadingLeft: 'Chargement des sorts…',
     bookLoadingRight: 'Ouverture du grimoire…',
     bookLight: 'Lumière',
+    sceneHint: 'Ctrl + clic pour tourner · Ctrl + molette pour zoomer',
   },
   en: {
     siteEyebrow: 'Harry Potter',
@@ -96,6 +97,7 @@ export const messages = {
     bookLoadingLeft: 'Loading spells…',
     bookLoadingRight: 'Opening the grimoire…',
     bookLight: 'Light',
+    sceneHint: 'Ctrl + click to look around · Ctrl + scroll to zoom',
   },
 } as const
 

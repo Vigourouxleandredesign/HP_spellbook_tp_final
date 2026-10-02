@@ -13,7 +13,7 @@
     "enrich": "node scripts/enrich-from-ehp.mjs && node scripts/synthesize-enrichment.mjs",
     "i18n:spells": "node scripts/build-spell-i18n.mjs",
     "preview": "node scripts/preview-prod.mjs",
-    "test:camera": "node --experimental-strip-types --test src/config/camera.test.ts"
+    "test:camera": "node --experimental-strip-types --test src/config/camera.test.ts src/scenes/spellbook/orbitSafety.test.ts src/scenes/spellbook/pageInkBridge.test.ts"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
