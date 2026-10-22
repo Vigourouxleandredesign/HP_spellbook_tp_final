@@ -1,4 +1,4 @@
-import { useT, useLocale } from '@/context/LocaleContext'
+import { useT, useLocale } from '@/hooks/useLocale'
 import type { Locale } from '@/i18n/locale'
 import styles from './Layout.module.css'
 

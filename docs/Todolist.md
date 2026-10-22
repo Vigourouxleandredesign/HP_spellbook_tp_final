@@ -26,7 +26,7 @@
 | ✅ | Premier fetch API `/v1/spells` | **04/09** |
 | ✅ | Pagination complète (~345 sorts) | **06/09** |
 | ✅ | README | **06/09** |
-| ➡️ | Déploiement Netlify | **22/10** *(fin de projet)* |
+| ✅ | Déploiement Netlify | **22/10** |
 
 **TP associé** : 04/09 (2h)
 
@@ -73,7 +73,7 @@ Corrections après tests : pose ouverte au boot (`ArmatureAction.001` à t=0) ; 
 | ✅ | Styles / esthétique + geste baguette | **18/10** |
 | ⬜ | Fallback CORS (`spells.json` local si besoin) | **18/10** |
 | ⬜ | Tests manuels complets | **20/10** |
-| ⬜ | Déploiement Netlify final | **22/10** · *Léandre — pas avant demande explicite* |
+| ✅ | Déploiement Netlify final (hpspellbookapi.netlify.app) | **22/10** |
 | ⬜ | Envoi mail à francois.gillet@vacataire.unc.nc | **23/10** · *Léandre uniquement* |
 
 **Buffer final** : week-end 18–19/10 + 21–22/10 · ⛔ Entreprise 09/10 → 20/10

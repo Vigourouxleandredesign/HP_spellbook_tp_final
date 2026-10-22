@@ -30,16 +30,21 @@ export function fitPerspectiveCameraToObject(
     center.y + maxDim * settings.fitElevation + settings.offsetY,
     center.z + distance + settings.offsetZ,
   )
-  camera.near = Math.max(distance / 100, 0.001)
-  camera.far = Math.max(distance * 100, 10)
-  camera.lookAt(
+  const target = new THREE.Vector3(
     center.x,
     center.y + settings.targetOffsetY,
     center.z,
   )
+  const viewScale = settings.viewDistanceScale ?? 1
+  if (viewScale !== 1) {
+    camera.position.sub(target).multiplyScalar(viewScale).add(target)
+  }
+  camera.near = Math.max(distance / 100, 0.001)
+  camera.far = Math.max(distance * 100, 10)
+  camera.lookAt(target)
   camera.updateProjectionMatrix()
 
-  return { center, distance, maxDim }
+  return { center, distance: distance * viewScale, maxDim }
 }
 
 export function applyOrbitLimits(

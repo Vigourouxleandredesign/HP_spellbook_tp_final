@@ -49,6 +49,7 @@ test('mobile : valeurs = second panneau Leva', () => {
     minDistanceScale: 0.5,
     maxDistanceScale: 2.55,
     modelRotationY: 0,
+    viewDistanceScale: 2.3,
   })
 })
 

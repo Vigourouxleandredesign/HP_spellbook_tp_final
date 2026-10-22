@@ -22,8 +22,8 @@ import {
   useSceneControls,
   useSceneControlsFallback,
 } from '@/hooks/useSceneControls'
-import { useLocale } from '@/context/LocaleContext'
-import { useSpellContext } from '@/context/SpellContext'
+import { useLocale } from '@/hooks/useLocale'
+import { useSpellContext } from '@/hooks/useSpellContext'
 import { useNarrowViewport } from '@/hooks/useNarrowViewport'
 import { useSpellNavigation } from '@/hooks/useSpellNavigation'
 import { bookCopyFromMessages } from '@/scenes/spellbook/bookCopy'
@@ -161,10 +161,6 @@ function DevSceneContent(props: BookSceneProps) {
     onRefitCamera: () => setFitKey((key) => key + 1),
   })
 
-  useEffect(() => {
-    setFitKey((key) => key + 1)
-  }, [props.isMobile])
-
   const handleModelReady = useCallback(() => {
     setFitKey((key) => key + 1)
   }, [])
@@ -184,10 +180,6 @@ function DevSceneContent(props: BookSceneProps) {
 function ProdSceneContent(props: BookSceneProps) {
   const [fitKey, setFitKey] = useState(0)
   const { lights, bloom, camera } = useSceneControlsFallback()
-
-  useEffect(() => {
-    setFitKey((key) => key + 1)
-  }, [props.isMobile])
 
   const handleModelReady = useCallback(() => {
     setFitKey((key) => key + 1)

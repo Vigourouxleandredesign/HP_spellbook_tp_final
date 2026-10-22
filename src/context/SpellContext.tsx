@@ -1,25 +1,10 @@
-import {
-  createContext,
-  useContext,
-  useMemo,
-  type ReactNode,
-} from 'react'
-import { useLocale } from '@/context/LocaleContext'
+import { useMemo, type ReactNode } from 'react'
+import { useLocale } from '@/hooks/useLocale'
+import { SpellContext, type SpellContextValue } from '@/hooks/useSpellContext'
 import { useSpells } from '@/hooks/useSpells'
-import { EMPTY_SPELL, type Spell } from '@/types/spell'
+import { EMPTY_SPELL } from '@/types/spell'
 import { resolvePageIndex } from '@/utils/findSpellIndex'
 import { localizeSpell } from '@/utils/localizeSpell'
-
-interface SpellContextValue {
-  spells: Spell[]
-  currentSpell: Spell
-  currentPageIndex: number
-  isLoading: boolean
-  error: string | null
-  refetch: () => void
-}
-
-const SpellContext = createContext<SpellContextValue | null>(null)
 
 interface SpellProviderProps {
   children: ReactNode
@@ -57,14 +42,4 @@ export function SpellProvider({ children, initialSlug }: SpellProviderProps) {
   return (
     <SpellContext.Provider value={value}>{children}</SpellContext.Provider>
   )
-}
-
-export function useSpellContext(): SpellContextValue {
-  const context = useContext(SpellContext)
-
-  if (!context) {
-    throw new Error('useSpellContext must be used within SpellProvider')
-  }
-
-  return context
 }

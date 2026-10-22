@@ -9,7 +9,7 @@ import {
   PAGE_INK_FADE_OUT_MS,
   pageInkBridge,
 } from '@/scenes/spellbook/pageInkBridge'
-import { useSpellPageTexture } from '@/scenes/spellbook/useSpellPageTexture'
+import { SpellPageTexture } from '@/scenes/spellbook/SpellPageTexture'
 import { WandCast } from '@/scenes/spellbook/WandCast'
 
 interface SpellSpreadProps {
@@ -103,14 +103,6 @@ function SpellPagePlane({
   inkOpacity: number
   onTurn: () => void
 }) {
-  const texture = useSpellPageTexture({
-    side,
-    spell,
-    isLoading,
-    copy,
-    locale,
-    gestureRevealed,
-  })
   const x = side === 'left' ? pageLayout.leftX : pageLayout.rightX
 
   return (
@@ -131,7 +123,6 @@ function SpellPagePlane({
     >
       <planeGeometry args={[pageLayout.planeWidth, pageLayout.planeHeight]} />
       <meshBasicMaterial
-        map={texture}
         color={0xffffff}
         transparent
         opacity={inkOpacity}
@@ -140,7 +131,16 @@ function SpellPagePlane({
         toneMapped={false}
         polygonOffset
         polygonOffsetFactor={-1}
-      />
+      >
+        <SpellPageTexture
+          side={side}
+          spell={spell}
+          isLoading={isLoading}
+          copy={copy}
+          locale={locale}
+          gestureRevealed={gestureRevealed}
+        />
+      </meshBasicMaterial>
     </mesh>
   )
 }

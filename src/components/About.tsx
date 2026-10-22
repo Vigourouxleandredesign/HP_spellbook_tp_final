@@ -1,4 +1,4 @@
-import { useLocale, useT } from '@/context/LocaleContext'
+import { useLocale, useT } from '@/hooks/useLocale'
 import styles from './About.module.css'
 
 export function About() {

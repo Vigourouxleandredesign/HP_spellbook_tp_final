@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
 import { LanguageSwitch } from '@/components/LanguageSwitch'
-import { useT } from '@/context/LocaleContext'
+import { useT } from '@/hooks/useLocale'
 import styles from './Layout.module.css'
 
 interface LayoutProps {

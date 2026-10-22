@@ -1,7 +1,5 @@
 import {
-  createContext,
   useCallback,
-  useContext,
   useEffect,
   useMemo,
   useState,
@@ -13,15 +11,8 @@ import {
   isLocale,
   type Locale,
 } from '@/i18n/locale'
-import { messages, type Messages } from '@/i18n/messages'
-
-interface LocaleContextValue {
-  locale: Locale
-  setLocale: (locale: Locale) => void
-  t: Messages
-}
-
-const LocaleContext = createContext<LocaleContextValue | null>(null)
+import { messages } from '@/i18n/messages'
+import { LocaleContext, type LocaleContextValue } from '@/hooks/useLocale'
 
 function readStoredLocale(): Locale {
   if (typeof window === 'undefined') return DEFAULT_LOCALE
@@ -54,16 +45,4 @@ export function LocaleProvider({ children }: { children: ReactNode }) {
   return (
     <LocaleContext.Provider value={value}>{children}</LocaleContext.Provider>
   )
-}
-
-export function useLocale(): LocaleContextValue {
-  const context = useContext(LocaleContext)
-  if (!context) {
-    throw new Error('useLocale must be used within LocaleProvider')
-  }
-  return context
-}
-
-export function useT(): Messages {
-  return useLocale().t
 }

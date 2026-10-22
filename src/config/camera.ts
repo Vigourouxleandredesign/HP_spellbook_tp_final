@@ -30,6 +30,7 @@ export const mobileCameraDefaults = {
   minDistanceScale: 0.5,
   maxDistanceScale: 2.55,
   modelRotationY: 0,
+  viewDistanceScale: 2.3,
 } as const
 
 export type SceneCameraSettings = {
@@ -45,6 +46,8 @@ export type SceneCameraSettings = {
   minDistanceScale: number
   maxDistanceScale: number
   modelRotationY: number
+  /** Recul le long de l'axe de visée (angle conservé). Mobile uniquement ; absent = 1. */
+  viewDistanceScale?: number
 }
 
 export function computeFitDistance(

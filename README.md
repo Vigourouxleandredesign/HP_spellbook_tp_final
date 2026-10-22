@@ -6,6 +6,8 @@ Projet **Front Avancé — MIAW** · Rendu final : **23/10/2026**
 
 L'utilisateur feuillette un grimoire 3D où chaque double-page présente un sort, avec recherche et navigation par URL. Les données proviennent de l'API [Potter DB](https://docs.potterdb.com/fr).
 
+**Site en ligne :** [hpspellbookapi.netlify.app](https://hpspellbookapi.netlify.app/)
+
 **Repo GitHub :** [HP_spellbook_tp_final](https://github.com/Vigourouxleandredesign/HP_spellbook_tp_final)
 
 ---
@@ -18,7 +20,7 @@ L'utilisateur feuillette un grimoire 3D où chaque double-page présente un sort
 | 1 — Fondations | ✅ | Vite, R3F, fetch API (~345 sorts) |
 | 2 — Livre 3D | ✅ | Feuilletage, mapping sort → page |
 | 3 — Recherche & UI | ✅ | Barre de recherche, filtrage |
-| 4 — Livraison | ➡️ | UI bilingue, mobile, gestes · Netlify / mail à faire |
+| 4 — Livraison | ✅ | UI bilingue, mobile, gestes · déployé sur Netlify |
 
 ---
 
@@ -54,6 +56,7 @@ Ouvre [http://localhost:5173](http://localhost:5173).
 | `npm run build` | Build production |
 | `npm run preview` | Preview prod (libère 4173 s’il est pris) |
 | `npm run lint` | ESLint |
+| `npm run test:camera` | Tests anti-régression (cadrage caméra, contrôles d'orbite, fondu d'encre) |
 | `npm run i18n:spells` | Reconstruire `spell-i18n.json` |
 | `npm run enrich` | Dump EHP + synthèse d’enrichment |
 
@@ -101,9 +104,9 @@ src/
 ├── components/             UI HTML (SearchBar, SpellControls, About…)
 ├── scenes/                 Canvas R3F (SpellbookScene, lumières, bloom)
 │   └── spellbook/          Modèle, pages canvas, geste baguette, caméra
-├── context/                SpellContext, LocaleContext
+├── context/                Providers (SpellProvider, LocaleProvider)
 ├── config/                 Defaults scène 3D (Leva / prod)
-├── hooks/                  useSpells, useSceneControls, useSpellNavigation
+├── hooks/                  useSpells, useSpellContext, useLocale, useSceneControls…
 ├── i18n/                   Messages FR / EN
 ├── data/                   Enrichment + i18n sorts + gestes (hors runtime réseau)
 ├── utils/                  filterSpells, localizeSpell, spellLightColor
@@ -154,17 +157,13 @@ Attributs mappés côté app : `slug`, `name`, `incantation`, `category`, `effec
 - Pages du livre localisées + overlay de gestes sourcés (livres, films, Hogwarts Legacy)
 - Caméra dézoomée sur mobile (≤ 768 px)
 
-### À venir
-
-- Déploiement Netlify + envoi du rendu (Léandre)
-
 ---
 
 ## Déploiement
 
-> Le déploiement Netlify sera réalisé en **fin de projet** (phase 4).
+Le site est déployé sur Netlify : [hpspellbookapi.netlify.app](https://hpspellbookapi.netlify.app/).
 
-Un fichier `netlify.toml` est déjà présent pour faciliter le déploiement :
+Configuration (`netlify.toml`) :
 
 - **Build command :** `npm run build`
 - **Publish directory :** `dist`
@@ -180,6 +179,8 @@ Un fichier `netlify.toml` est déjà présent pour faciliter le déploiement :
 | [`docs/arborescence.md`](docs/arborescence.md) | Navigation et parcours utilisateur |
 | [`docs/schema-donnees.md`](docs/schema-donnees.md) | Intégration API et modèle de données |
 | [`docs/Todolist.md`](docs/Todolist.md) | Suivi des tâches par phase |
+| [`docs/Desktop - 1.svg`](<docs/Desktop - 1.svg>) | Wireframe desktop |
+| [`docs/iPhone 16 & 17 Pro Max - 1.svg`](<docs/iPhone 16 & 17 Pro Max - 1.svg>) | Wireframe mobile |
 
 ---
 

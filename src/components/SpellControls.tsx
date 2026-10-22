@@ -1,5 +1,5 @@
-import { useT } from '@/context/LocaleContext'
-import { useSpellContext } from '@/context/SpellContext'
+import { useT } from '@/hooks/useLocale'
+import { useSpellContext } from '@/hooks/useSpellContext'
 import { useSpellNavigation } from '@/hooks/useSpellNavigation'
 import styles from './SpellControls.module.css'
 

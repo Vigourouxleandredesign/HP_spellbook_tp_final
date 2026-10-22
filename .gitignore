@@ -30,3 +30,6 @@ dist-ssr
 
 # Blender backups
 *.blend1
+
+# Notes internes de dev
+docs/camera-regression.md

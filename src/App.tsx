@@ -7,7 +7,8 @@ import {
   useNavigate,
   useParams,
 } from 'react-router-dom'
-import { SpellProvider, useSpellContext } from '@/context/SpellContext'
+import { SpellProvider } from '@/context/SpellContext'
+import { useSpellContext } from '@/hooks/useSpellContext'
 import { Layout } from '@/components/Layout'
 import { BookView } from '@/BookView'
 import { findSpellIndex } from '@/utils/findSpellIndex'

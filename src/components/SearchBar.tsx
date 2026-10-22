@@ -6,8 +6,8 @@ import {
   useState,
   type KeyboardEvent,
 } from 'react'
-import { useT } from '@/context/LocaleContext'
-import { useSpellContext } from '@/context/SpellContext'
+import { useT } from '@/hooks/useLocale'
+import { useSpellContext } from '@/hooks/useSpellContext'
 import { useSpellNavigation } from '@/hooks/useSpellNavigation'
 import { SEARCH_RESULT_LIMIT, filterSpells } from '@/utils/filterSpells'
 import styles from './SearchBar.module.css'

@@ -1,6 +1,6 @@
 import { useCallback, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { useSpellContext } from '@/context/SpellContext'
+import { useSpellContext } from '@/hooks/useSpellContext'
 import { useBookAnimationBridge } from '@/hooks/useBookAnimationBridge'
 import { bookAnimationBridge } from '@/scenes/spellbook/bookAnimationBridge'
 
